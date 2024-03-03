@@ -6,6 +6,7 @@
 
 * [Timestamp](https://www.youtube.com/live/r_ld5TdXRX0?si=_OVs_AlpdkO9qo4k)
 * [0:10:00](https://youtu.be/r_ld5TdXRX0?t=600) Bogdan's background
+* [0:19:47](https://youtu.be/r_ld5TdXRX0?t=1187) Quantum Computing Applications
 * [Timestamp](https://www.youtube.com/live/r_ld5TdXRX0?si=_OVs_AlpdkO9qo4k)
 
 
