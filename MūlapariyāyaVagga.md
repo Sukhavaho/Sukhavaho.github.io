@@ -12,7 +12,7 @@ The **Mūlapariyāya Vagga** is the first division of the Majjhima Nikāya (MN),
 2. **MN 2 - [Sabbāsava Sutta (All the Taints):](SabbāsavaSutta.md)**
    - This discourse outlines seven methods for eradicating mental defilements (āsavas), emphasizing the importance of right view, careful attention, and mindfulness.
 
-3. **MN 3 - [Dhammadāyāda Sutta (Heirs of the Dhamma):](DhammadāyaSutta.md)**
+3. **MN 3 - [Dhammadāyāda Sutta (Heirs of the Dhamma):](DhammadāyadaSutta.md)**
    - The Buddha exhorts the monks to become heirs of the Dhamma rather than heirs of material things, focusing on spiritual wealth over physical possessions.
 
 4. **MN 4 - Bhayabherava Sutta (Fear and Dread):**
