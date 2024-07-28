@@ -7,7 +7,7 @@ The **Majjhima Nikāya** (MN), or "Collection of Middle-Length Discourses," is t
 The Majjhima Nikāya is traditionally divided into three parts, each containing fifty suttas (with a few exceptions):
 
 1. **Mūlapaṇṇāsa (The First Fifty):**
-   - **Mūlapariyāya Vagga**: Fundamental teachings, including the Mūlapariyāya Sutta on the conceptual proliferation.
+   - **[Mūlapariyāya Vagga](MūlapariyāyaVagga.md)**: Fundamental teachings, including the Mūlapariyāya Sutta on the conceptual proliferation.
    - **Sīhanāda Vagga**: Includes the Sīhanāda Sutta, where the Buddha asserts the unique aspects of his teachings.
    - **Opamma Vagga**: Contains similes and metaphors, such as the Cūḷahatthipadopama Sutta (Simile of the Elephant's Footprint).
    - **Mahāyamaka Vagga**: Discusses pairs of contrasting topics, e.g., mind and matter.

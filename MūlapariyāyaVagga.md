@@ -6,7 +6,7 @@ The **Mūlapariyāya Vagga** is the first division of the Majjhima Nikāya (MN),
 
 #### Structure and Content:
 
-1. **MN 1 - Mūlapariyāya Sutta (The Root of All Things):**
+1. **MN 1 - [Mūlapariyāya Sutta (The Root of All Things):(MūlapariyāyaSutta.md)**
    - This sutta discusses the conceptual proliferation and how beings misperceive reality due to ignorance and mental constructs. It categorizes beings into ordinary persons, trainees, and arahants, detailing their respective perceptions.
 
 2. **MN 2 - Sabbāsava Sutta (All the Taints):**
