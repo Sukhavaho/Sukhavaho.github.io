@@ -1,10 +1,7 @@
-### Buddhism and Quantum Physics
+### Sutta Pitaka
 
-* [About Bogdan](/bogdan.md)
+* [Translators](/Translators.md)
 
-* [Analysis of Bogdan's DRBU Talk](analysis.md)
+* [Majjhima Nikāya](MajjhimaNikāya.md)
 
-* [Candidate Topics for Future Discussions](topics.md)
-
-* [Topics in Quantum Physics](quantum.md)
 
