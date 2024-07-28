@@ -1,5 +1,3 @@
-Back to [Index](index.md)
-
 ### Academic Perspective on the Majjhima Nikāya
 
 The **Majjhima Nikāya** (MN), or "Collection of Middle-Length Discourses," is the second book of the Sutta Pitaka in the Pāli Canon. It comprises 152 suttas, providing a comprehensive exploration of the Buddha's teachings. 
