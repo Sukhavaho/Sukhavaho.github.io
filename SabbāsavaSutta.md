@@ -4,6 +4,8 @@ Back to [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
 
 ### [Sutta Central](https://suttacentral.net/mn2)
 
+### [Sujato side-by-side](https://suttacentral.net/mn2/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
+
 ### Academic Perspective on the Sabbāsava Sutta
 
 The **Sabbāsava Sutta** (MN 2), translated as "All the Taints," is a key discourse in the Majjhima Nikāya that addresses the eradication of mental defilements (āsavas). This sutta outlines seven methods to overcome these taints, which are crucial for achieving liberation.
