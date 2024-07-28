@@ -1,3 +1,5 @@
+Back to [Index](index.md)
+
 The Majjhima Nikāya has been translated by several scholars and practitioners, making the profound teachings of the Buddha accessible to a wider audience. Here are ten notable translators known for their contributions to translating the Majjhima Nikāya into English:
 
 ### 1. **Bhikkhu Ñāṇamoli**
