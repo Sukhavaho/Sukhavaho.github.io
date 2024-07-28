@@ -1,4 +1,4 @@
-Back to [Majjhima Nikaya](MajjhimaNikāya.md)
+Back to [Sutta Piṭaka](SuttaPiṭaka.md) <- [Majjhima Nikaya](MajjhimaNikāya.md)
 
 ### Academic Perspective on the Mūlapariyāya Vagga
 

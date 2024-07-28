@@ -1,10 +1,12 @@
-Back to [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
+Back to [Sutta Piṭaka](SuttaPiṭaka.md) <- [Majjhima Nikāya](MajjhimaNikāya.md) <- [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
+
+## [SariputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
 ### [Digital Pāḷi Reader](https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.0.0.m)
 
-### [Sutta Central](https://suttacentral.net/mn1)
+#### [Sutta Central](https://suttacentral.net/mn1)
 
-### [Sujato side-by-side](https://suttacentral.net/mn1/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
+##### [Sujato side-by-side](https://suttacentral.net/mn1/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
 
 ### Academic Perspective on the Mūlapariyāya Sutta
 
