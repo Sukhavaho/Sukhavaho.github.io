@@ -1,5 +1,7 @@
 Back to [Sutta Piṭaka](SuttaPiṭaka.md) <- [Majjhima Nikaya](MajjhimaNikāya.md)
 
+# [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
+
 ### Academic Perspective on the Mūlapariyāya Vagga
 
 The **Mūlapariyāya Vagga** is the first division of the Majjhima Nikāya (MN), comprising ten discourses that lay the foundation for the Buddha’s teachings. These suttas are notable for their depth and their focus on fundamental aspects of Buddhist doctrine.

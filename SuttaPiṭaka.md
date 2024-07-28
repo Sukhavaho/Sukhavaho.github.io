@@ -1,5 +1,5 @@
 
-## [SariputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
+## [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
 
 ### Academic Perspective on the Sutta Piṭaka

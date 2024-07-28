@@ -1,6 +1,6 @@
 Back to [Sutta Piṭaka](SuttaPiṭaka.md) <- [Majjhima Nikāya](MajjhimaNikāya.md) <- [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
 
-## [SariputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
+# [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
 ### [Digital Pāḷi Rader](https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.1.0.m)
 
