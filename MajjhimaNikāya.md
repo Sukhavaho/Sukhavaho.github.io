@@ -1,5 +1,8 @@
+Back to [Sutta Piṭaka](SuttaPiṭaka.md)
 
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
+
+## Majjhimahima Nikāya
 
 ### Academic Perspective on the Majjhima Nikāya
 

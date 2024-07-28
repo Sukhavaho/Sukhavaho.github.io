@@ -2,6 +2,8 @@ Back to [Sutta Piṭaka](SuttaPiṭaka.md) <- [Majjhima Nikāya](MajjhimaNikāya
 
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
+## Sabbāsava Sutta
+
 ### [Digital Pāḷi Rader](https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.1.0.m)
 
 #### [Sutta Central](https://suttacentral.net/mn2)
