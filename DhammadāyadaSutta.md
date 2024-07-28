@@ -1,5 +1,7 @@
 Back to [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
 
+### [Digital Pāḷi Reader](https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.2.0.m)
+
 ### Academic Perspective on the Dhammadāyāda Sutta
 
 The **Dhammadāyāda Sutta** (MN 3), translated as "Heirs of the Dhamma," is a discourse in the Majjhima Nikāya where the Buddha instructs his monks to be heirs of his teachings (Dhamma) rather than heirs of material possessions. This sutta emphasizes the importance of prioritizing spiritual wealth over material wealth.
