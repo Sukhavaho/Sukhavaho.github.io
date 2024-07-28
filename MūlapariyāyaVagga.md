@@ -6,13 +6,13 @@ The **Mūlapariyāya Vagga** is the first division of the Majjhima Nikāya (MN),
 
 #### Structure and Content:
 
-1. **MN 1 - [Mūlapariyāya Sutta (The Root of All Things):(MūlapariyāyaSutta.md)**
+1. **MN 1 - [Mūlapariyāya Sutta (The Root of All Things):](MūlapariyāyaSutta.md)**
    - This sutta discusses the conceptual proliferation and how beings misperceive reality due to ignorance and mental constructs. It categorizes beings into ordinary persons, trainees, and arahants, detailing their respective perceptions.
 
-2. **MN 2 - Sabbāsava Sutta (All the Taints):**
+2. **MN 2 - [Sabbāsava Sutta (All the Taints):](SabbāsavaSutta.md)**
    - This discourse outlines seven methods for eradicating mental defilements (āsavas), emphasizing the importance of right view, careful attention, and mindfulness.
 
-3. **MN 3 - Dhammadāyāda Sutta (Heirs of the Dhamma):**
+3. **MN 3 - [Dhammadāyāda Sutta (Heirs of the Dhamma):](DhammadāyaSutta.md)**
    - The Buddha exhorts the monks to become heirs of the Dhamma rather than heirs of material things, focusing on spiritual wealth over physical possessions.
 
 4. **MN 4 - Bhayabherava Sutta (Fear and Dread):**

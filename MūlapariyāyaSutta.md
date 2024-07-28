@@ -1,3 +1,5 @@
+Back to [Majjhima Nikāya](MajjhimaNikāya.md)
+
 ### Academic Perspective on the Mūlapariyāya Sutta
 
 The **Mūlapariyāya Sutta** (MN 1), also known as "The Root of All Things," is the first discourse in the Majjhima Nikāya. This sutta delves into the nature of perception and conceptual proliferation (papañca), highlighting the differences in how various beings perceive and understand the world.
