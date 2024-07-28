@@ -1,4 +1,4 @@
-Back to [Majjhima Nikāya](MajjhimaNikāya.md)
+Back to [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
 
 ### Academic Perspective on the Sabbāsava Sutta
 
