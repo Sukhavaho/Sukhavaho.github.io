@@ -1,4 +1,4 @@
-Back to [Sutta Piṭaka](../SuttaPiṭaka.md)
+Back to [Sutta Piṭaka](/SuttaPiṭaka/SuttaPiṭaka.md)
 
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
