@@ -1,4 +1,4 @@
-Back to [SariputtAI](/index.md)
+Back to [SariputtAI](./index.md)
 
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
