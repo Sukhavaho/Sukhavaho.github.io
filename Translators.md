@@ -4,7 +4,7 @@ Back to [SariputtAI](/index.md)
 
 ## Translators
 
-The [Majjhima Nikāya](MajjhimaNikāya.md) has been translated by several scholars and practitioners, making the profound teachings of the Buddha accessible to a wider audience. Here are ten notable translators known for their contributions to translating the Majjhima Nikāya into English:
+The [Majjhima Nikāya](/MajjhimaNikāya/MajjhimaNikāya.md) has been translated by several scholars and practitioners, making the profound teachings of the Buddha accessible to a wider audience. Here are ten notable translators known for their contributions to translating the Majjhima Nikāya into English:
 
 ### 1. **Bhikkhu Ñāṇamoli**
 - **Major Work:** "The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikaya" (co-translated with Bhikkhu Bodhi)
