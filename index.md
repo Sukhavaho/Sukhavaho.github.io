@@ -3,10 +3,10 @@
 
 * [Translators](/Translators.md)
 * [Sutta Piṭaka](./SuttaPiṭaka/SuttaPiṭaka.md)
-    * [Majjhima Nikāya](MajjhimaNikāya.md)
-        * [Mūlapariyāya Vagga](MūlapariyāyaVagga.md)
-            * [Mūlapariyāya Sutta](MūlapariyāyaSutta.md)
-            * [Sabbāsava Sutta](SabbāsavaSutta.md)
-            * [Dhammadāyada Sutta](DhammadāyadaSutta.md)
+    * [Majjhima Nikāya](/SuttaPiṭaka/MajjhimaNikāya/MajjhimaNikāya.md)
+        * [Mūlapariyāya Vagga](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/MūlapariyāyaVagga.md)
+            * [Mūlapariyāya Sutta](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/MūlapariyāyaSutta.md)
+            * [Sabbāsava Sutta](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/SabbāsavaSutta.md)
+            * [Dhammadāyada Sutta](/SuttaPiṭaka/MajjhimaNikkāya/MūlapariyāyaVagga/DhammadāyadaSutta.md)
 
 
