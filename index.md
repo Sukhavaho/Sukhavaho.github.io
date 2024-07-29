@@ -7,6 +7,6 @@
         * [Mūlapariyāya Vagga](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/MūlapariyāyaVagga.md)
             * [Mūlapariyāya Sutta](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/MūlapariyāyaSutta.md)
             * [Sabbāsava Sutta](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/SabbāsavaSutta.md)
-            * [Dhammadāyada Sutta](/SuttaPiṭaka/MajjhimaNikkāya/MūlapariyāyaVagga/DhammadāyadaSutta.md)
+            * [Dhammadāyada Sutta](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/DhammadāyadaSutta.md)
 
 
