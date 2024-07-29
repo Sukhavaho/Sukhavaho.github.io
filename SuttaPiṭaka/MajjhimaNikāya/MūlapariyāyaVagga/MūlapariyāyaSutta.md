@@ -1,4 +1,4 @@
-Back to [Sutta Piṭaka](/SuttaPiṭaka/SuttaPiṭaka.md) <- [Majjhima Nikāya](/SuttaPiṭaka/MajjhimaNikāya/MajjhimaNikāya.md) <- [Mūlapariyāya Vagga](/SuttaPiṭaka/MajjhimaNikāya/MūlapariyāyaVagga/MūlapariyāyaVagga.md)
+Back to [SariputtAI](/index.md)
 
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
