@@ -13,7 +13,7 @@ The Sutta Piṭaka, one of the three collections of the Pāḷi Canon, is a key 
 The Sutta Piṭaka is divided into five Nikāyas (collections):
 
 1. **Dīgha Nikāya (Long Discourses)**: Contains 34 lengthy suttas, often elaborating on philosophical, ethical, and cosmological themes.
-2. **[Majjhima Nikāya (Middle-Length Discourses)](MajjhimaNikāya.md)**: Comprises 152 suttas of moderate length, addressing a wide range of topics from practical advice to deep doctrinal expositions.
+2. **[Majjhima Nikāya (Middle-Length Discourses)](./MajjhimaNikāya/MajjhimaNikāya.md)**: Comprises 152 suttas of moderate length, addressing a wide range of topics from practical advice to deep doctrinal expositions.
 3. **Saṃyutta Nikāya (Connected Discourses)**: Includes 7,762 shorter suttas grouped by theme, focusing on doctrinal and practical subjects, often in repetitive formats for memorization.
 4. **Aṅguttara Nikāya (Numerical Discourses)**: Features 9,557 suttas organized by numerical sets, presenting teachings in lists (e.g., three types of suffering, four noble truths) to aid learning and retention.
 5. **Khuddaka Nikāya (Minor Collection)**: A diverse collection of texts, including poems (e.g., Theragāthā, Therīgāthā), narratives (e.g., Jātaka tales), doctrinal treatises (e.g., Dhammapada, Udāna), and more.
