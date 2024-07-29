@@ -1,4 +1,3 @@
-
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
 ## Majjhimahima Nikāya
