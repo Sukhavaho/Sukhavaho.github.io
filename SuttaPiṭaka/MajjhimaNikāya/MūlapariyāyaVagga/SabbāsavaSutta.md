@@ -1,6 +1,6 @@
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
-## Sabbāsava Sutta
+## MN 2: Sabbāsava Sutta
 
 ### [Digital Pāḷi Rader](https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.1.0.m)
 

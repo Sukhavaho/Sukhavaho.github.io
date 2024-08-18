@@ -1,6 +1,6 @@
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
-## Mūlapariyāya Vagga
+## MN 1: Mūlapariyāya Vagga
 
 ### Academic Perspective on the Mūlapariyāya Vagga
 

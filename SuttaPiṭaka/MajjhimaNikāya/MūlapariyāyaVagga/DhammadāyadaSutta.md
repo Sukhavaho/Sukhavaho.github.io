@@ -1,6 +1,6 @@
 # [SariputtAI:](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
-## Dhammadāyada Sutta
+## MN 3: Dhammadāyada Sutta
 
 ### [Digital Pāḷi Reader](https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.2.0.m)
 
