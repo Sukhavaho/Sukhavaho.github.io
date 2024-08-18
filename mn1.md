@@ -278,29 +278,3 @@ The **Mūlapariyāya Sutta (MN 1)**, while not as widely known in the mainstream
 ### Conclusion:
 Though **MN 1** may not have the immediate cultural recognition of other religious texts, its influence on **Buddhist thought**, **meditation practices**, and the development of **non-dualistic philosophy** has had a far-reaching impact. It has shaped the way people approach the nature of the self and reality within Buddhist traditions, and through the globalization of Buddhist ideas, it has contributed to broader cultural and philosophical movements, including mindfulness, psychology, and interfaith dialogue on consciousness.
 
-## Summarize the Sankhya School of classical Indian phiolosophy
-Sāṅkhya is one of the six classical schools of Indian philosophy (ṣaḍ-darśanas) and is regarded as one of the oldest systems of thought in India, foundational to later developments in Hinduism, Buddhism, and Jainism. Its name, "Sāṅkhya," derives from the Sanskrit root "saṃkhyā," meaning "enumeration," reflecting its analytical approach to understanding the universe.
-
-### Key Features of Sāṅkhya:
-1. **Dualistic Philosophy**: Sāṅkhya posits a dualistic framework between two fundamental realities: **Puruṣa** (pure consciousness, the observer, or self) and **Prakṛti** (nature or matter). Puruṣa is eternal, unchanging, and passive, while Prakṛti is the dynamic, creative principle responsible for the material universe.
-
-2. **Evolution of the Universe**: According to Sāṅkhya, the entire physical world evolves from Prakṛti, driven by its three **guṇas** (qualities): sattva (balance, light, and goodness), rajas (activity, passion, and restlessness), and tamas (inertia, darkness, and ignorance). The interplay of these guṇas causes the manifestation of the physical and psychological universe.
-
-3. **Twenty-Five Tattvas**: Sāṅkhya explains the evolution of the universe through 25 fundamental principles (tattvas). These include:
-   - **Puruṣa** (pure consciousness)
-   - **Prakṛti** (primordial matter)
-   - The subsequent evolutes such as buddhi (intellect), ahaṃkāra (ego), manas (mind), and the senses (indriyas).
-
-4. **Liberation (Mokṣa)**: Sāṅkhya holds that the soul (puruṣa) is entangled in the material world due to ignorance (avidyā). Liberation is achieved by realizing the separation between puruṣa and prakṛti, recognizing the puruṣa as pure consciousness that is distinct from materiality. When this realization occurs, the cycle of rebirth (saṃsāra) ends, leading to mokṣa, or liberation.
-
-5. **Atheistic Tradition**: Unlike other schools such as Yoga or Vedānta, Sāṅkhya is often considered non-theistic or atheistic because it does not posit a creator god. Instead, it focuses on the self-contained processes of nature and consciousness.
-
-### Relation to Yoga:
-Sāṅkhya is closely associated with the **Yoga school of philosophy** (specifically, Patañjali's Yoga), which adopts Sāṅkhya's metaphysical framework but incorporates theistic and practical elements like meditation and devotion. While Sāṅkhya emphasizes theoretical knowledge for liberation, Yoga emphasizes disciplined practice (yoga) to attain the same goal.
-
-### Historical Significance:
-The earliest references to Sāṅkhya can be found in the **Mahābhārata** and later in **Sāṅkhyakārikā** by Īśvarakṛṣṇa (circa 4th century CE), which is the foundational text for the school. Sāṅkhya's ideas had a significant influence on various Indian traditions, including Buddhism and Jainism, particularly in their notions of causality, suffering, and liberation.
-
-Sāṅkhya’s clear, rational analysis of existence laid the groundwork for many of the metaphysical concepts found in later Indian thought.
-
-
