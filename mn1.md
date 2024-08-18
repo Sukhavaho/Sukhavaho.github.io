@@ -1,4 +1,4 @@
-# Mūlapariyāya Sutta
+# A conversation with [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) on the Mūlapariyāya Sutta
 
 ## Who are the primary translators of this Sutta into English?
 The **Mūlapariyāya Sutta** (MN 1) has been translated into English by several well-known translators of the Pāḷi Canon. Some of the primary translators include:
@@ -94,4 +94,77 @@ To translate the teachings of the **Mūlapariyāya Sutta** into practical advice
 5. **Deepen Understanding of Non-Self**: Reflect on how every phenomenon—whether mental or physical—is not owned by a self. Through this understanding, gradually release the habit of viewing the world as "mine" or "I."
 
 In summary, cultivate mindfulness, avoid rigid thinking, observe without attachment, and deepen your understanding of the impersonal nature of experience. This will help align your practice with the insights from MN 1.
+
+## Where are the commentaries of this Sutta?
+The **Mūlapariyāya Sutta** (MN 1) is accompanied by its traditional commentary in the **Papañcasūdanī**, which is the commentary on the Majjhima Nikāya written by the great commentator **Buddhaghosa**. Additionally, there are sub-commentaries (ṭīkā) that further elaborate on the meanings presented in the primary commentaries.
+
+### Sources of the Commentary:
+
+1. **Papañcasūdanī**:
+   - This is the most important and authoritative commentary on the Majjhima Nikāya, written by Buddhaghosa in the 5th century CE. The Papañcasūdanī provides detailed explanations, contextual information, and interpretations to clarify the sutta's meanings, terms, and doctrinal points. It is an invaluable resource for understanding the more subtle and difficult aspects of the Mūlapariyāya Sutta.
+
+2. **Sub-commentaries (Ṭīkās)**:
+   - Later scholars, such as **Dhammapāla**, expanded on Buddhaghosa's work with sub-commentaries. These sub-commentaries analyze and elaborate on the Papañcasūdanī, offering further insights and interpretations.
+
+### Where to Find the Commentaries:
+
+- **Pāḷi Text Society (PTS)** Publications: The PTS offers translations and critical editions of both the Majjhima Nikāya and its commentaries, including the Papañcasūdanī. These editions may not always be in English, so familiarity with Pāḷi is often necessary.
+  
+- **VRI (Vipassana Research Institute)** and **SuttaCentral**: These websites offer digital versions of the Pāḷi Canon and its commentaries. SuttaCentral may also include translations of commentarial texts or links to them.
+
+- **Buddhaghosa’s Work Translations**: While the Papañcasūdanī itself is not widely available in English, summaries and portions of the commentary may be found in some modern academic works or publications focusing on early Buddhism and Theravāda.
+
+These commentaries provide crucial insight into the doctrinal foundations of the Mūlapariyāya Sutta and help explain complex Pāḷi terminology and philosophical ideas.
+
+## Where are the sub-commentaries of this Sutta?
+The **Mūlapariyāya Sutta** (MN 1) is accompanied by its traditional commentary in the **Papañcasūdanī**, which is the commentary on the Majjhima Nikāya written by the great commentator **Buddhaghosa**. Additionally, there are sub-commentaries (ṭīkā) that further elaborate on the meanings presented in the primary commentaries.
+
+### Sources of the Commentary:
+
+1. **Papañcasūdanī**:
+   - This is the most important and authoritative commentary on the Majjhima Nikāya, written by Buddhaghosa in the 5th century CE. The Papañcasūdanī provides detailed explanations, contextual information, and interpretations to clarify the sutta's meanings, terms, and doctrinal points. It is an invaluable resource for understanding the more subtle and difficult aspects of the Mūlapariyāya Sutta.
+
+2. **Sub-commentaries (Ṭīkās)**:
+   - Later scholars, such as **Dhammapāla**, expanded on Buddhaghosa's work with sub-commentaries. These sub-commentaries analyze and elaborate on the Papañcasūdanī, offering further insights and interpretations.
+
+### Where to Find the Commentaries:
+
+- **Pāḷi Text Society (PTS)** Publications: The PTS offers translations and critical editions of both the Majjhima Nikāya and its commentaries, including the Papañcasūdanī. These editions may not always be in English, so familiarity with Pāḷi is often necessary.
+  
+- **VRI (Vipassana Research Institute)** and **SuttaCentral**: These websites offer digital versions of the Pāḷi Canon and its commentaries. SuttaCentral may also include translations of commentarial texts or links to them.
+
+- **Buddhaghosa’s Work Translations**: While the Papañcasūdanī itself is not widely available in English, summaries and portions of the commentary may be found in some modern academic works or publications focusing on early Buddhism and Theravāda.
+
+These commentaries provide crucial insight into the doctrinal foundations of the Mūlapariyāya Sutta and help explain complex Pāḷi terminology and philosophical ideas.
+
+## Please list other Suttas that are related to this one.
+The **Mūlapariyāya Sutta** (MN 1) explores the foundational themes of perception, conceptualization, and the nature of phenomena, which are recurrent themes throughout the Pāli Canon. Several other suttas deal with related concepts, particularly the processes of perception, the nature of consciousness, and the development of wisdom. Here are some of the most closely related suttas:
+
+### 1. **Bāhiya Sutta (Ud 1.10)**  
+   - **Relation**: This sutta discusses direct perception and the cessation of conceptual proliferation, which mirrors the Mūlapariyāya Sutta’s emphasis on non-conceptual awareness. In the Bāhiya Sutta, the Buddha instructs Bāhiya to perceive the world without mental elaboration, directly seeing things as they are: “In the seen, there is only the seen...”
+
+### 2. **Mahānidāna Sutta (DN 15)**  
+   - **Relation**: This sutta explores dependent origination (paṭicca-samuppāda) in depth, especially focusing on how perception and consciousness arise. Like the Mūlapariyāya Sutta, it highlights how perception leads to conceptualization, craving, and suffering, and how understanding the causal chain can lead to liberation.
+
+### 3. **Sabbāsava Sutta (MN 2)**  
+   - **Relation**: The Sabbāsava Sutta deals with the removal of all taints (āsavas), emphasizing the importance of correct understanding and perception. It echoes the Mūlapariyāya Sutta’s theme of recognizing and abandoning distorted views and misperceptions, which lead to suffering.
+
+### 4. **Kaccānagotta Sutta (SN 12.15)**  
+   - **Relation**: This sutta discusses the middle way between eternalism and annihilationism and how right view arises through the correct understanding of dependent origination. Like the Mūlapariyāya Sutta, it examines how conceptualization and attachment to views lead to misunderstanding reality.
+
+### 5. **Madhupiṇḍika Sutta (MN 18)**  
+   - **Relation**: This sutta is closely related to the themes of perception and mental proliferation (papañca). It describes how contact leads to perception, feeling, and the subsequent proliferation of thoughts, which leads to suffering—much like the conceptualization process described in the Mūlapariyāya Sutta.
+
+### 6. **Cūḷavedalla Sutta (MN 44)**  
+   - **Relation**: This sutta explores various aspects of perception, feeling, and consciousness in detail, which aligns with the Mūlapariyāya Sutta's focus on how perception and conceptualization shape our experience of reality.
+
+### 7. **Chachakka Sutta (MN 148)**  
+   - **Relation**: This sutta focuses on the six sense bases and how contact at the sense doors leads to perception, feeling, and mental proliferation. It offers a practical examination of the process of perception and how it can be a source of suffering, similar to the themes in the Mūlapariyāya Sutta.
+
+### 8. **Aṭṭhakanāgara Sutta (MN 52)**  
+   - **Relation**: This sutta discusses the development of insight through the understanding of the impermanent and non-self nature of phenomena, a core theme that the Mūlapariyāya Sutta also touches upon, particularly in how conceptualization and identification with phenomena lead to suffering.
+
+### Summary of the Connection:
+The **Mūlapariyāya Sutta** is primarily concerned with the way beings perceive and conceptualize phenomena and how this leads to attachment and suffering. The suttas mentioned above share a similar focus on perception, the arising of mental phenomena, and the path to wisdom and liberation by directly understanding the true nature of reality without the distortions of conceptualization and attachment. They all contribute to a broader understanding of how perception, contact, and consciousness are intertwined in the cycle of suffering and liberation.
+
 
