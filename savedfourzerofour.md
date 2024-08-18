@@ -1,3 +1,6 @@
+---
+permalink: /404.html
+---
 Diṭṭhe na diṭṭhamattaṃ bhavissati
 
 Aniccā vata saṅkhārā
