@@ -126,7 +126,7 @@ To translate the teachings of the **Mūlapariyāya Sutta** into practical advice
 
 In summary, cultivate mindfulness, avoid rigid thinking, observe without attachment, and deepen your understanding of the impersonal nature of experience. This will help align your practice with the insights from MN 1.
 
-## Where are the commentaries of this Sutta?
+## Where are the commentaries on this Sutta?
 The **Mūlapariyāya Sutta** (MN 1) is accompanied by its traditional commentary in the **Papañcasūdanī**, which is the commentary on the Majjhima Nikāya written by the great commentator **Buddhaghosa**. Additionally, there are sub-commentaries (ṭīkā) that further elaborate on the meanings presented in the primary commentaries.
 
 ### Sources of the Commentary:
@@ -146,6 +146,63 @@ The **Mūlapariyāya Sutta** (MN 1) is accompanied by its traditional commentary
 - **Buddhaghosa’s Work Translations**: While the Papañcasūdanī itself is not widely available in English, summaries and portions of the commentary may be found in some modern academic works or publications focusing on early Buddhism and Theravāda.
 
 These commentaries provide crucial insight into the doctrinal foundations of the Mūlapariyāya Sutta and help explain complex Pāḷi terminology and philosophical ideas.
+
+## Please summarize the commendary on this Sutta in the Papañcasūdanī from Buddhagosa
+The **Papañcasūdanī**, the commentary on the Majjhima Nikāya by the great Theravāda scholar **Buddhaghosa**, provides a detailed exegesis of the **Mūlapariyāya Sutta (MN 1)**. In this commentary, Buddhaghosa offers explanations of the sutta’s key concepts, clarifies difficult passages, and provides insights from the Theravāda Abhidhamma and earlier commentarial traditions. Below is a summary of key points from his commentary on MN 1:
+
+### Key Points from Buddhaghosa's Commentary:
+
+1. **Explaining Perception and Conceptualization**:
+   - Buddhaghosa clarifies how ordinary beings perceive and conceptualize phenomena (such as earth, water, devas, Brahmā, etc.), identifying them as “mine” and building a sense of self around them. He explains the habitual process of misperception and attachment that leads to suffering, elaborating on the Pāli terms and mental processes involved.
+
+2. **Levels of Understanding**:
+   - Buddhaghosa further elaborates on the distinctions between different levels of understanding in the sutta—ordinary people, disciples in training (sekha), arahants, and the Buddha. He expands on how each of these groups interacts with the same phenomena but with increasingly refined perception, moving from delusion toward wisdom and liberation.
+   - He emphasizes the progressive purification of perception that leads to the full understanding of the non-self nature of phenomena, as seen in arahants and the Buddha.
+
+3. **Role of Conceit (Māna)**:
+   - A key focus of Buddhaghosa’s commentary is the role of **conceit (māna)** in perpetuating delusion. He explains that even subtle forms of conceit, such as the sense of superiority, equality, or inferiority, are rooted in false identification with the aggregates and must be abandoned to attain liberation.
+
+4. **Non-Proliferation (Papañca)**:
+   - The commentary goes into detail on the concept of **papañca**, or mental proliferation. Buddhaghosa describes how conceptual proliferation leads to the entanglement of the mind in craving and views, obstructing clear insight. He underscores that liberation requires the cessation of this proliferation, which is tied to the mistaken perception of self and objects.
+
+5. **Transcendence by the Buddha**:
+   - Buddhaghosa explains the unique perception of the Buddha as described in the sutta. He elaborates on how the Buddha transcends even the most subtle forms of conceptualization and attachment. The Buddha’s complete and perfect understanding is beyond dualistic thinking and mental proliferation, as he is fully awakened to the true nature of reality.
+
+6. **Doctrinal Clarifications**:
+   - The commentary provides doctrinal clarifications based on Abhidhamma teachings, linking the insights of the sutta to the broader framework of Theravāda philosophy. Buddhaghosa draws connections between the mental processes described in MN 1 and the Theravāda understanding of consciousness, dependent origination, and the aggregates.
+
+### Summary:
+Buddhaghosa’s **Papañcasūdanī** commentary on the **Mūlapariyāya Sutta** elaborates on the sutta's exploration of perception, conceptualization, and the path to liberation. He clarifies how ordinary beings fall into delusion through identification with phenomena and the role of mental proliferation in this process. Buddhaghosa highlights the progressive understanding of phenomena that leads to liberation, culminating in the Buddha’s unique non-conceptual awareness. His commentary bridges the sutta's teachings with the deeper doctrinal insights of the Theravāda tradition, particularly through the lenses of the Abhidhamma and early commentarial thought.
+
+## Please summarize the sub-commentaries that analyze and elaborate on the Papañcasūdanī
+The **sub-commentaries (ṭīkā)** on the **Papañcasūdanī**, which itself is a commentary on the Majjhima Nikāya by **Buddhaghosa**, provide further analysis, elaboration, and clarification on the original commentary. These sub-commentaries delve deeper into the intricate points raised by Buddhaghosa, often addressing linguistic nuances, doctrinal interpretations, and specific points of controversy or complexity.
+
+### Key Themes in the Sub-Commentaries on the Papañcasūdanī (Regarding MN 1):
+
+1. **Clarification of Buddhaghosa’s Explanations**:
+   - The sub-commentaries often clarify Buddhaghosa’s detailed explanations, especially where he uses complex or archaic Pāli language. They break down technical terms and provide simpler explanations for readers or monastics who may struggle with Buddhaghosa’s dense style.
+   - Specific passages of the Mūlapariyāya Sutta are scrutinized, with sub-commentators offering their own perspectives or reinforcing Buddhaghosa’s interpretation, especially on points like mental proliferation (papañca) and the perception of phenomena.
+
+2. **Doctrinal Precision**:
+   - Sub-commentators engage in doctrinal precision, ensuring that the interpretations align with broader **Theravāda Abhidhamma** and **sutta** teachings. They sometimes critique or expand on Buddhaghosa’s explanations, particularly concerning the nature of perception, consciousness, and non-self.
+   - In cases where Buddhaghosa’s commentary leaves certain points open-ended, the sub-commentaries attempt to resolve ambiguities or offer alternative readings based on other canonical sources.
+
+3. **Expansion on Mental Proliferation (Papañca)**:
+   - Sub-commentaries elaborate on Buddhaghosa's discussion of **papañca**—mental proliferation—and its role in delusion. They provide examples from other texts and further explore how conceptual proliferation entangles beings in craving, clinging, and views. There is a focus on how advanced practitioners can begin to dismantle these habitual mental processes.
+   - Some sub-commentators go deeper into how **papañca** relates to the different levels of defilements (kilesas), detailing how specific mental formations contribute to suffering.
+
+4. **Analysis of the Stages of Perception**:
+   - The sub-commentaries offer a more refined analysis of the stages of perception described in the sutta (from the ordinary person to the Buddha), with detailed discussions on how each stage progressively eliminates misconceptions about reality. They further explain how each stage represents a deeper insight into the non-self nature of phenomena and the cessation of attachment.
+
+5. **Philosophical and Ethical Implications**:
+   - These texts often explore the ethical implications of the teachings found in the Mūlapariyāya Sutta. They examine how abandoning conceptual proliferation and mistaken perceptions contributes to ethical conduct (sīla) and mental cultivation (bhāvanā). This aligns with the Theravāda emphasis on **sīla, samādhi, and paññā** (virtue, concentration, and wisdom) as the path to liberation.
+
+6. **Scriptural Cross-Referencing**:
+   - Sub-commentators frequently cross-reference other suttas and canonical texts to support or elucidate points raised by Buddhaghosa. This helps in contextualizing the Mūlapariyāya Sutta within the broader framework of the Pāli Canon, linking it to teachings found in the **Dīgha Nikāya**, **Saṃyutta Nikāya**, and **Abhidhamma** texts.
+
+### Conclusion:
+The sub-commentaries on the **Papañcasūdanī** regarding the **Mūlapariyāya Sutta** primarily aim to clarify, refine, and expand upon the intricate doctrinal points that Buddhaghosa raises. They focus on deepening the understanding of **perception**, **conceptualization**, and **mental proliferation**, ensuring that the teachings align with the Theravāda tradition's broader doctrinal and ethical framework. By addressing ambiguities, providing cross-references, and enhancing doctrinal precision, the sub-commentators help further illuminate the profound insights of the Mūlapariyāya Sutta for advanced practitioners and scholars.
+
 
 ## Please list other Suttas that are related to this one.
 The **Mūlapariyāya Sutta** (MN 1) explores the foundational themes of perception, conceptualization, and the nature of phenomena, which are recurrent themes throughout the Pāli Canon. Several other suttas deal with related concepts, particularly the processes of perception, the nature of consciousness, and the development of wisdom. Here are some of the most closely related suttas:
