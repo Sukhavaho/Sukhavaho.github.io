@@ -16,10 +16,10 @@ In conclusion, MN 1 is indeed considered part of the Early Buddhist Texts, refle
 ## Who are the primary translators of this Sutta into English?
 The **Mūlapariyāya Sutta** (MN 1) has been translated into English by several well-known translators of the Pāḷi Canon. Some of the primary translators include:
 
-1. **Bhikkhu Ñāṇamoli and Bhikkhu Bodhi**: Their translation appears in *The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikāya*, a highly respected and widely used version.
-2. **I.B. Horner**: A pioneering scholar of the Pāḷi Canon, she translated this sutta in her multi-volume work, *The Collection of the Middle Length Sayings*.
-3. **Thanissaro Bhikkhu**: An influential modern translator and monk, his translations are available online, notably on the Access to Insight website and his own website.
-4. **Bhikkhu Sujato**: A contemporary monk whose translations are accessible online, notably via SuttaCentral.
+1. **[Bhikkhu Ñāṇamoli and Bhikkhu Bodhi](https://suttacentral.net/mn1/en/bodhi?lang=en&reference=none&highlight=false)**: Their translation appears in *The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikāya*, a highly respected and widely used version.
+2. **[I.B. Horner](https://suttacentral.net/mn1/en/horner?lang=en&reference=none&highlight=false)**: A pioneering scholar of the Pāḷi Canon, she translated this sutta in her multi-volume work, *The Collection of the Middle Length Sayings*.
+3. **[Thanissaro Bhikkhu](https://www.accesstoinsight.org/ati/tipitaka/mn/mn.001.than.html)**: An influential modern translator and monk, his translations are available online, notably on the Access to Insight website and his own website.
+4. [**Bhikkhu Sujato**](https://suttacentral.net/mn1/en/sujato?lang=en&layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin): A contemporary monk whose translations are accessible online, notably via SuttaCentral.
 
 These translators provide slightly different interpretations of the text, reflecting their approaches and linguistic choices.
 
