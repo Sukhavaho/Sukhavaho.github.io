@@ -1,3 +1,61 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        h1 {
+            font-size: 72px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>404</h1>
+    <p>Oops! This page doesn't seem to exist.</p>
+    <p id="line1"></p>
+    <p id="line2"></p>
+    <p id="line3"></p>
+    <p id="line4"></p>
 
-Diṭṭhe na diṭṭhamattaṃ bhavissati
+    <script>
+        // Array of random lines of text
+        const lines = [
+            "Everything is impermanent, even web pages.",
+            "Looks like you took a wrong turn, friend.",
+            "This is not the page you're looking for.",
+            "Breathe deeply, and try again.",
+            "The path may be unclear, but you're not lost.",
+            "Have patience, the content will come.",
+            "You have reached the void; there's nothing here.",
+            "All things arise and pass away... so did this page."
+        ];
+
+        // Shuffle the array and pick 4 random lines
+        let shuffledLines = lines.sort(() => 0.5 - Math.random()).slice(0, 4);
+
+        // Assign the random lines to the <p> elements
+        document.getElementById('line1').textContent = shuffledLines[0];
+        document.getElementById('line2').textContent = shuffledLines[1];
+        document.getElementById('line3').textContent = shuffledLines[2];
+        document.getElementById('line4').textContent = shuffledLines[3];
+    </script>
+</body>
+</html>
+```
+
+
 
