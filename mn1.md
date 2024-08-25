@@ -154,11 +154,11 @@ To translate the teachings of the **Mūlapariyāya Sutta** into practical advice
 In summary, cultivate mindfulness, avoid rigid thinking, observe without attachment, and deepen your understanding of the impersonal nature of experience. This will help align your practice with the insights from MN 1.
 
 ## Where are the commentaries on this Sutta?
-The **Mūlapariyāya Sutta** (MN 1) is accompanied by its traditional commentary in the **Papañcasūdanī**, which is the commentary on the Majjhima Nikāya written by the great commentator **Buddhaghosa**. Additionally, there are sub-commentaries (ṭīkā) that further elaborate on the meanings presented in the primary commentaries.
+The **Mūlapariyāya Sutta** (MN 1) is accompanied by its traditional commentary in the **[Papañcasūdanī](https://www.buddhism.hku.hk/publication-post/papancasudani-commentary/)**, which is the commentary on the Majjhima Nikāya written by the great commentator **Buddhaghosa**. Additionally, there are sub-commentaries (ṭīkā) that further elaborate on the meanings presented in the primary commentaries.
 
 ### Sources of the Commentary:
 
-1. **Papañcasūdanī**:
+1. **[Papañcasūdanī](https://www.buddhism.hku.hk/publication-post/papancasudani-commentary/)**:
    - This is the most important and authoritative commentary on the Majjhima Nikāya, written by Buddhaghosa in the 5th century CE. The Papañcasūdanī provides detailed explanations, contextual information, and interpretations to clarify the sutta's meanings, terms, and doctrinal points. It is an invaluable resource for understanding the more subtle and difficult aspects of the Mūlapariyāya Sutta.
 
 2. **Sub-commentaries (Ṭīkās)**:
@@ -328,4 +328,104 @@ The **Mūlapariyāya Sutta (MN 1)**, while not as widely known in the mainstream
 
 ### Conclusion:
 Though **MN 1** may not have the immediate cultural recognition of other religious texts, its influence on **Buddhist thought**, **meditation practices**, and the development of **non-dualistic philosophy** has had a far-reaching impact. It has shaped the way people approach the nature of the self and reality within Buddhist traditions, and through the globalization of Buddhist ideas, it has contributed to broader cultural and philosophical movements, including mindfulness, psychology, and interfaith dialogue on consciousness.
+
+## Let's discuss Sankhya briefly
+The **Sāṅkhya** tradition is one of the six classical schools of Indian philosophy and is renowned for its dualistic metaphysics. According to Sāṅkhya, the framework of reality is primarily built upon two eternal principles: **Puruṣa** and **Prakṛti**.
+
+### 1. **Puruṣa** (Consciousness):
+Puruṣa refers to pure consciousness or the self, which is inactive, unchanging, and eternal. It is the "observer" or "witness" of reality but is distinct from the material world and its modifications. Puruṣa does not engage in any actions, nor is it subject to suffering or change. In Sāṅkhya thought, there are many individual Puruṣas, each representing the true self of an individual.
+
+### 2. **Prakṛti** (Matter):
+Prakṛti is the principle of materiality, the primordial substance from which all physical and mental phenomena arise. It is unconscious, dynamic, and constantly undergoing change. Prakṛti is composed of three **guṇas** (qualities or constituents):
+   - **Sattva** (purity, lightness, clarity)
+   - **Rajas** (activity, passion, movement)
+   - **Tamas** (darkness, inertia, heaviness)
+
+These three guṇas are always in a state of tension and interaction, and their varying combinations give rise to all forms of the manifest world, including the mind, senses, and body.
+
+### The Evolution of the Universe:
+In Sāṅkhya, the entire cosmos is explained as an evolution of Prakṛti. When Prakṛti comes into contact with Puruṣa, the equilibrium of the guṇas is disturbed, leading to the manifestation of the universe. This process is called **evolution** (pariṇāma).
+
+From Prakṛti evolve:
+1. **Mahāt** (cosmic intellect or buddhi): The first product of Prakṛti, representing intelligence and discernment.
+2. **Ahaṅkāra** (ego principle): The sense of "I," the individuating factor that leads to the formation of the individual mind and the sense of self.
+3. From Ahaṅkāra, two further evolutions occur:
+   - The **manas** (mind): The organizing principle of perception and cognition.
+   - The **indriyas** (senses) and **tanmātras** (subtle elements): The senses (five of action and five of perception) and the subtle forms of the elements (sound, touch, form, taste, and smell).
+
+From these tanmātras evolve the **mahābhūtas** (gross elements): earth, water, fire, air, and ether, which constitute the material world.
+
+### The Goal in Sāṅkhya:
+The ultimate goal in Sāṅkhya is **kaivalya** (liberation), which involves the realization that the self (Puruṣa) is distinct from Prakṛti. Due to ignorance (avidyā), the self mistakenly identifies with the body, mind, and the material world. Liberation is achieved when Puruṣa recognizes its separation from Prakṛti and returns to its pure, isolated state as the witness.
+
+### Summary:
+The Sāṅkhya framework of reality can be summarized as a dualistic interplay between consciousness (Puruṣa) and materiality (Prakṛti), where all experiences, thoughts, and phenomena are products of the dynamic interaction of the guṇas in Prakṛti. Puruṣa, however, remains untouched by these processes, and liberation is the realization of this distinction.
+
+## Tell me more about the 25 Tattvas
+The **25 Tattvas** (principles or elements) in **Sāṅkhya** philosophy represent the framework through which reality is understood. These tattvas systematically categorize the fundamental components of the universe, providing insight into how the material and mental worlds emerge from the interaction of **Puruṣa** (consciousness) and **Prakṛti** (matter).
+
+### Breakdown of the 25 Tattvas:
+
+1. **Puruṣa** (Pure Consciousness):
+   - **1. Puruṣa**: The eternal, unchanging, passive observer, separate from all materiality and action. It is the individual soul or consciousness that is aware of experience but does not partake in it.
+
+2. **Prakṛti** (Primordial Matter):
+   - **2. Prakṛti**: The fundamental, undifferentiated matter. It is unmanifested and composed of the three **guṇas** (sattva, rajas, tamas) in equilibrium. When this balance is disturbed, creation begins.
+
+### The Evolutionary Process of Prakṛti:
+From the interaction of Prakṛti with Puruṣa, the remaining 23 tattvas arise, constituting both the physical and mental aspects of the universe.
+
+#### **First Stage - Buddhi (Intellect) and Ahaṅkāra (Ego)**
+
+3. **Buddhi (Mahat)**: Cosmic intelligence or intellect. Buddhi is the first manifestation from Prakṛti. It is responsible for wisdom, discernment, and understanding. It allows for discrimination between real and unreal, eternal and temporal.
+
+4. **Ahaṅkāra**: The ego principle. Ahaṅkāra arises from Buddhi and represents the sense of "I" or individuality. It is the source of the false identification of Puruṣa with Prakṛti.
+
+   Ahaṅkāra further divides into three categories, based on the predominance of one of the guṇas:
+   - **Sāttvika Ahaṅkāra**: Predominantly influenced by Sattva, it leads to the creation of the mind and the sense organs.
+   - **Rājasa Ahaṅkāra**: Influenced by Rajas, it gives rise to the organs of action.
+   - **Tāmasa Ahaṅkāra**: Predominantly Tamas, it generates the tanmātras (subtle elements).
+
+#### **Second Stage - Mind and Senses**
+
+5. **Manas (Mind)**: Arising from Sāttvika Ahaṅkāra, manas is responsible for coordinating sensory inputs and processing them into coherent thoughts. It acts as an intermediary between the sense organs and the intellect.
+
+6-10. **Five Jñānendriyas (Organs of Perception)**: These are the five sensory faculties that allow perception of the external world.
+   - **Sight** (cakṣu)
+   - **Hearing** (śrotra)
+   - **Smell** (ghrāṇa)
+   - **Taste** (rasana)
+   - **Touch** (tvak)
+
+11-15. **Five Karmendriyas (Organs of Action)**: These are the faculties responsible for physical action.
+   - **Speech** (vāk)
+   - **Grasping** (pāṇi)
+   - **Movement** (pāda)
+   - **Excretion** (pāyu)
+   - **Reproduction** (upastha)
+
+#### **Third Stage - Subtle and Gross Elements**
+
+16-20. **Five Tanmātras (Subtle Elements)**: These are the subtle building blocks of sensory experience, arising from Tāmasa Ahaṅkāra. They are not perceivable in their raw form but are the underlying essences of sensation.
+   - **Sound** (śabda)
+   - **Touch** (sparśa)
+   - **Form/Color** (rūpa)
+   - **Taste** (rasa)
+   - **Smell** (gandha)
+
+21-25. **Five Mahābhūtas (Gross Elements)**: These are the five gross elements that make up the physical universe, evolved from the tanmātras.
+   - **Ether (Ākāśa)**: The element corresponding to sound.
+   - **Air (Vāyu)**: The element corresponding to touch.
+   - **Fire (Tejas)**: The element corresponding to form and sight.
+   - **Water (Apas)**: The element corresponding to taste.
+   - **Earth (Pṛthvī)**: The element corresponding to smell.
+
+### Overview:
+
+- **Puruṣa** is the passive witness, and **Prakṛti** is the dynamic force that evolves into the material world.
+- The evolution starts with **Buddhi**, then **Ahaṅkāra**, which gives rise to the mind, senses, and elements.
+- These 25 tattvas together represent the entire framework of existence: the subjective self (Puruṣa) and the objective universe (Prakṛti) that encompasses both the mind and matter.
+
+In the **Sāṅkhya** system, liberation (mokṣa) occurs when the individual soul (Puruṣa) realizes its distinction from Prakṛti and its manifestations, transcending identification with the 23 evolving tattvas to attain its pure, liberated state.
+
 
