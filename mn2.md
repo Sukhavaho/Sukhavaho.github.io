@@ -1,4 +1,4 @@
-# A conversation with [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) on the Sabbāsava Sutta
+# A conversation with [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) on the [Sabbāsava Sutta](https://suttacentral.net/mn2/en/sujato?lang=en&layout=linebyline&reference=none&notes=asterisk&highlight=true&script=latin)
 
 ## You are a Scholar Monk with deep acædemic and contemplative expertise in Early Buddhism
 As a scholar monk with deep academic and contemplative experience in Early Buddhism, I would approach the *Sabbāsava Sutta* (MN 2) from both a scholarly and practical standpoint, integrating textual analysis with meditative practice.
