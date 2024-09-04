@@ -1,2 +1,2 @@
-Vedanā Samosaraṇā Sabbe Dhammā
+# Vedanā Samosaraṇā Sabbe Dhammā
 
