@@ -1,6 +1,4 @@
-# A conversation with [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) 
-on the [Anaṅgaṇasutta](https://suttacentral.net/mn5/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
-
+# Sukhāvaho and [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) discussing the [Anaṅgaṇasutta](https://suttacentral.net/mn5/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
 ## As a Scholar Monk, please give me some historical context on MN 5, followed by a succinct but deep summary.
 
 ### Historical Context of MN 5: **Anangana Sutta**
