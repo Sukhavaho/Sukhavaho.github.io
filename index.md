@@ -3,6 +3,25 @@
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+**Pañha:** Kiṃ nāma sabbaṃ khādati, sabbaṃ bhañjati, sabbaṃ gilati?
+
+**Vissajjana:** Kālo!
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+**Pañha:** Kiṁkāraṇā bhikkhu paññaṁ suttantaṁ na bhajati?  
+
+**Vissajjana:** Rāgaṁ na uppādetuṁ icchati!  
 
 
 &nbsp;
@@ -11,18 +30,9 @@
 &nbsp;
 &nbsp;
 
-**Q:** Kiṁkāraṇā bhikkhu paññaṁ suttantaṁ na bhajati?  
-**A:** Rāgaṁ na uppādetuṁ icchati!  
+**Pañha:** Kiṁkāraṇā Buddhā vanasaṇḍe rahassaṁ na kathenti?  
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-**Q:** Kiṁkāraṇā Buddhā vanasaṇḍe rahassaṁ na kathenti?  
-**A:** Rukkho pi rāgaṁ uppādetuṁ sakkoti!
+**Vissajjana:** Rukkho pi rāgaṁ uppādetuṁ sakkoti!
 
 &nbsp;
 &nbsp;
@@ -30,6 +40,7 @@
 &nbsp;
 &nbsp;
 
-**Q:** Kiṁkāraṇā bhāvanācariyo nidhānaṁ agamāsi?  
-**A:** Samatalaṁ paricchindituṁ!
+**Pañha:** Kiṁkāraṇā bhāvanācariyo nidhānaṁ agamāsi?  
+
+**Vissajjana:** Samatalaṁ paricchindituṁ!
 
