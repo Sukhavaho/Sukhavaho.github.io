@@ -1,4 +1,4 @@
-# Sukhāvaho and [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) discussing the [Ākṅkheyyasutta](https://suttacentral.net/mn6/en/sujato?lang=en&layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin)
+# Sukhāvaho and [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai) discussing the [Ākaṅkheyyasutta](https://suttacentral.net/mn6/en/sujato?lang=en&layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin)
 
 ## As a Scholar Monk, please give me some historical context on MN 6, followed by a succinct but deep summary.
 
