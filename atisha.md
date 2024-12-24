@@ -1,4 +1,4 @@
-## **Atisha's Lojong Root Verses on Training the Mind**
+## **Atisha's _Lojong_ Root Verses on Training the Mind**
 
 01. The Supreme understanding is to realize the meaning of selflessness
 02. The Supreme spiritual discipline is to tame ones own mind
