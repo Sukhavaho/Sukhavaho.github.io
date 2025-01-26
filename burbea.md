@@ -1,4 +1,4 @@
-# <p style="text-align:center;">Rob Burbea - Google NoteBookLM(s)
+# Rob Burbea - Google NoteBookLM(s)
 
 ## Seeing That Frees - Book
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/f431261d-27bb-4773-8fb2-e805ae6c9c41/audio)
