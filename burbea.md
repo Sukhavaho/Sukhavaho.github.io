@@ -1,4 +1,4 @@
-# <p style="text-align:center;">Rob Burbea - Book and Talks</p>
+# <p style="text-align:center;">Rob Burbea - Google NoteBookLM(s)
 
 ## Seeing That Frees - Book
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/f431261d-27bb-4773-8fb2-e805ae6c9c41/audio)
@@ -39,7 +39,7 @@
 - [NoteBookLM](https://notebooklm.google.com/notebook/4793a1eb-ec02-48e9-ac2a-37854b1c4c92?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiqUzBYuLLJQ8FexOTRxz8xF)
 
-## About Rob Burbea
+## About Rob Burbea - Interview
 This is based on a 5-hour discussion between [Lila Kimhi](https://sangha.live/teachers/lila-kimhi-bio/) and Rob in June, 2018. 
 
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/4cce5f94-dad9-4885-879f-4568b2c6eeb2/audio) 
