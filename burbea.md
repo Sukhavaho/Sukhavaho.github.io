@@ -11,7 +11,7 @@
 
 ## Path of the Imaginal
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/e4c45d27-9798-4e95-bf7d-ce72d8ff27bd/audio)
-- [NoteBookkLM](https://notebooklm.google.com/notebook/e4c45d27-9798-4e95-bf7d-ce72d8ff27bd?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
+- [NoteBookLM](https://notebooklm.google.com/notebook/e4c45d27-9798-4e95-bf7d-ce72d8ff27bd?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiql6yDdUeW-CKbUajVdSvwV)
 
 ## Meditation on Emptiness
