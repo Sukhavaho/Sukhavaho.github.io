@@ -1,18 +1,18 @@
-# Rob Burbea - Google NoteBookLM(s)
+# Rob Burbea - Google NoteBookLMs
 
 ### Notes
 - The "podcasts" (ie, the audio overviews) will take some time to load (~20 - 30 seconds)
 - The Pāḷi pronounciations are still a bit sketchy, but are being worked on. 
 - The podcasts are publicly accessible, but the notebooks need to be configured with explicit access (please ping me if you are interested.)
 
-## About Rob Burbea - Interview
+## About Rob Burbea - An Interview
 This is based on a 5-hour discussion between [Lila Kimhi](https://sangha.live/teachers/lila-kimhi-bio/) and Rob in June, 2018. 
 
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/4cce5f94-dad9-4885-879f-4568b2c6eeb2/audio) 
 - [NoteBookLM](https://notebooklm.google.com/notebook/4cce5f94-dad9-4885-879f-4568b2c6eeb2?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLIUJoa_276ndbcoFk-6n-1AvLQKuA9kQE)
 
-## Seeing That Frees - Book
+## Seeing That Frees - The Book
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/f431261d-27bb-4773-8fb2-e805ae6c9c41/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/f431261d-27bb-4773-8fb2-e805ae6c9c41?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
 
@@ -50,5 +50,22 @@ This is based on a 5-hour discussion between [Lila Kimhi](https://sangha.live/te
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/4793a1eb-ec02-48e9-ac2a-37854b1c4c92/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/4793a1eb-ec02-48e9-ac2a-37854b1c4c92?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiqUzBYuLLJQ8FexOTRxz8xF)
+
+## Eros Unfettered - Opening the Dharma of Desire - Talks
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/54f88906-c457-46c4-8f4a-4680299780de/audio)
+- [NoteBookLM](https://notebooklm.google.com/notebook/54f88906-c457-46c4-8f4a-4680299780de?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmiqe7S6dgIxkobGxfrW0il2H&si=cioPJfdviOSx4gEP)
+
+## Roots into the Ground of Soul - Talks
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/65c38271-83a3-4f4a-907c-f8ae504c62ff/audio)
+- [NoteBookLM](https://notebooklm.google.com/notebook/65c38271-83a3-4f4a-907c-f8ae504c62ff?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmir-p_C1C1h9pHIgDBJ0g6Eo&si=mEfto3cVmbbxqa0h)
+
+## In Psyche's Orchard - Talks
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/19c07501-ebb9-458c-a55f-6274f0bb2286/audio)
+- [NoteBookLM](https://notebooklm.google.com/notebook/19c07501-ebb9-458c-a55f-6274f0bb2286?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmiqiIXJARwyF-7o4R1GsrUZ9&si=H9vibfjf0XkxoXKG)
+
+
 
 
