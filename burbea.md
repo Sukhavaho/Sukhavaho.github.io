@@ -88,4 +88,12 @@ This YouTube transcript features Rob Burbea, introducing a samatha meditation re
 - [NoteBookLM](https://notebooklm.google.com/notebook/2ea05d88-0b37-48e0-8cf3-e157790d38e4?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
 - [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&si=pqVYAYz7yvYNNFAF)
 
+## Vajra Music - talks
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/ed3892f9-cf69-4812-9da1-0a251df6b4fc/audio)
+- [NoteBookLM](https://notebooklm.google.com/notebook/ed3892f9-cf69-4812-9da1-0a251df6b4fc?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmioOU_OvTRe1zoCCPMELRZxk&si=mZuSvUXXPKu67fs7)
 
+## Of Hermits and Lovers - talks
+- [NoteBookLM Podcast]
+- [NoteBookLM](https://notebooklm.google.com/notebook/f806650e-efb6-4e2d-886a-767d9d9e7ff4?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmireTaJ53k56W2JJ4c1a382k&si=FNZbi2gSvIQR9OXd)
