@@ -89,11 +89,13 @@ This YouTube transcript features Rob Burbea, introducing a samatha meditation re
 - [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&si=pqVYAYz7yvYNNFAF)
 
 ## Vajra Music - talks
+This YouTube transcript from Rob Burbea's "Preliminaries, Regarding Voice, Movement, and Gesture (Part 1)" presents a series of exercises focusing on movement, gesture, and voice as preliminary practices within a broader framework of "soul-making." Burbea emphasizes the organic growth of these teachings, encouraging active listening and the extraction of principles and instructions from his past talks. The exercises aim to cultivate sensitivity to the energy body and its interaction with space, promoting a deeper engagement with practice and uncovering potential blockages hindering the unfolding of one's spiritual potential. He uses analogies from music and flight to illustrate the importance of seemingly minor elements in achieving greater freedom and grace in practice.
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/ed3892f9-cf69-4812-9da1-0a251df6b4fc/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/ed3892f9-cf69-4812-9da1-0a251df6b4fc?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
 - [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmioOU_OvTRe1zoCCPMELRZxk&si=mZuSvUXXPKu67fs7)
 
 ## Of Hermits and Lovers - talks
-- [NoteBookLM Podcast]
+This YouTube transcript from Rob Burbea discusses the complexities of desire within Buddhist practice. Burbea challenges simplistic views that equate desire solely with suffering, proposing a nuanced understanding that distinguishes between "craving," "clinging," and "Eros." He defines Eros as a desire for deeper connection and intimacy, crucial for soul-making, and argues that this type of desire, unlike craving or clinging, is not inherently problematic. The discussion emphasizes the need for a more sophisticated approach to desire, one that integrates it meaningfully into spiritual practice, particularly concerning sexuality and relationships. Ultimately, Burbea advocates for conceptual frameworks that promote soul-making rather than seeking objective truth.
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/f806650e-efb6-4e2d-886a-767d9d9e7ff4/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/f806650e-efb6-4e2d-886a-767d9d9e7ff4?_gl=1*qgiu1c*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczODIwMDk3MS4xNi4xLjE3MzgyMDA5NzEuNjAuMC4w)
 - [YouTube Playlist](https://youtube.com/playlist?list=PLO6hhaAzLmireTaJ53k56W2JJ4c1a382k&si=FNZbi2gSvIQR9OXd)
