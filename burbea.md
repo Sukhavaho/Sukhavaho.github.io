@@ -1,6 +1,8 @@
-# Rob Burbea's Teachings - Logic Programs
+## Upāsaka Kukhāvaho ca tassa soṇḍiko Sahāyako ca
 
-### Step 1: Can Rob Burbea’s teachings be expressed in logic?
+### Rob Burbea's Teachings - Logic Programs
+
+#### Step 1: Can Rob Burbea’s teachings be expressed in logic?
 
 Rob Burbea’s “Seeing That Frees” is grounded in deep meditative inquiry, rich in paradox, subtlety, and experiential insights—very poetic and non-linear in some ways. Translating it into a formal, symbolic structure like a logic program means we need to distill its core teachings into:
 
@@ -17,11 +19,11 @@ Rob Burbea’s approach includes:
 
 While a logic program is a highly structured way of thinking, Rob’s work could definitely be broken down into statements that capture his teachings (as long as we understand the limitations of logical systems in expressing experiential and non-conceptual insight).
 
-### Step 2: A Framework for Translation
+#### Step 2: A Framework for Translation
 
 We'll use Prolog, a logic programming language, to illustrate this. We’ll treat Rob’s teachings as a knowledge base, structured into facts and rules.
 
-#### Example Knowledge Base
+##### Example Knowledge Base
 
 	1.	Foundational facts (axioms):
 
@@ -66,7 +68,7 @@ understand(perception_is_empty) :- fact(dependent_origination).
 ```
 ?- craving_ends.
 ```
-### Step 3: Capturing Subtleties
+#### Step 3: Capturing Subtleties
 
 Rob’s teachings involve paradoxes and non-linear insights that might not translate neatly into binary rules (true/false). To handle these subtleties:
 
@@ -77,7 +79,7 @@ Rob’s teachings involve paradoxes and non-linear insights that might not trans
 ```
 soulmaking_construct(X) :- perception_is_empty, creative_intent(X).
 ```
-### Step 4: Mapping Key Concepts
+#### Step 4: Mapping Key Concepts
 
 Here’s a summary of how some of the key ideas from the book could map into logic:
 
@@ -107,7 +109,7 @@ Suffering ceases with craving’s cessation
 ```
 suffering_ends :- craving_ends.
 ```
-### Step 5: Limitations
+#### Step 5: Limitations
 
 A logic program like this would:
 
@@ -115,7 +117,7 @@ A logic program like this would:
 	2.	Work best as a conceptual model for understanding how insights interconnect, but it won’t capture meditative nuances.
 	3.	Require you to adapt some teachings creatively—for example, “soulmaking” could involve input from the user to simulate the creative aspect.
 
-### Step 6: Next Steps
+#### Step 6: Next Steps
 
 	1.	Install Prolog: I recommend using SWI-Prolog.
 	2.	Write a knowledge base: Create a .pl file with the facts and rules.
