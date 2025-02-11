@@ -1,13 +1,15 @@
-# Rob Burbea's Teachings as Logic
+# Rob Burbea's Teachings - Logic Programs
 
-Step 1: Can Rob Burbea’s teachings be expressed in logic?
+### Step 1: Can Rob Burbea’s teachings be expressed in logic?
 
 Rob Burbea’s “Seeing That Frees” is grounded in deep meditative inquiry, rich in paradox, subtlety, and experiential insights—very poetic and non-linear in some ways. Translating it into a formal, symbolic structure like a logic program means we need to distill its core teachings into:
+
 	1.	Facts (axioms or observations about reality),
 	2.	Rules (cause-effect relationships or logical implications), and
 	3.	Queries (things we might want the program to deduce).
 
 Rob Burbea’s approach includes:
+
 	•	Dependent Origination (Paticca Samuppada): The interconnectedness of phenomena.
 	•	Emptiness (Shunyata): The fluid, constructed nature of perception.
 	•	Soulmaking: A playful, creative relationship with perception.
@@ -15,81 +17,113 @@ Rob Burbea’s approach includes:
 
 While a logic program is a highly structured way of thinking, Rob’s work could definitely be broken down into statements that capture his teachings (as long as we understand the limitations of logical systems in expressing experiential and non-conceptual insight).
 
-Step 2: A Framework for Translation
+### Step 2: A Framework for Translation
 
 We'll use Prolog, a logic programming language, to illustrate this. We’ll treat Rob’s teachings as a knowledge base, structured into facts and rules.
 
-Example Knowledge Base
+#### Example Knowledge Base
+
 	1.	Foundational facts (axioms):
 
+```
 fact(dependent_origination).
 fact(perception_is_empty).
 fact(suffering_is_due_to_craving).
 fact(craving_arises_due_to_perception).
-
+```
 
 	2.	Rules (causal relationships):
 
 % Rule: If perception is empty, you can creatively construct meaning (soulmaking).
+```
 can_do_soulmaking :- fact(perception_is_empty).
-
+```
 % Rule: Suffering ceases if craving ceases.
+```
 suffering_ends :- craving_ends.
-
+```
 % Rule: Craving ceases if perception is understood as empty.
+```
 craving_ends :- understand(perception_is_empty).
-
+```
 % Rule: Insight into dependent origination leads to an understanding of emptiness.
+```
 understand(perception_is_empty) :- fact(dependent_origination).
-
+```
 
 	3.	Queries (deductions):
 
 % Can we do soulmaking?
+```
 ?- can_do_soulmaking.
+```
 
 % How do we end suffering?
+```
 ?- suffering_ends.
-
+```
 % What conditions lead to craving ending?
+```
 ?- craving_ends.
-
-Step 3: Capturing Subtleties
+```
+### Step 3: Capturing Subtleties
 
 Rob’s teachings involve paradoxes and non-linear insights that might not translate neatly into binary rules (true/false). To handle these subtleties:
+
 	•	Probabilistic Logic: Could incorporate degrees of certainty or flexibility (e.g., “emptiness” is not an absolute negation but a re-framing of perception).
 	•	Multi-Valued Logic: For teachings that are “both-and” or “neither-nor” (e.g., emptiness AND soulmaking coexisting).
 	•	Dynamic Programming Rules: Since Rob emphasizes creative perception, you might program rules to allow for user input or contextual factors, like:
 
+```
 soulmaking_construct(X) :- perception_is_empty, creative_intent(X).
-
-Step 4: Mapping Key Concepts
+```
+### Step 4: Mapping Key Concepts
 
 Here’s a summary of how some of the key ideas from the book could map into logic:
 
 Concept	Prolog Representation (Example)
-Dukkha arises from craving	fact(suffering_is_due_to_craving).
-Perception is empty	fact(perception_is_empty).
-Soulmaking is possible	can_do_soulmaking :- fact(perception_is_empty).
-Craving ceases with insight	craving_ends :- understand(perception_is_empty).
-Dependent Origination	understand(perception_is_empty) :- fact(dependent_origination).
-Suffering ceases with craving’s cessation	suffering_ends :- craving_ends.
 
-Step 5: Limitations
+Dukkha arises from craving	
+```
+fact(suffering_is_due_to_craving).
+```
+Perception is empty	
+```
+fact(perception_is_empty).
+```
+Soulmaking is possible	
+```
+can_do_soulmaking :- fact(perception_is_empty).
+```
+Craving ceases with insight	
+```
+craving_ends :- understand(perception_is_empty).
+```
+Dependent Origination	
+```
+understand(perception_is_empty) :- fact(dependent_origination).
+```
+Suffering ceases with craving’s cessation	
+```
+suffering_ends :- craving_ends.
+```
+### Step 5: Limitations
 
 A logic program like this would:
+
 	1.	Formalize the causal relationships Rob suggests, but not the felt experience of his teachings.
 	2.	Work best as a conceptual model for understanding how insights interconnect, but it won’t capture meditative nuances.
 	3.	Require you to adapt some teachings creatively—for example, “soulmaking” could involve input from the user to simulate the creative aspect.
 
-Step 6: Next Steps
+### Step 6: Next Steps
 
-	1.	Install Prolog: You can use SWI-Prolog on your MacBook Air.
+	1.	Install Prolog: I recommend using SWI-Prolog.
 	2.	Write a knowledge base: Create a .pl file with the facts and rules.
 	3.	Explore deductions: Play around with queries like ?- suffering_ends. to see how insights interconnect.
 	4.	Iterate: Refine the rules as you deepen your understanding of Rob’s teachings.
 
-# Program
+# Logic Program
+```
 % Seeing That Frees Knowledge Base
 % --------------------------------
 % A simple Prolog representation of key ideas from Rob Burbea's "Seeing That Frees."
@@ -142,7 +176,7 @@ soulmaking_construct(X) :- can_do_soulmaking, creative_intent(X).
 ?- craving_ends.
 ?- can_do_soulmaking.
 ?- soulmaking_construct(meaning).
-
+```
 # Rob Burbea - Google NoteBookLMs
 
 ### Notes
