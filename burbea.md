@@ -1,4 +1,4 @@
-## Upāsaka Kukhāvaho ca tassa soṇḍiko Sahāyako ca
+## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
 ### Rob Burbea's Teachings - Logic Programs
 
