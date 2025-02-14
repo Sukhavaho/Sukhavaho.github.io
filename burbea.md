@@ -1,6 +1,6 @@
 ## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
-# Hermes Amara Foundation Links
+# Hermes Amāra Foundation Links
 - {Obsidian} [Rob Burbea's Digital Garden](https://publish.obsidian.md/rob-burbea/Retreats)
 - {Airtable} [Rob Burbea Transcription Project](https://airtable.com/appe9WAZCVxfdGDnX/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ)
 
