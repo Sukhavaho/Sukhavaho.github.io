@@ -139,7 +139,7 @@ The YouTube transcripts feature Rob Burbea's teachings on Buddhist meditation an
 
 ## The Boundless Heart - Talks
 The YouTube transcripts explore the nature of mystical experiences, focusing on perception, self, and reality, and discuss different personality types in relation to these experiences. The speaker emphasizes the importance of understanding perception and questioning assumptions to foster personal freedom, love, and freedom from suffering. The lectures also highlight the power of ideas and frameworks in shaping experiences and the need for a passionate, open-hearted approach to exploring these ideas. The texts further illustrate practices to work with emotions, building confidence and addressing the interconnectedness of the individual with the larger world. Central to these explorations is an invitation to develop alternative ways of seeing as revolutionary means of navigating life's complexities.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/889a5584-f279-4f3e-b592-b46648f80158/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/889a5584-f279-4f3e-b592-b46648f80158)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiog_2Fz8t05sYLk-vTeWWs2)
 
