@@ -115,7 +115,7 @@ This collection of transcripts explores the complex relationship between love, v
 
 ## IMS Forest Refuge - Talks
 The provided YouTube transcripts of talks by Rob Burbea explore deep concepts within Buddhist practice. He emphasizes the nature of silence, its role in prioritizing deeply held values and healing past hurts. Burbea also examines the concept of "no self" by investigating how the self is constructed through time, memory, and our relationship to the world. Furthermore, he investigates the nature of mind or awareness and its relationship to liberation and understanding how it shapes our perceptions. Finally, insight is discussed as a means of lessening suffering, exploring personal, universal, and ultimate insights and using these to develop new ways of seeing.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/8a5a099b-5060-4e90-ba2d-e1b00599e105/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/8a5a099b-5060-4e90-ba2d-e1b00599e105)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmioMfDnkz7g0NpyzhYYW8-6T)
 
@@ -133,7 +133,7 @@ These transcripts from Rob Burbea's YouTube channel offer guidance on meditation
 
 ## Unbinding the Heart - Talks
 The YouTube transcripts feature Rob Burbea's teachings on Buddhist meditation and practice. One key theme is generosity, emphasizing its power to foster happiness and connection. Burbea underscores the importance of breath meditation, framing it as a path to inner peace and insightful awareness. He explores the challenges posed by the inner critic and the cultivation of kindness and compassion. The teachings also examine the nature of self, suffering, and the possibility of liberation through understanding dependent arising and embracing spacious awareness, and impermanence. Burbea emphasizes that genuine spiritual practice involves inquiry into reality to release ourselves from self-centered preoccupations.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/503530d7-92db-4f54-bccd-3703b99f4673/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/503530d7-92db-4f54-bccd-3703b99f4673)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmioyOxMi8ELPK2fWVA1XOHwB)
 
@@ -145,19 +145,19 @@ The YouTube transcripts explore the nature of mystical experiences, focusing on 
 
 ## Loving Kindness and Compassion as a Path - Talks
 This collection of transcripts from "Rob Burbea Talks" explores the concepts of compassion, loving-kindness, equanimity, and emptiness within Buddhist practice. The talks emphasize cultivating compassion for oneself and others as essential for personal growth and healing. They suggest that compassion arises from insight into suffering and letting go of self-centeredness. Burbea guides listeners through practical techniques for developing these qualities through meditation and mindful action. Additionally, the transcripts touch upon impermanence and the interconnectedness of all things, highlighting the importance of balancing empathy with equanimity to sustain compassion. Ultimately, the talks aim to guide individuals toward a deeper understanding of love, compassion, and the path to awakening.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/aa348210-4d2e-4b38-a629-b72238163358/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/aa348210-4d2e-4b38-a629-b72238163358)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmioOHu7hWHu6VMJdfn_U3KIv)
 
 ## Four Circles, Four Parables of Stone and Light - Talks
 The Rob Burbea Talks YouTube transcripts explore the intersection of emptiness, imaginal practice, and soul-making within a Buddhist context. Burbea's teachings emphasize the importance of Eros, desire, and dimensionality in spiritual exploration. He highlights the complexities of tradition, the interplay between self, other, and world, and the role of ethics and values in personal and collective well-being. The transcripts further suggest that soul-making integrates emotional awareness, ethical considerations, and the development of virtues. The series argues for a nuanced understanding of autonomy and intentionality in engaging with the imaginal realm. Ultimately, these talks invite listeners to consider how metaphysics, epistemology, and personal experiences shape spiritual practice.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/b441a983-1670-42ee-a01d-45df21a73510/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/b441a983-1670-42ee-a01d-45df21a73510)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmipQ82bXzW--ToQ8dr28avVU)
 
 ## Day Retreat, London Insight - Talks
 This collection of transcripts from Rob Burbea's YouTube channel explores various aspects of Buddhist practice and philosophy. Many excerpts focus on meditation techniques and guided inquiries designed to understand complex topics like desire, fear, and the nature of the self. Several talks focus on the role of imagery and myth in spiritual practice. Burbea encourages a nuanced approach to traditional concepts, urging practitioners to consider their personal experience. The discussions offer methods for exploring emotions like anger and aversion, promoting mindfulness and compassion. Overall, the talks guide listeners towards deeper self-understanding and liberation from suffering through insightful explorations of Buddhist teachings.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/2b58cf12-7590-47b7-93c3-150b07a7f523/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/2b58cf12-7590-47b7-93c3-150b07a7f523)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiqbMUqiRLKB0EnmtK_bNzHp)
 
