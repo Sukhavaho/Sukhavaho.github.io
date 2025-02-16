@@ -121,13 +121,13 @@ The provided YouTube transcripts of talks by Rob Burbea explore deep concepts wi
 
 ## Mindfulness, Insight, and Liberation - Talks
 These transcripts from Rob Burbea Talks on YouTube explore mindfulness, insight, and liberation within a Buddhist context. The talks emphasize the importance of "joyful effort" in spiritual practice, balancing aspiration with acceptance. They explore how mindfulness is more than just bare attention, but an active, wise way of looking that incorporates Right View. The talks discuss the role of mindfulness and Right View in working with challenges like anger and aversion, understanding how our perceptions and beliefs influence our experiences. Furthermore, the discussions challenge the notion of a fixed self or essence, encouraging practitioners to question assumptions and cultivate a deeper understanding of impermanence and emptiness. The ultimate goal is to unravel suffering by comprehending the nature of experience and its dependent arising.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/ead29c6e-68b4-4bfd-b3cd-2c4fb0f258af/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/ead29c6e-68b4-4bfd-b3cd-2c4fb0f258af)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmio4ftmcccex_kn1kpdcGjs9)
 
 ## Equanimity - Talks
 These transcripts from Rob Burbea's YouTube channel offer guidance on meditation practices rooted in Buddhist teachings, emphasizing equanimity. The talks explain techniques for cultivating inner peace and freedom from suffering, especially in the face of life's changing conditions like praise and blame, success and failure. A central focus is on understanding and working with "vadana," the pleasant, unpleasant, or neutral feeling tone inherent in every experience. Burbea encourages practitioners to observe impermanence and non-reactivity, developing skills to relax their relationship to these feeling tones and thereby reduce suffering. He highlights that Equanimity is intertwined with joy, loving-kindness and wisdom, is a skill that is developed over time, and that it's important to practice understanding that everything is impermanent. Ultimately, these practices aim to dismantle the constructed sense of self and awaken to a more profound understanding of reality.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/88a1398b-f8d7-41b2-af21-06a7411154bb/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/88a1398b-f8d7-41b2-af21-06a7411154bb)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiqvw1mRZE0BT3UHfjOiHIY8)
 
@@ -163,7 +163,7 @@ This collection of transcripts from Rob Burbea's YouTube channel explores variou
 
 ## Working and Awakening - Talks
 These transcripts from Rob Burbea's YouTube channel explore Buddhist concepts like awakening, the self, death, God, home, love, passion, desire, renunciation and joy. Burbea encourages listeners to examine their relationship with these concepts and how they influence their spiritual practice. He contrasts Buddhist perspectives with other spiritual traditions and common cultural beliefs. The talks emphasize the importance of self-awareness, ethical action, and cultivating inner resources like kindness and compassion. Ultimately, Burbea invites listeners to question their assumptions and deeply investigate what truly matters in their lives.
-- [NoteBookLM Podcast]
+- [NoteBookLM Podcast](https://notebooklm.google.com/notebook/cf5ed158-5665-40c7-8fab-fac29d2ac236/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/cf5ed158-5665-40c7-8fab-fac29d2ac236)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiq5MD2PAHC6ggslYZT4u41e)
 
