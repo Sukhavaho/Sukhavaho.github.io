@@ -1,5 +1,3 @@
-# Sukhāvaho ? [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
-
 - [Amaravati Sutta Decoder Ring](https://sukhavaho.github.io/amaravati)
 - [Atisha](https://sukhavaho.github.io/atisha)
 - [Buddhism Quantum](https://sukhavaho.github.io/BuddhismQuantum)
