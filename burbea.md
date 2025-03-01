@@ -2,7 +2,7 @@
 
 ## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
-# Techniques
+# Techniques {ongoing...}
 - [Staying at Contact](https://sukhavaho.github.io/stayingatcontact)
 - [Bare Attention](https://sukhavaho.github.io/bareattention)
 - [Sirimangalo - Goenka](https://sukhavaho.github.io/sirimangaloburbea)
