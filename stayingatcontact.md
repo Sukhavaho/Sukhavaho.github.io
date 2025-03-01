@@ -1,3 +1,5 @@
+## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
+
 # Staying at Contact
 
 Rob Burbea's "Staying at Contact" meditation technique emphasizes focusing attention on immediate, raw sensory experiences without elaboration or conceptualization. The practice involves:
