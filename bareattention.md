@@ -1,4 +1,4 @@
-
+# Bare Attention
 
 Rob Burbea’s "Bare Attention" meditation technique emphasizes cultivating a simple, direct awareness of present experiences without judgment, analysis, or reaction. Here are its key aspects:
 
