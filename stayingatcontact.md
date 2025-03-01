@@ -10,17 +10,17 @@ Rob Burbea's "Staying at Contact" meditation technique emphasizes focusing atten
 This method supports cultivating mindfulness, insight into impermanence, and freedom from habitual patterns of thought. It is a foundational yet profound practice in Burbea's teachings on emptiness and dependent arising.
 
 Sources
-[1] Seeing That Frees [Paperback ed.] 0992848911, 9780992848910 https://dokumen.pub/seeing-that-frees-paperbacknbsped-0992848911-9780992848910.html
-[2] Guided Meditation: Three Characteristics - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2010-01-23-guided-meditation-three-characteristics
-[3] The Theatre of Selves (Part Three) - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2013-11-24-the-theatre-of-selves-part-three
-[4] Thought and meditation - Rob Burbea - Psych Reviews https://psychreviews.org/thought-and-meditation/
-[5] Rob Burbea - Seeing That Frees - Discussion - Dharma Overground https://www.dharmaoverground.org/discussion/-/message_boards/message/5631960
-[6] r/streamentry - Reddit https://www.reddit.com/r/streamentry/wiki/resources-rob/
-[7] Seeing that Frees by Rob Burbea - Julyan Davey https://julyandavey.com/books/seeingthatfrees/
-[8] [insight] Rob Burbea: Seeing That Frees : r/streamentry - Reddit https://www.reddit.com/r/streamentry/comments/55vryt/insight_rob_burbea_seeing_that_frees/
+- [1] Seeing That Frees [Paperback ed.] 0992848911, 9780992848910 https://dokumen.pub/seeing-that-frees-paperbacknbsped-0992848911-9780992848910.html
+- [2] Guided Meditation: Three Characteristics - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2010-01-23-guided-meditation-three-characteristics
+- [3] The Theatre of Selves (Part Three) - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2013-11-24-the-theatre-of-selves-part-three
+- [4] Thought and meditation - Rob Burbea - Psych Reviews https://psychreviews.org/thought-and-meditation/
+- [5] Rob Burbea - Seeing That Frees - Discussion - Dharma Overground https://www.dharmaoverground.org/discussion/-/message_boards/message/5631960
+- [6] r/streamentry - Reddit https://www.reddit.com/r/streamentry/wiki/resources-rob/
+- [7] Seeing that Frees by Rob Burbea - Julyan Davey https://julyandavey.com/books/seeingthatfrees/
+- [8] [insight] Rob Burbea: Seeing That Frees : r/streamentry - Reddit https://www.reddit.com/r/streamentry/comments/55vryt/insight_rob_burbea_seeing_that_frees/
 
-Deep Research 
-# Incorporating "Staying at Contact" into Sirimangalo Labeling Meditation
+# Deep Research 
+## Incorporating "Staying at Contact" into Sirimangalo Labeling Meditation
 
 The integration of "Staying at Contact" principles into Sirimangalo labeling meditation creates a powerful synergy that deepens mindfulness practice while enhancing moment-to-moment awareness. This approach combines the structured framework of Sirimangalo's noting technique with the immediacy and directness of staying with sensory contact points. When properly implemented, this integration allows practitioners to develop heightened awareness of experiential phenomena while maintaining the clarity provided by the systematic labeling approach.
 
@@ -85,14 +85,14 @@ This integration supports the fundamental aim of Vipassana meditation: developin
 To implement this approach effectively, maintain the continuous noting pattern established in the Sirimangalo tradition while simultaneously emphasizing direct sensory contact with each noted phenomenon. This balanced practice leads to deeper insight while maintaining the systematic development of mindfulness that characterizes the Sirimangalo approach to Vipassana meditation.
 
 Sources
-[1] Meditation+ | Sirimangalo.Org https://sirimangalo.org/meditation/
-[2] Question about labeling - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=25684
-[3] Noting and labeling practice - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=3070
-[4] Frequently Asked Meditation Questions | Sirimangalo.Org https://sirimangalo.org/frequently-asked-meditation-questions/
-[5] Contact | Sirimangalo.Org https://sirimangalo.org/contact/
-[6] How To Meditate | Sirimangalo.Org https://sirimangalo.org/text/how-to-meditate/
-[7] Courses | Sirimangalo.Org https://sirimangalo.org/courses/
-[8] Mindfulness Explained | Sirimangalo.Org https://sirimangalo.org/text/lessons-in-practical-buddhism/mindfulness-explained/
-[9] Labeling thoughts. - Forums - Treeleaf Zendo https://forum.treeleaf.org/forum/treeleaf/treeleaf-community-topics-about-zen-practice/archive-of-older-threads/5820-labeling-thoughts
-[10] Vipassana Meditation | Sirimangalo.Org https://sirimangalo.org/text/vipassana-meditation/
+- [1] Meditation+ | Sirimangalo.Org https://sirimangalo.org/meditation/
+- [2] Question about labeling - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=25684
+- [3] Noting and labeling practice - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=3070
+- [4] Frequently Asked Meditation Questions | Sirimangalo.Org https://sirimangalo.org/frequently-asked-meditation-questions/
+- [5] Contact | Sirimangalo.Org https://sirimangalo.org/contact/
+- [6] How To Meditate | Sirimangalo.Org https://sirimangalo.org/text/how-to-meditate/
+- [7] Courses | Sirimangalo.Org https://sirimangalo.org/courses/
+- [8] Mindfulness Explained | Sirimangalo.Org https://sirimangalo.org/text/lessons-in-practical-buddhism/mindfulness-explained/
+- [9] Labeling thoughts. - Forums - Treeleaf Zendo https://forum.treeleaf.org/forum/treeleaf/treeleaf-community-topics-about-zen-practice/archive-of-older-threads/5820-labeling-thoughts
+- [10] Vipassana Meditation | Sirimangalo.Org https://sirimangalo.org/text/vipassana-meditation/
 

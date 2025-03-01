@@ -13,18 +13,18 @@ Rob Burbea’s "Bare Attention" meditation technique emphasizes cultivating a si
 This approach fosters mindfulness, insight into impermanence, and a deeper connection to the present moment.
 
 Sources
-[1] Realizing the Nature of Mind - Hermes Amara Foundation https://hermesamara.org/resources/talk/2009-05-21-realizing-the-nature-of-mind
-[2] On Fear, Bare Attention and Knowing Why We Practice https://inquiringmind.com/article/0102_15_goldstein_practice/
-[3] Realizing the Nature of Mind - Awakening to Reality https://www.awakeningtoreality.com/2009/07/realizing-nature-of-mind.html
-[4] Concepts, Views, Reality - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2010-01-30-concepts-views-reality
-[5] Chapter 6 - Bare Attention https://www.wisdomlib.org/buddhism/book/mindfulness-meditation-made-easy/d/doc1643.html
-[6] 'I Sing The Body Electric': On Orientations in Practice https://hermesamara.org/resources/talk/2016-07-28-i-sing-the-body-electric-on-orientations-in-practice
-[7] Seeing that Frees by Rob Burbea - Julyan Davey https://julyandavey.com/books/seeingthatfrees/
-[8] [PDF] Bare Attention - PhilArchive https://philarchive.org/archive/PUCIDO
-[9] Thought and meditation - Rob Burbea - Psych Reviews https://psychreviews.org/thought-and-meditation/
+- [1] Realizing the Nature of Mind - Hermes Amara Foundation https://hermesamara.org/resources/talk/2009-05-21-realizing-the-nature-of-mind
+- [2] On Fear, Bare Attention and Knowing Why We Practice https://inquiringmind.com/article/0102_15_goldstein_practice/
+- [3] Realizing the Nature of Mind - Awakening to Reality https://www.awakeningtoreality.com/2009/07/realizing-nature-of-mind.html
+- [4] Concepts, Views, Reality - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2010-01-30-concepts-views-reality
+- [5] Chapter 6 - Bare Attention https://www.wisdomlib.org/buddhism/book/mindfulness-meditation-made-easy/d/doc1643.html
+- [6] 'I Sing The Body Electric': On Orientations in Practice https://hermesamara.org/resources/talk/2016-07-28-i-sing-the-body-electric-on-orientations-in-practice
+- [7] Seeing that Frees by Rob Burbea - Julyan Davey https://julyandavey.com/books/seeingthatfrees/
+- [8] [PDF] Bare Attention - PhilArchive https://philarchive.org/archive/PUCIDO
+- [9] Thought and meditation - Rob Burbea - Psych Reviews https://psychreviews.org/thought-and-meditation/
 
-Deep Research
-# Integrating Rob Burbea's "Bare Attention" into Sirimangalo-Style Labeling Practice  
+# Deep Research
+## Integrating Rob Burbea's "Bare Attention" into Sirimangalo-Style Labeling Practice  
 
 Rob Burbea's conception of "bare attention" and the Sirimangalo tradition's labeling method represent two distinct yet complementary approaches to meditation. By synthesizing these frameworks, practitioners can cultivate a dynamic interplay between structured focus and open awareness, deepening both concentration (samatha) and insight (vipassana). This integration requires understanding the philosophical foundations of each approach, their practical overlaps, and strategic modifications to harmonize their methodologies.  
 
@@ -145,41 +145,41 @@ By interweaving these approaches, meditators transform their practice into a liv
 This integration honors both traditions while creating a novel space for experiential discovery. Through persistent practice, what begins as technique transcends into art – the art of perceiving perception itself.
 
 Sources
-[1] attention · Rob Burbea's knowledgegraph - Stephen Reid https://stephenreid.net/k/rob-burbea/terms/attention?page=9
-[2] Question about labeling - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=25684
-[3] bare attention - unsui healing https://unsuihealing.com/mindfulness/practicing-mindfulness/bare-attention
-[4] Application modernization · Issue #96 · digitalpalireader ... - GitHub https://github.com/digitalpalireader/digitalpalireader/issues/96
-[5] Rob Burbea, An Experiment in Dependent Arising - YouTube https://www.youtube.com/watch?v=HeisktI3_l0
-[6] [PDF] Meditation Q&A - Ven Yuttadhammo_Section 1 edit - Sirimangalo https://static.sirimangalo.org/public/Meditation_QA.pdf
-[7] Bare attention – developing your inner 'bird-watcher' https://tobyouvry.com/2017/04/4058/
-[8] Contact and the Construction of Self - Hermes Amara Foundation https://hermesamara.org/resources/talk/2011-02-12-contact-and-the-construction-of-self
-[9] Meditation+ | Sirimangalo.Org https://sirimangalo.org/meditation/
-[10] Noting and Labeling — Daron Larson, Mindfulness Coach https://daronlarson.com/blog/noting-and-labeling
-[11] Sirimangalo.Org | Blessings for the whole world https://sirimangalo.org
-[12] Concepts, Views, Reality - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2010-01-30-concepts-views-reality
-[13] Satipathana: Bare Attention Of Mindfulness-Nyanaponika Thera https://integralmusings.aurosociety.org/satipathana-bare-attention-of-mindfulness-nyanaponika-thera/
-[14] 21 Days of Ajahn Tong Style Mahasi Noting to Integrate with TMI https://www.reddit.com/r/TheMindIlluminated/comments/9nlu67/retreat_report_21_days_of_ajahn_tong_style_mahasi/
-[15] Thought and meditation - Rob Burbea - Psych Reviews https://psychreviews.org/thought-and-meditation/
-[16] How To Meditate | Sirimangalo.Org https://sirimangalo.org/text/how-to-meditate/
-[17] Mindfulness, Insight, Liberation - Dharma Seed https://dharmaseed.org/talks/10027/
-[18] Frequently Asked Meditation Questions | Sirimangalo.Org https://sirimangalo.org/frequently-asked-meditation-questions/
-[19] Practicing with Bare Attention – Susy Keely / Meditation https://www.susykeely.com/guided-meditation/practicing-with-bare-attention/
-[20] A Comprehensive Practice | Sirimangalo.Org https://sirimangalo.org/text/lessons-in-practical-buddhism/a-comprehensive-practice/
-[21] The Relationship with Concepts in Meditation - Rob Burbea - Reddit https://www.reddit.com/r/nonduality/comments/x7a76e/the_relationship_with_concepts_in_meditation_rob/
-[22] [PDF] Lessons In Practical Buddhism - Sirimangalo https://static.sirimangalo.org/lessons/Lessons.pdf
-[23] Talks - Theater of Selves - Rob Burbea - notes https://notes.giorgiop.com/talks-theater-of-selves-rob-burbea
-[24] Labeling thoughts. - Forums - Treeleaf Zendo https://forum.treeleaf.org/forum/treeleaf/treeleaf-community-topics-about-zen-practice/archive-of-older-threads/5820-labeling-thoughts
-[25] Seeing that Frees by Rob Burbea - Julyan Davey https://julyandavey.com/books/seeingthatfrees/
-[26] Lessons In Practical Buddhism - Sirimangalo.Org - YUMPU https://www.yumpu.com/en/document/view/12102749/lessons-in-practical-buddhism-sirimangaloorg
-[27] An Inquiry into the Scope of Bare Attention and the Principal ... https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html
-[28] Add support for ng-template since template is depreciated #3301 https://github.com/angular/components/issues/3301
-[29] [PDF] The Attention Revolution: Unlocking the Power of the Focused Mind https://wisdomexperience.org/wp-content/uploads/2017/03/Shamatha-Lesson-4-Reading.pdf
-[30] [PDF] Lessons In Practical Buddhism - Sirimangalo https://static.sirimangalo.org/lessons/LessonsA4.pdf
-[31] The Four Foundations of Mindfulness: A Direct Path to Liberation https://www.lionsroar.com/the-four-foundations-of-mindfulness-direct-path-liberation/
-[32] Mindful wisdom: The path integrating memory, judgment, and attention https://www.tandfonline.com/doi/full/10.1080/09552367.2021.1875610
-[33] [practice] Is 2-3 hours a day, unguided, asking for trouble? - Reddit https://www.reddit.com/r/streamentry/comments/og4h7k/practice_is_23_hours_a_day_unguided_asking_for/
-[34] Mindfulness Defined: Street Smarts for the Path https://www.buddhistinquiry.org/article/mindfulness-defined-street-smarts-for-the-path/
-[35] Paying Attention to Buddhaghosa and Pāli Buddhist Philosophy - jstor https://www.jstor.org/stable/26874361
-[36] [PDF] Light on Epigraphic Pali: More on the Buddha Teaching in Pali https://jocbs.org/index.php/jocbs/article/download/264/357
+- [1] attention · Rob Burbea's knowledgegraph - Stephen Reid https://stephenreid.net/k/rob-burbea/terms/attention?page=9
+- [2] Question about labeling - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=25684
+- [3] bare attention - unsui healing https://unsuihealing.com/mindfulness/practicing-mindfulness/bare-attention
+- [4] Application modernization · Issue #96 · digitalpalireader ... - GitHub https://github.com/digitalpalireader/digitalpalireader/issues/96
+- [5] Rob Burbea, An Experiment in Dependent Arising - YouTube https://www.youtube.com/watch?v=HeisktI3_l0
+- [6] [PDF] Meditation Q&A - Ven Yuttadhammo_Section 1 edit - Sirimangalo https://static.sirimangalo.org/public/Meditation_QA.pdf
+- [7] Bare attention – developing your inner 'bird-watcher' https://tobyouvry.com/2017/04/4058/
+- [8] Contact and the Construction of Self - Hermes Amara Foundation https://hermesamara.org/resources/talk/2011-02-12-contact-and-the-construction-of-self
+- [9] Meditation+ | Sirimangalo.Org https://sirimangalo.org/meditation/
+- [10] Noting and Labeling — Daron Larson, Mindfulness Coach https://daronlarson.com/blog/noting-and-labeling
+- [11] Sirimangalo.Org | Blessings for the whole world https://sirimangalo.org
+- [12] Concepts, Views, Reality - Hermes Amāra Foundation https://hermesamara.org/resources/talk/2010-01-30-concepts-views-reality
+- [13] Satipathana: Bare Attention Of Mindfulness-Nyanaponika Thera https://integralmusings.aurosociety.org/satipathana-bare-attention-of-mindfulness-nyanaponika-thera/
+- [14] 21 Days of Ajahn Tong Style Mahasi Noting to Integrate with TMI https://www.reddit.com/r/TheMindIlluminated/comments/9nlu67/retreat_report_21_days_of_ajahn_tong_style_mahasi/
+- [15] Thought and meditation - Rob Burbea - Psych Reviews https://psychreviews.org/thought-and-meditation/
+- [16] How To Meditate | Sirimangalo.Org https://sirimangalo.org/text/how-to-meditate/
+- [17] Mindfulness, Insight, Liberation - Dharma Seed https://dharmaseed.org/talks/10027/
+- [18] Frequently Asked Meditation Questions | Sirimangalo.Org https://sirimangalo.org/frequently-asked-meditation-questions/
+- [19] Practicing with Bare Attention – Susy Keely / Meditation https://www.susykeely.com/guided-meditation/practicing-with-bare-attention/
+- [20] A Comprehensive Practice | Sirimangalo.Org https://sirimangalo.org/text/lessons-in-practical-buddhism/a-comprehensive-practice/
+- [21] The Relationship with Concepts in Meditation - Rob Burbea - Reddit https://www.reddit.com/r/nonduality/comments/x7a76e/the_relationship_with_concepts_in_meditation_rob/
+- [22] [PDF] Lessons In Practical Buddhism - Sirimangalo https://static.sirimangalo.org/lessons/Lessons.pdf
+- [23] Talks - Theater of Selves - Rob Burbea - notes https://notes.giorgiop.com/talks-theater-of-selves-rob-burbea
+- [24] Labeling thoughts. - Forums - Treeleaf Zendo https://forum.treeleaf.org/forum/treeleaf/treeleaf-community-topics-about-zen-practice/archive-of-older-threads/5820-labeling-thoughts
+- [25] Seeing that Frees by Rob Burbea - Julyan Davey https://julyandavey.com/books/seeingthatfrees/
+- [26] Lessons In Practical Buddhism - Sirimangalo.Org - YUMPU https://www.yumpu.com/en/document/view/12102749/lessons-in-practical-buddhism-sirimangaloorg
+- [27] An Inquiry into the Scope of Bare Attention and the Principal ... https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html
+- [28] Add support for ng-template since template is depreciated #3301 https://github.com/angular/components/issues/3301
+- [29] [PDF] The Attention Revolution: Unlocking the Power of the Focused Mind https://wisdomexperience.org/wp-content/uploads/2017/03/Shamatha-Lesson-4-Reading.pdf
+- [30] [PDF] Lessons In Practical Buddhism - Sirimangalo https://static.sirimangalo.org/lessons/LessonsA4.pdf
+- [31] The Four Foundations of Mindfulness: A Direct Path to Liberation https://www.lionsroar.com/the-four-foundations-of-mindfulness-direct-path-liberation/
+- [32] Mindful wisdom: The path integrating memory, judgment, and attention https://www.tandfonline.com/doi/full/10.1080/09552367.2021.1875610
+- [33] [practice] Is 2-3 hours a day, unguided, asking for trouble? - Reddit https://www.reddit.com/r/streamentry/comments/og4h7k/practice_is_23_hours_a_day_unguided_asking_for/
+- [34] Mindfulness Defined: Street Smarts for the Path https://www.buddhistinquiry.org/article/mindfulness-defined-street-smarts-for-the-path/
+- [35] Paying Attention to Buddhaghosa and Pāli Buddhist Philosophy - jstor https://www.jstor.org/stable/26874361
+- [36] [PDF] Light on Epigraphic Pali: More on the Buddha Teaching in Pali https://jocbs.org/index.php/jocbs/article/download/264/357
 
 
