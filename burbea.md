@@ -1,5 +1,9 @@
 ## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
+# Techniques
+- [Staying at Contact](https://sukhavaho.github.io/stayingatcontact.md)
+- [Bare Attention](https://sukhavaho.github.io/bareattention.md)
+
 # Hermes Amāra Foundation Links
 - {Obsidian} [Rob Burbea's Digital Garden](https://publish.obsidian.md/rob-burbea/Retreats)
 - {Airtable} [Rob Burbea Transcription Project](https://airtable.com/appe9WAZCVxfdGDnX/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ)
