@@ -18,6 +18,11 @@
     - [Loving Kindness and Compassion as a Path](https://notebooklm.google.com/notebook/aa348210-4d2e-4b38-a629-b72238163358)
     - [Mahāsatipaṭṭhānasutta](https://notebooklm.google.com/notebook/f40d97e2-bc97-4b89-8d3a-8536d1e835a6)
     - [Meditation on Emptiness](https://notebooklm.google.com/notebook/477d2c44-8c99-4d84-87da-33874aa11ca8)
+    - [Metta and Emptiness - Level 1](https://notebooklm.google.com/notebook/5de87423-b0b1-49e5-9907-974670284fb7)
+    - [Mindfulness, Insight and Liberation](https://notebooklm.google.com/notebook/ead29c6e-68b4-4bfd-b3cd-2c4fb0f258af)
+    - [November Solitary](https://notebooklm.google.com/notebook/250758bc-6d28-4883-95e6-27389ae7636e)
+    - [Of Hermits and Lovers](https://notebooklm.google.com/notebook/f806650e-efb6-4e2d-886a-767d9d9e7ff4)
+    - [Pāḷi Language](https://notebooklm.google.com/notebook/2b93a303-2780-4343-b259-3367acdbd17e)
 
 
 
