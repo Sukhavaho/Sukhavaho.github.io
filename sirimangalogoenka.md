@@ -1,4 +1,10 @@
-# Comparative Analysis and Synthesis of Mahasi/Sirimangalo and U Ba Khin/Goenka Vipassana Techniques  
+# Sukhāvaho ? [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
+
+### [Back to Burbea](https://sukhavaho.github.io/burbea)
+
+## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
+
+#### A Comparative Analysis and Synthesis of Mahasi/Sirimangalo and U Ba Khin/Goenka Vipassana Techniques  
 
 The Mahasi Sayadaw/Sirimangalo and U Ba Khin/S.N. Goenka vipassana traditions represent two dominant strands of modern Theravāda insight practice. While both aim for liberation through impermanence (anicca), suffering (dukkha), and non-self (anattā) realization, their methodologies diverge significantly in structure, focus, and philosophical underpinnings. This analysis examines their contrasts, compatibilities, and potential for synergistic integration.  
 

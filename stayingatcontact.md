@@ -1,3 +1,7 @@
+# Sukhāvaho ? [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
+
+### [Back to Burbea](https://sukhavaho.github.io/burbea)
+
 ## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
 # Staying at Contact
