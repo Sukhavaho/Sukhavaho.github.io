@@ -5,7 +5,7 @@
 # Techniques {ongoing...}
 - [Staying at Contact](https://sukhavaho.github.io/stayingatcontact)
 - [Bare Attention](https://sukhavaho.github.io/bareattention)
-- [Sirimangalo - Goenka](https://sukhavaho.github.io/sirimangaloburbea)
+- [Sirimangalo - Goenka](https://sukhavaho.github.io/sirimangalogoenka)
 
 # Hermes Amāra Foundation Links
 - {Obsidian} [Rob Burbea's Digital Garden](https://publish.obsidian.md/rob-burbea/Retreats)
