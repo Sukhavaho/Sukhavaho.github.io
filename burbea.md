@@ -7,6 +7,17 @@
 - [Bare Attention](https://sukhavaho.github.io/bareattention)
 - [Sirimangalo - Goenka](https://sukhavaho.github.io/sirimangalogoenka)
 
+- [Guided Meditations Related to "Seeing that Frees"](https://www.susykeely.com/guided-meditations-related-to-seeing-that-frees/)
+    - [Practicing With Bare Attention](https://www.susykeely.com/guided-meditation/practicing-with-bare-attention/)
+    - [Noticing Gaps in Experience](https://www.susykeely.com/guided-meditation/noticing-gaps-in-experience/)
+    - [Focusing on Vedanā](https://www.susykeely.com/guided-meditation/focusing-on-vedana/)
+    - [Tolerating Craving](https://www.susykeely.com/guided-meditation/tolerating-craving/)
+    - [Including Space](https://www.susykeely.com/guided-meditation/including-space/)
+    - [Allowing](https://www.susykeely.com/guided-meditation/allowing/)
+    - [Relaxing the Relationship With Phenomena](https://www.susykeely.com/guided-meditation/relaxing-the-relationship-with-phenomena-dukkha-2/)
+    - [Not Satisfactory / Holy Disinterest](https://www.susykeely.com/guided-meditation/not-satisfactory-holy-disinterestdukkha-1/)
+    - [Anattā](https://www.susykeely.com/guided-meditation/anatta/)
+
 # Hermes Amāra Foundation Links
 - {Obsidian} [Rob Burbea's Digital Garden](https://publish.obsidian.md/rob-burbea/Retreats)
 - {Airtable} [Rob Burbea Transcription Project](https://airtable.com/appe9WAZCVxfdGDnX/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ)
@@ -173,6 +184,11 @@ These transcripts from Rob Burbea's YouTube channel explore Buddhist concepts li
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/cf5ed158-5665-40c7-8fab-fac29d2ac236/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/cf5ed158-5665-40c7-8fab-fac29d2ac236)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLO6hhaAzLmiq5MD2PAHC6ggslYZT4u41e)
+
+
+# Interviews
+- [Deconstructing Yourself](https://deconstructingyourself.com/dy-025-emptiness-liberation-and-beauty-with-guest-rob-burbea.html)
+- [Deconstructing Yourself transcript](https://deconstructingyourself.com/what-is-emptiness-an-interview-with-rob-burbea.html)
 
 # Rob Burbea's Teachings - Logic Programs
 
