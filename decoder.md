@@ -6,9 +6,8 @@
     - [Bare Attention](https://sukhavaho.github.io/bareattention)
     - [Sirimangalo Goenka](https://sukhavaho.github.io/sirimangalogoenka)
 - [Chaining](https://sukhavaho.github.io/chaining)
-- [Clear Mountain](https://sukhavaho.github.io.clearmountain)
+- [Clear Mountain](https://sukhavaho.github.io/clearmountain)
 - [Dalrymple](https://sukhavaho.github.io/dalrymple)
-- [MN 28](https://sukhavaho.github.io/mn28)
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
 - [Translators](https://sukhavaho.github.io/translators)
 
