@@ -40,6 +40,7 @@ The text explore Rob Burbea's teachings on emptiness and dependent arising in Bu
 - [NoteBookLM Podcast](https://notebooklm.google.com/notebook/f431261d-27bb-4773-8fb2-e805ae6c9c41/audio)
 - [NoteBookLM](https://notebooklm.google.com/notebook/f431261d-27bb-4773-8fb2-e805ae6c9c41?_gl=1*1psf7lb*_ga*MTcyNDI3Nzg5Ni4xNzM1NDk3MzI0*_ga_W0LDH41ZCB*MTczNzkwOTg3OS4xNS4wLjE3Mzc5MDk4NzkuNjAuMC4w)
 - [Book: Seeing That Frees](https://livebrary.overdrive.com/livebrary-harborfields/content/media/1807077)
+- [Book Summary](https://sukhavaho.github.io/booksummaryperplexity)
 
 ## Foundations of Soul-Making Dharma - Talks
 These YouTube transcripts from Rob Burbea's "Foundations of a Soulmaking Dharma" series explore the multifaceted nature of spiritual practice.  **Burbea introduces the concept of "soulmaking,"** a process involving the **energy body, imaginal work, and the interplay of Eros and logos.**  The discussions **examine various practices**, including working with emotions, images, and movement, to expand one's capacity for **spiritual growth and insight.**  **Key themes** include the importance of **sensitivity, discernment, and a nuanced relationship with both inner and outer experiences**.  Ultimately, the teachings aim to guide practitioners towards a **richer, more meaningful existence**.
