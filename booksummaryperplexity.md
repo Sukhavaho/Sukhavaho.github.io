@@ -1,5 +1,3 @@
-
-```markdown
 # Detailed Chapter-by-Chapter Summary of Rob Burbea's "Seeing That Frees" with Emphasis on Practical Techniques
 
 ## Part One: Orientations
