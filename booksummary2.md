@@ -1,4 +1,3 @@
-```markdown
 # Comprehensive Analysis of Rob Burbea's *Seeing That Frees: Meditations on Emptiness and Dependent Arising*
 
 ## Overview of the Book's Structure and Intent
@@ -151,7 +150,6 @@ Burbea's magnum opus presents **a 31-chapter journey into emptiness (śūnyatā)
 3. Use Ch.31's "view alchemy" to prevent philosophical reification  
 
 *"The awe-inspiring depth of mystery that opens as we realize emptiness cannot be contained in any concept."* [1]  
-```
 
 Sources
 [1] Burbea-Seeing-That-Frees.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/7893915/2d3a769f-1bcb-429d-88b0-6c574bc28451/Burbea-Seeing-That-Frees.pdf
