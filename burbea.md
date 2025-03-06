@@ -2,6 +2,8 @@
 
 ## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
+# [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)
+
 # Techniques {ongoing...}
 - [Staying at Contact](https://sukhavaho.github.io/stayingatcontact)
 - [Bare Attention](https://sukhavaho.github.io/bareattention)
