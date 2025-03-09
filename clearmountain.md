@@ -9,7 +9,9 @@ Back to [Decoder](https://sukhavaho.github.io/decoder)
 - [Zoom Link](https://us02web.zoom.us/j/86893546155?pwd=rbUVdtBhFR3icRJFFwVgTR3c9wMmWh.1)
 
 # Suttā
+- [MN 27](https://sukhavaho.github.io/mn27)
 - [MN 28](https://sukhavaho.github.io/mn28)
+- [MN 29](https://sukhavaho.github.io/mn29)
 
 # Rob's Mob 
 - [Rob Burbea](https://sukhavaho.github.io/burbea)
