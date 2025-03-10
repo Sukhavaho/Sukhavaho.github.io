@@ -9,7 +9,9 @@
 - [Chaining](https://sukhavaho.github.io/chaining)
 - [Clear Mountain](https://sukhavaho.github.io/clearmountain)
 - [Dalrymple](https://sukhavaho.github.io/dalrymple)
+- [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
+- [Sutta](https://sukhavaho.github.io/sutta)
 - [Translators](https://sukhavaho.github.io/translators)
 
 
