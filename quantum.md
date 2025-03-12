@@ -7,6 +7,8 @@
 
 # Topics in Quantum Physics for Bogdan discussion
 
+- [Bogdan](https://sukhavaho.github.io/bogdan)
+
 [Currently just a list of placeholders - need to add text]
 
 * [Copenhagen Interpretation](copenhagen.md)
@@ -25,4 +27,6 @@
 - [Quantum Buddhism -- Graham Smetham](https://www.amazon.com/Quantum-Buddhism-Emptiness-Interface-Philosophy/dp/1445294303)
 - [Reddit -- Opinion on Quantum Buddhism](https://www.reddit.com/r/Buddhism/comments/unziyy/what_is_your_opinion_about_quantum_buddhism/)
 - [Rovelli - Nagarjuna](https://www.templeton.org/news/what-does-a-1800-year-old-buddhist-classic-have-to-say-about-quantum-physics-and-the-nature-of-reality)
+
+# Other
 

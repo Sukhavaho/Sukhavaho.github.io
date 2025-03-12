@@ -11,8 +11,12 @@
 - [Dalrymple](https://sukhavaho.github.io/dalrymple)
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
+- [Pāḷi](https://sukhavaho.github.io/pali)
 - [Suttā](https://sukhavaho.github.io/sutta)
+
+
 - [Translators](https://sukhavaho.github.io/translators)
+- [Old_Index](https://sukhavaho.github.io/old_index)
 
 
 

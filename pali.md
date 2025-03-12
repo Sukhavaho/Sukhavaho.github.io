@@ -1,4 +1,7 @@
-# Pāḷi
+# Pāḷi Language
+
+
+## Pāḷi Language Videos
 
 - [YouTube: Learn Pāḷi Language Basics in English](https://www.youtube.com/playlist?list=PLf6RXFuRpeLQH4nUanNBCl6um6N6Zcyc0)
 - [YouTube: Pāḷi Alphabet & Pronounciation](https://www.youtube.com/playlist?list=PLf6RXFuRpeLTjutJCvVRTZrMl-DFV9Yr3)
