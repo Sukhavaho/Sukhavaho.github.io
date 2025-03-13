@@ -1,5 +1,6 @@
 # Sukhāvaho ? [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
+
 ## Upāsaka Sukhāvaho ca tassa soṇḍiko Sahāyako ca
 
 # [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)

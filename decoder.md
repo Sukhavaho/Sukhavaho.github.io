@@ -13,7 +13,7 @@
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
 - [Pāḷi](https://sukhavaho.github.io/pali)
 - [Suttā](https://sukhavaho.github.io/sutta)
-
+- [Zoom Links](https://sukhavaho.github.io/zoom)
 
 - [Translators](https://sukhavaho.github.io/translators)
 - [Old_Index](https://sukhavaho.github.io/old_index)
