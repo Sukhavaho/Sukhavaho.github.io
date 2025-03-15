@@ -1,6 +1,10 @@
 # Pāḷi Language
 
 
+## Books
+- [Yuttadhammo Pāḷi Textbook {Word}](https://docs.google.com/document/d/1uDHW0tOhqOGMv3sKbgEAMJ7KXpM21h2F26G5khPFNAY/edit?usp=drive_link)
+- [Yuttadhammo Pali Textbook {Web}](https://docs.google.com/document/d/e/2PACX-1vTwgARQua6oLMKDkPMHwMxnmQoBNm4hPWqAe3Scho-CRq9r1t43dK3wyYKUkpRiG_HD6-U9_f_930sM/pub)
+
 ## Pāḷi Language Videos
 
 - [YouTube: Learn Pāḷi Language Basics in English](https://www.youtube.com/playlist?list=PLf6RXFuRpeLQH4nUanNBCl6um6N6Zcyc0)
