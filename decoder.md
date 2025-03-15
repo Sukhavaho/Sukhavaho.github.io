@@ -11,7 +11,7 @@
 - [Dalrymple](https://sukhavaho.github.io/dalrymple)
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
-- [Pāḷi Bāsa](https://sukhavaho.github.io/pali)
+- [Pāḷi Bāsa](https://sukhavaho.github.io/Pāḷi/pali)
 - [Suttā Piṭaka](https://sukhavaho.github.io/SuttaPiṭaka/SuttaPiṭaka)
     - [Majjhima Nikāya](https://sukhavaho.github.io/SuttaPiṭaka/MajjhimaNikāya/MajjhimaNikāya)
 - [Zoom Links](https://sukhavaho.github.io/zoom)
