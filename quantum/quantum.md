@@ -6,6 +6,10 @@
 
 # Articles and Books
 - [Perplexity's Summary of The Buddha and Quantum, by Samuel Avery](https://www.perplexity.ai/search/please-summarize-the-book-the-jt38poRnQgSJA18.jHGcXg#0)
+- [Preplexity's Summary of Buddhism and Quantum Theory, by Bruno Del Medico](https://www.perplexity.ai/search/please-summarize-the-book-the-jt38poRnQgSJA18.jHGcXg#2)
+- [Perplexity's Summary of The Quantum & the Lotus by Matthieu Ricard](https://www.perplexity.ai/search/please-summarize-the-book-the-jt38poRnQgSJA18.jHGcXg#3)
+- [Perplexity's Summary of Choosing Reality by Alan Wallace](https://www.perplexity.ai/search/please-summarize-the-book-the-jt38poRnQgSJA18.jHGcXg#4)
+- [Perplexity's Summary of Hidden Dimensions by Alan Wallace](https://www.perplexity.ai/search/please-summarize-the-book-the-jt38poRnQgSJA18.jHGcXg#5)
 
 
 # Topics in Quantum Physics for Bogdan discussion
