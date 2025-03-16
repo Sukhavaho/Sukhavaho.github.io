@@ -1,5 +1,8 @@
 # Pāḷi Language
 
+## AI Tutorials
+- [Gemini 03-15-2025](https://docs.google.com/document/d/1mHGks6Z74UeWiDY3QpNvGmr4AMWzv1jkhIs4dxGjt-4/edit?tab=t.0)
+
 
 ## Vocabulary
 - [Claude Vocabulary](https://sukhavaho.github.io/Pāḷi/vocabulary)
