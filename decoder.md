@@ -9,7 +9,7 @@
 - [Chaining](https://sukhavaho.github.io/chaining)
 - [Clear Mountain](https://sukhavaho.github.io/clearmountain)
 - [Dalrymple](https://sukhavaho.github.io/dalrymple)
-- [Early Buddhism](https://sukhavahoġgithub.io/earlybuddhism)
+- [Early Buddhism](https://sukhavaho.github.io/earlybuddhism)
 - [Madhyāmika](https://sukhavaho.github.io/madhyamika)
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
