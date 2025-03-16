@@ -13,6 +13,12 @@
 
 ## Tools
 - [Alan McClure - DPR - Pāḷi Translation cheat sheet](https://www.digitalpalireader.online/docs/pali/cheat.htm)
+- [Dhammadarsa Pāḷi Grammar Summary Card: Nouns](https://www.accesstoinsight.org/lib/authors/dhammadarsa/npc-summary-noun.pdf)
+- [Dhammadarsa Pāḷi Grammar Summary Card: Pronuns, Adverbs & Particles](https://www.accesstoinsight.org/lib/authors/dhammadarsa/npc-summary-other.pdf)
+- [Dhammadarsa Pāḷi Grammar Summary Card: Verbs](https://www.accesstoinsight.org/lib/authors/dhammadarsa/npc-summary-verb.pdf)
+- [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/dpdict_bd.html)
+    - [DPD Online](https://www.dpdict.net/)
+- [Tipitaka Pāḷi Reader](https://americanmonk.org/tipitaka-pali-reader/)
 
 ## Communities and Discussions
 - [SuttaCentral Pāḷi Discussion](https://discourse.suttacentral.net/tag/pali)
