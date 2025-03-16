@@ -1,11 +1,17 @@
 # Pāḷi Language
 
-## AI Tutorials
-- [Gemini 03-15-2025](https://docs.google.com/document/d/1mHGks6Z74UeWiDY3QpNvGmr4AMWzv1jkhIs4dxGjt-4/edit?tab=t.0)
-
 
 ## Vocabulary
 - [Claude Vocabulary](https://sukhavaho.github.io/Pāḷi/vocabulary)
+
+## Articles
+- [What is Pali? - Learn Pali](https://palistudies.blogspot.com/2019/11/what-is-pali-language-little-history.html)
+
+## Grammar
+- [Declension of Nouns - Pali Toolbox](https://www.buddha-vacana.org/toolbox/noundec.html)
+- [Conjugaton of Verbs](https://www.buddha-vacana.org/toolbox/conjug.html)
+- [Grammar Summaries - A new Course in Reading Pali](https://www.baus.org/en/wp-content/uploads/2020/09/NCRP-Grammar-Summaries-v.2.pdf)
+- [Pali Primer Language Guide - Tipitaka.net](https://www.tipitaka.net/paliprimerguide.pdf)
 
 ## Books
 - [Yuttadhammo Pāḷi Textbook {Word}](https://docs.google.com/document/d/1uDHW0tOhqOGMv3sKbgEAMJ7KXpM21h2F26G5khPFNAY/edit?usp=drive_link)
@@ -13,6 +19,10 @@
 - [Yuttadhammo Class Description {Word}](https://docs.google.com/document/d/1zniNnnNcgEFisz6iqmM_cM2FGTXaEi9FU1Zwp7zaI6s/edit?tab=t.0#heading=h.o8tohhdhgf16)
 - [Yuttadhammo Class Description {Web}](https://docs.google.com/document/d/e/2PACX-1vQ1qqfIYreiNLj-vUM28LPZnmEippMACCJV2gkDOzHY1Upmrac_0WYo115QeraUQaRtD2zWzjeBGaDE/pub)
 - [Duroiselle - A Practical Grammar of the Pāḷi Language](https://www.digitalpalireader.online/docs/pali/GMD/index.html)
+- [Pali Primer - Lily Da Silva](https://www.vridhamma.org/The-Pali-Primer)
+
+## Resources
+- [Learn Pali Resources](https://palistudies.blogspot.com/p/resources.html)
 
 ## Tools
 - [Alan McClure - DPR - Pāḷi Translation cheat sheet](https://www.digitalpalireader.online/docs/pali/cheat.htm)
@@ -21,6 +31,7 @@
 - [Dhammadarsa Pāḷi Grammar Summary Card: Verbs](https://www.accesstoinsight.org/lib/authors/dhammadarsa/npc-summary-verb.pdf)
 - [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/dpdict_bd.html)
     - [DPD Online](https://www.dpdict.net/)
+- [Simsapa Dhamma Reader](https://simsapa.github.io/)
 - [Tipitaka Pāḷi Reader](https://americanmonk.org/tipitaka-pali-reader/)
 
 ## Communities and Discussions
