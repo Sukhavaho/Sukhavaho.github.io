@@ -7,6 +7,12 @@
 ## Books
 - [Yuttadhammo Pāḷi Textbook {Word}](https://docs.google.com/document/d/1uDHW0tOhqOGMv3sKbgEAMJ7KXpM21h2F26G5khPFNAY/edit?usp=drive_link)
 - [Yuttadhammo Pali Textbook {Web}](https://docs.google.com/document/d/e/2PACX-1vTwgARQua6oLMKDkPMHwMxnmQoBNm4hPWqAe3Scho-CRq9r1t43dK3wyYKUkpRiG_HD6-U9_f_930sM/pub)
+- [Yuttadhammo Class Description {Word}](https://docs.google.com/document/d/1zniNnnNcgEFisz6iqmM_cM2FGTXaEi9FU1Zwp7zaI6s/edit?tab=t.0#heading=h.o8tohhdhgf16)
+- [Yuttadhammo Class Description {Web}](https://docs.google.com/document/d/e/2PACX-1vQ1qqfIYreiNLj-vUM28LPZnmEippMACCJV2gkDOzHY1Upmrac_0WYo115QeraUQaRtD2zWzjeBGaDE/pub)
+- [Duroiselle - A Practical Grammar of the Pāḷi Language](https://www.digitalpalireader.online/docs/pali/GMD/index.html)
+
+## Tools
+- [Alan McClure - DPR - Pāḷi Translation cheat sheet](https://www.digitalpalireader.online/docs/pali/cheat.htm)
 
 ## Communities and Discussions
 - [SuttaCentral Pāḷi Discussion](https://discourse.suttacentral.net/tag/pali)
