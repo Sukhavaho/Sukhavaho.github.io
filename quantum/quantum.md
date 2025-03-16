@@ -4,6 +4,9 @@
 - [Pure Dhamma: Quantum Mechanics and Dhamma](https://puredhamma.net/quantum-mechanics-buddhism-buddha-dhamma/)
 
 
+# Articles and Books
+- [Perplexity's Summary of The Buddha and Quantum, by Samuel Avery](https://www.perplexity.ai/search/please-summarize-the-book-the-jt38poRnQgSJA18.jHGcXg#0)
+
 
 # Topics in Quantum Physics for Bogdan discussion
 
