@@ -14,7 +14,8 @@
 
 # Topics in Quantum Physics for Bogdan discussion
 
-- [Bogdan](https://sukhavaho.github.io/bogdan)
+- [Topics](https://sukhavaho.github.io/quantum/topics)
+- [Bogdan](https://sukhavaho.github.io/quantum/bogdan)
 
 [Currently just a list of placeholders - need to add text]
 
