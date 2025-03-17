@@ -16,6 +16,7 @@
 - [Meditation](https://sukhavaho.github.io/meditation)
     - [ADD/ADHD Meditation](https://sukhavaho.github.io/meditation/adhd)
     - [Early Buddhist Meditation](https://sukhavaho.github.io/buddhism/earlymeditation)
+    - [Sirimangalo Goenka](https://sukhavaho.github.io/meditation/sirimangalogoenka)
 
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 - [NoteBookLMs](https://sukhavaho.github.io/notebooks)
