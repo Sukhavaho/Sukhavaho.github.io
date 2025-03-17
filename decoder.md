@@ -10,16 +10,15 @@
     - [Staying at Contact](https://sukhavaho.github.io/meditation/stayingatcontact)
     - [Bare Attention](https://sukhavaho.github.io/meditation/bareattention)
     - [Sirimangalo Goenka](https://sukhavaho.github.io/meditation/sirimangalogoenka)
-- [Chaining](https://sukhavaho.github.io/chaining)
 - [Clear Mountain](https://sukhavaho.github.io/clearmountain)
-- [Dalrymple](https://sukhavaho.github.io/dalrymple)
-- [Meditation](https://sukhavaho.github.io/meditation)
+- [Dependent Origination](https://sukhavaho.github.io/dependentorigination)
+    - [Chaining](https://sukhavaho.github.io/dependentorigination/chaining)
+- [Meditation](https://sukhavaho.github.io/meditation/meditation)
     - [ADD/ADHD Meditation](https://sukhavaho.github.io/meditation/adhd)
     - [Early Buddhist Meditation](https://sukhavaho.github.io/buddhism/earlymeditation)
     - [Sirimangalo Goenka](https://sukhavaho.github.io/meditation/sirimangalogoenka)
 
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
-- [NoteBookLMs](https://sukhavaho.github.io/notebooks)
 - [Pāḷi Bāsa](https://sukhavaho.github.io/Pāḷi/pali)
 - [Suttā Piṭaka](https://sukhavaho.github.io/SuttaPiṭaka/SuttaPiṭaka)
     - [Majjhima Nikāya](https://sukhavaho.github.io/SuttaPiṭaka/MajjhimaNikāya/MajjhimaNikāya)
@@ -28,6 +27,9 @@
 - [Translators](https://sukhavaho.github.io/translators)
 - [Old_Index](https://sukhavaho.github.io/old_index)
 
+- [Unclassified](https://sukhavaho.github.io/unclassified/unclassified))
+    - [Dalrymple](https://sukhavaho.github.io/unclassified/dalrymple)
+    - [NoteBookLMs](https://sukhavaho.github.io/unclassified/notebooks)
 
 
 
