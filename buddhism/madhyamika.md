@@ -1,7 +1,8 @@
 # Madhyāmika
 
 ## Perplexity 03-16-2025
-# The Madhyamika School of Buddhism: A Comprehensive Analysis
+
+### The Madhyamika School of Buddhism: A Comprehensive Analysis
 
 The Madhyamika (or Madhyamaka) school represents one of Buddhism's most profound philosophical traditions, offering a sophisticated approach to understanding reality through the concept of the Middle Way. This analysis explores its rich history, core philosophical tenets, and practical applications for modern practitioners.
 

@@ -1,7 +1,8 @@
 # Yogacāra
 
 ## Perplexity 03-16-2025
-# The Yogacara School of Buddhism: A Comprehensive Analysis
+
+### The Yogacara School of Buddhism: A Comprehensive Analysis
 
 Yogacara, literally meaning "yoga practice," represents one of the most philosophically sophisticated traditions within Buddhism. Often called the "Consciousness-Only" or "Mind-Only" school, this influential Mahayana Buddhist tradition provides profound insights into how our mind constructs reality.
 
