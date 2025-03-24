@@ -1,3 +1,14 @@
+- [Buddhism](https://sukhavaho.github.io/buddhism/buddhism)
+    - [Clear Mountain](https://sukhavaho.github.io/buddhism/clearmountain)
+    - [Discussions](https://sukhavaho.github.io/buddhism/discussions)
+    - [Suttas](https://sukhavaho.github.io/buddhism/suttas)
+- [Community]
+- [Food](https://sukhavaho.github.io/food/food)
+- [Languages](https://sukhavaho.github.io/languages/languages)
+    - [Pāḷi](https://sukhavaho.github.io/languages/pali)
+- [Meditation](https://sukhavaho.github.io/meditation/meditation)
+- [Videos](https://sukhavaho.github.io/videos/videos)
+
 - [Amaravati Sutta Decoder Ring](https://sukhavaho.github.io/amaravati)
 - [Atisha's Lojong](https://sukhavaho.github.io/atisha)
 - [Buddhism](https://sukhavaho.github.io/buddhism/buddhism)
