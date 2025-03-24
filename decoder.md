@@ -1,12 +1,13 @@
 - [Buddhism](https://sukhavaho.github.io/buddhism/buddhism)
     - [Clear Mountain](https://sukhavaho.github.io/buddhism/clearmountain)
     - [Discussions](https://sukhavaho.github.io/buddhism/discussions)
-    - [Suttas](https://sukhavaho.github.io/buddhism/suttas)
-- [Community]
+    - [Suttas](https://sukhavaho.github.io/buddhism/suttas/suttas)
 - [Food](https://sukhavaho.github.io/food/food)
 - [Languages](https://sukhavaho.github.io/languages/languages)
     - [Pāḷi](https://sukhavaho.github.io/languages/pali)
+    - [Sanskrit](https://sukhavaho.github.io/languages/sanskrit)
 - [Meditation](https://sukhavaho.github.io/meditation/meditation)
+    - [Burbea](https://sukhavaho.github.io/burbea/burbea)
 - [Videos](https://sukhavaho.github.io/videos/videos)
 
 - [Amaravati Sutta Decoder Ring](https://sukhavaho.github.io/amaravati)

@@ -8,3 +8,5 @@
 - [Yogacāra](https://sukhavaho.github.io/buddhism/yogacara)
 - [Zen](https://sukhavaho.github.io/buddhism/zen)
 
+- [Videos](https://sukhavaho.github.io/buddhism/buddhismvideos)
+
