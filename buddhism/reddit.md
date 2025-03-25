@@ -6,6 +6,7 @@
 - [r/EarlyBuddhistTexts](https://www.reddit.com/r/EarlyBuddhistTexts/)
 - [r/BuddhistStudies](https://www.reddit.com/r/buddhiststudies/)
 - [r/Dzogchen](https://www.reddit.com/r/Dzogchen/)
+- [r/Meditation](https://www.reddit.com/r/Meditation/)
 - [r/Metta](https://www.reddit.com/r/metta/)
 - [r/Mindfulness](https://www.reddit.com/r/Mindfulness/)
 - [r/StreamEntry](https://www.reddit.com/r/streamentry/)
