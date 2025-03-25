@@ -11,6 +11,7 @@
         - [Early Buddhist Meditation](https://sukhavaho.github.io/buddhism/earlymeditation)
     - [Madhyāmika](https://sukhavaho.github.io/buddhism/madhyamika)
     - [Mahayana](https://sukhavaho.github.io/buddhism/mahayana)
+    - [People](https://sukhavaho.github.io/buddhism/people)
     - [Quantum](https://sukhavaho.github.io/quantum/BuddhismQuantum)
     - [Reading](https://sukhavaho.github.io/buddhism/reading)
     - [Suttas](https://sukhavaho.github.io/buddhism/suttas/suttas)
