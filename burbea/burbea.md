@@ -1,11 +1,10 @@
 # Sukhāvaho ? [SāriputtAI](https://chatgpt.com/g/g-p25UYT2UR-sariputtai)
 
-
 # [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)
 
 - [Burbea Notebooks](https://sukhavaho.github.io/burbea/burbeanotebooks)
 - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
-- [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
+- [Burbea Techniques](https://sukhavaho.github.io/burbea/burbeatechniques)
 
 # Techniques {ongoing...}
 - [Staying at Contact](https://sukhavaho.github.io/stayingatcontact)
