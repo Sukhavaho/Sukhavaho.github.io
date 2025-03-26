@@ -1,4 +1,5 @@
 - [Buddhism](https://sukhavaho.github.io/buddhism/buddhism)
+    - [Buddha](https://www.accesstoinsight.org/ptf/buddha.html) [Dhamma](https://www.accesstoinsight.org/ptf/dhamma/index.html) [Sangha](https://www.accesstoinsight.org/ptf/sangha.html)
     - [Burbea](https://sukhavaho.github.io/burbea/burbea)
         - [Burbea Notebooks](https://sukhavaho.github.io/burbea/burbeanotebooks)
         - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
@@ -37,6 +38,11 @@
     - [Early Buddhist Meditation](https://sukhavaho.github.io/buddhism/earlymeditation)
     - [Sirimangalo Goenka](https://sukhavaho.github.io/meditation/sirimangalogoenka)
 - [Videos](https://sukhavaho.github.io/videos/videos)
+    - [Buddhism Videos](https://sukhavaho.github.io/buddhism/buddhismvideos)
+    - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
+    - [Meditation Videos](https://sukhavaho.github.io/meditation/meditationvideos)
+    - [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
+    - [Vimeo](https://vimeo.com/user13532867)
 
 
 - [Amaravati Sutta Decoder Ring](https://sukhavaho.github.io/buddhism/suttasamaravati)
