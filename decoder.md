@@ -6,6 +6,7 @@
         - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
         - [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)
     - [Clear Mountain](https://sukhavaho.github.io/buddhism/clearmountain)
+    - [Dhammapāda](https://sukhavaho.github.io/buddhism/dhammapada)
     - [Discussions](https://sukhavaho.github.io/buddhism/discussions)
         - [Dhamma Overground](https://dhammaoverground.org)
         - [Dhamma Wheel](https://dhammawheel.com)
