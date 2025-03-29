@@ -20,6 +20,13 @@
 ## Leigh Brasington
 - [Leigh Brasington's Website](https://www.leighb.com/)
 
+## Rob Burbea
+- [Burbea](https://sukhavaho.github.io/burbea/burbea)
+    - [Burbea Notebooks](https://sukhavaho.github.io/burbea/burbeanotebooks)
+    - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
+    - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
+    - [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)
+
 ## Shaila Catherine
 - [Shaila Catherine](https://shailacatherine.com/)
 - [Shaila Catherine Dhamma Seed Talks](https://dharmaseed.org/teacher/163/)
