@@ -13,31 +13,60 @@
 
 
 ## First Teachings
-
+- [Dhammacakkapぱavattana Sutta - Ṭurning of the Wheel of Truth {SN 56.11}]
+- [Anattalakkhaṇa Sutta - The Characteristic of Non Self {SN 22.59}]
+- [Ādittapariyāya Sutta - The Fire Sermon {SN 35.28}]
 
 ## The Four Noble Truths
-
+- [Mahāhatthipadopama Sutta - The Simile of the Elephant's Footprint {MN 28}]
+- [Maggavibhanga Sutta - The Eightfold Path {SN 45.8}]
 
 ## Advice for living well
-
+- [Karaṇiya Metta Sutta - Loving Kindness {SN 1.8} {Khp 9}]
+- [Maṅgala Sutta - Highest Blessings {Khp 5}]
+- [Lokavipatti Sutta - The Eight Worldly Conditions {AN 8.6}]
+- [Kālāma Sutta - Relating to Spiritual Teachers and Traditions {AN 3.65}]
+- [Kakacūpama Sutta - The Simile of the Saw {MN 21}]
+- Alagaddūpama Sutta - The Simile of the Snake {MN 22}]
 
 ## Meditation Suttas
-
+- [Mahāsatipaṭṭhāna Sutta - Foundations of Mindfulness {MN 10}]
+- [Ānāpānasati Sutta - Mindfulness of Breathing {MN 118}]
+- [Kāyagatāsati Sutta - Mindfulness of the BOdy {MN 119}]
+- [Dvedhāvitakka - Two Kinds of Thought {MN 19}]
+- [Mahārāhulovāda Sutta - Advice to Rāhula {MN 62}]
 
 ## Kamma - Cause and Effect
-
+- [Sakkapaññha Sutta - Sakka's Questions {DN 21}]
+- [Results of Intentions {Dhp 1-2}]
+- [Cūḷakammavibhanga Sutta - Exposition of Action {MN 135}]
+- [Paṭisandahati - On Rebirth {Miln 2.2.6}]
 
 ## Sila - Morality
-
+- [The Five Precepts {AN 8:39}]
+- [Result of Giving {iti 26}]
+- [Sāleyyaka Sutta - The Brahmins of Sālā {MN 41}]
+- [Sigālovāda Sutta - A Code of Discipline {DN 31}]
+- [Vatthūpama Sutta - Simile of the Cloth {MN 7}]
 
 ## Living and Dying
-
+- [Pabbatopama Sutta - Simile of the Mountains {SN 3.25}]
+- [Three Divine Messengers {AN 3.36}]
+- [Salla Sutta - The Dart of Painful Feeling {SN 36.6}]
+- [Cūḷamāluṅkya Sutta - Speculative Views {MN 63}]
+- [Bhaddekaratta Sutta - A Fortunate Attachment {MN 131 - 4}]
 
 ## Understanding Reality
-
+- [Anattalakkhaṇa Sutta - The Three Characteristics {SN 22.59}]
+- [Siṃsapā Sutta - The Handful of Leaves {SN 56.31}]
+- [Brahmajāla Sutta - The All-Embracing Net of Views {DN 1}]
+- [Tilakkhaṇa - What is and what is not in the Way {Miln 4.7.11}]
 
 ## The Chain of Dependent Origination
-
+- [Nagara Sutta - The Ancient City {SN 12.65}]
+- [Sammādiṭṭhi Sutta - Right View {MN 9}]
+- [Mahātaṇhāsaṅkhaya Sutta - Destruction of Cravings {MN 38}]
+- [Bhavanta - Gradual Becoming {Miln 2.3.5}]
 
 ## Monastic Life
 

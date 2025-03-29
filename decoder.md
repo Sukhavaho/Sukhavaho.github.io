@@ -1,4 +1,3 @@
-# Decoder Ring
 
 - [Discuss](https://sukhavaho.github.io/discuss)
 - [Listen](https://sukhavaho.github.io/listen)
@@ -10,7 +9,6 @@
 # [Assistants](https://sukhavaho.github.io/assistants)
 
         
-- [Translators](https://sukhavaho.github.io/translators)
 
 
 

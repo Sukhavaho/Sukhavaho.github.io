@@ -1,5 +1,5 @@
-# Study
-## [Back to Decoder](https://sukhavaho.github.io/decoder)
+## Study
+#### [Back to Decoder](https://sukhavaho.github.io/decoder)
 
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 
@@ -22,6 +22,7 @@
 - [Dependent Origination](https://sukhavaho.github.io/dependentorigination)
     - [Chaining](https://sukhavaho.github.io/dependentorigination/chaining)
 
+- [Translators](https://sukhavaho.github.io/translators)
 
 # [Assistants](https://sukhavaho.github.io/assistants)
 
