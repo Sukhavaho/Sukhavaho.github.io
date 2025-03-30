@@ -1,5 +1,4 @@
-## Discuss
-#### [Back to Decoder](https://sukhavaho.github.io/decoder)
+## [Discuss](https://sukhavaho.github.io/decoder)
 
 - [Clear Mountain Calendar & Events](https://sukhavaho.github.io/buddhism/clearmountain/calendar)
 

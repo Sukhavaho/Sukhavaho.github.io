@@ -1,5 +1,4 @@
-## Study
-#### [Back to Decoder](https://sukhavaho.github.io/decoder)
+## [Study](https://sukhavaho.github.io/decoder)
 
 - [Mission Majjhima](https://sukhavaho.github.io/missionmajjhima)
 

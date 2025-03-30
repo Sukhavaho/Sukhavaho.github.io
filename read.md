@@ -1,5 +1,4 @@
-## Read
-#### [Back to Decoder](https://sukhavaho.github.io/decoder)
+## [Read](https://sukhavaho.github.io/decoder)
 
 # Buddhism
 

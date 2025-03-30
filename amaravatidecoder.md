@@ -69,8 +69,19 @@
 - [Bhavanta - Gradual Becoming {Miln 2.3.5}]
 
 ## Monastic Life
-
+- [Gaṇakamoggallāna Sutta - Gradual Training {MN 107}]
+- [Sabbāsava Sutta - All the Taints {MN 2}]
+- [Anangaṇa Sutta - Without Blemishes {MN 5}]
+- [Khaggavisana Sutta - The Rhinocereos Horn {Sn 1.3}]
+- [Cūḷasāropama Sutta - The Simile of the Heartwood {MN 30}]
+- [Cūḷagosinga Sutta - In Gosinga {MN 31}]
 
 ## Nibbāna - Enlightenment
-- 
+- [Asaṅkhata Samyutta - Paths and 33 Names {SN 43.1 - 44}]
+- [Nibbāna Sutta - That Base {Ud 8.1}]
+- [Nibbāna Sutta - The Unborn {Ud 8.3}]
+- [Enlightenment - {Thig 114-1⅙}{THig 5.10}]
+- [The Stone Pillar {AN 9.26}]
+- [Bāhiya Sutta - The Concise Teaching {Ud 1.10}]
+
 
