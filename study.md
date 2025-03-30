@@ -7,7 +7,7 @@
 - [Sangha](https://www.accesstoinsight.org/ptf/sangha.html)
 
 - [Dhammapāda](https://sukhavaho.github.io/buddhism/dhammapada)
-- [Suttas](https://sukhavaho.github.io/buddhism/suttas/suttas)
+- [Suttas](https://sukhavaho.github.io/buddhism/suttas)
     - [Amaravati Decoder](https://sukhavaho.github.io/amaravatidecoder)
     - [Amaravati Decoder PDF](https://sukhavaho.github.io/buddhism/suttas/amaravati)
     - [Suttā Piṭaka](https://sukhavaho.github.io/sutta/SuttaPiṭaka)

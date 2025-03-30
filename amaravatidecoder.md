@@ -30,11 +30,11 @@
 - Alagaddūpama Sutta - The Simile of the Snake {MN 22}]
 
 ## Meditation Suttas
-- [Mahāsatipaṭṭhāna Sutta - Foundations of Mindfulness {MN 10}]
-- [Ānāpānasati Sutta - Mindfulness of Breathing {MN 118}]
-- [Kāyagatāsati Sutta - Mindfulness of the BOdy {MN 119}]
-- [Dvedhāvitakka - Two Kinds of Thought {MN 19}]
-- [Mahārāhulovāda Sutta - Advice to Rāhula {MN 62}]
+- [Mahāsatipaṭṭhāna Sutta - Foundations of Mindfulness {MN 10}](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Ānāpānasati Sutta - Mindfulness of Breathing {MN 118}](https://suttacentral.net/mn118/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Kāyagatāsati Sutta - Mindfulness of the Body {MN 119}](https://suttacentral.net/mn119/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Dvedhāvitakka - Two Kinds of Thought {MN 19}](https://suttacentral.net/mn19/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Mahārāhulovāda Sutta - Advice to Rāhula {MN 62}](https://suttacentral.net/mn62/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 ## Kamma - Cause and Effect
 - [Sakkapaññha Sutta - Sakka's Questions {DN 21}]
