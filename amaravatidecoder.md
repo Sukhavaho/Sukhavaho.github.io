@@ -1,4 +1,4 @@
-# Amaravadi Sutta Decoder
+# [Amaravadi Sutta Decoder](https://sukhavaho.github.io/decoder)
 
 ### Templates
 - https://suttacentral.net/mn1/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
