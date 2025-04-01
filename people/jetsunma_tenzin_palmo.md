@@ -1,3 +1,5 @@
+# [Jetsunma Tenzin Palmo](https://sukhavaho.github.io/people/people)
+
 # Jetsunma Tenzin Palmo's Biography:
 Jetsunma Tenzin Palmo was born Diane Perry in England in 1943. 
 Inspired by Buddhism from a young age, she traveled to India in 1964 and was ordained as one of the first Western Tibetan Buddhist nuns by His Holiness the 16th Karmapa and trained with the 8th Khamtrul Rinpoche. 

@@ -1,6 +1,6 @@
 ## [Discuss](https://sukhavaho.github.io/decoder)
 
-- [Clear Mountain Calendar & Events](https://sukhavaho.github.io/buddhism/clearmountain/calendar)
+- [Clear Mountain Calendar & Events](https://www.clearmountainmonastery.org/calendar/)
 
 - [Discussions](https://sukhavaho.github.io/buddhism/discussions)
     - [Dhamma Overground](https://dhammaoverground.org)

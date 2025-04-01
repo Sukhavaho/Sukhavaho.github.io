@@ -7,19 +7,19 @@
 
 ## The Life of The Buddha
 - [Ariyapariyesanā Sutta - The Noble Search {MN 26}](https://suttacentral.net/mn26/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
-- [Mahāsaccaka Sutta - Discourse to the Saccaka {MN 36}]
-- [Mahāsīhanāda Sutta - The Lion's Roar {MN 12}]
-- [Mahāpārinibbāna Sutta - His Last Days {DN 16}]
+- [Mahāsaccaka Sutta - Discourse to the Saccaka {MN 36}](https://suttacentral.net/mn36/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Mahāsīhanāda Sutta - The Lion's Roar {MN 12}](https://suttacentral.net/mn12/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Mahāpārinibbāna Sutta - His Last Days {DN 16}](https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 
 ## First Teachings
-- [Dhammacakkapぱavattana Sutta - Ṭurning of the Wheel of Truth {SN 56.11}]
-- [Anattalakkhaṇa Sutta - The Characteristic of Non Self {SN 22.59}]
-- [Ādittapariyāya Sutta - The Fire Sermon {SN 35.28}]
+- [Dhammacakkapぱavattana Sutta - Ṭurning of the Wheel of Truth {SN 56.11}](https://suttacentral.net/sn56.11/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Anattalakkhaṇa Sutta - The Characteristic of Non Self {SN 22.59}](https://suttacentral.net/sn22.59/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Ādittapariyāya Sutta - The Fire Sermon {SN 35.28}](https://suttacentral.net/sn35.28/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 ## The Four Noble Truths
-- [Mahāhatthipadopama Sutta - The Simile of the Elephant's Footprint {MN 28}]
-- [Maggavibhanga Sutta - The Eightfold Path {SN 45.8}]
+- [Mahāhatthipadopama Sutta - The Simile of the Elephant's Footprint {MN 28}](https://suttacentral.net/mn28/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Maggavibhanga Sutta - The Eightfold Path {SN 45.8}](https://suttacentral.net/sn45.8/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 ## Advice for living well
 - [Karaṇiya Metta Sutta - Loving Kindness {SN 1.8} {Khp 9}]

@@ -7,7 +7,7 @@
     - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
     - [Meditation Videos](https://sukhavaho.github.io/meditation/meditationvideos)
     - [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
-    - [Vimeo](https://vimeo.com/user13532867)
+    - [Vimeo Ingram](https://vimeo.com/user13532867)
 
 
 # [Assistants](https://sukhavaho.github.io/assistants)
