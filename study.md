@@ -16,7 +16,9 @@
 
 - [Languages](https://sukhavaho.github.io/languages/languages)
     - [Pāḷi Bāsa](https://sukhavaho.github.io/languages/pali)
+        - [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
     - [Sanskrit](https://sukhavaho.github.io/languages/sanskrit)
+        - [Sanskrit Videos](https://sukhavaho.github.io/languages/sanskritvideos)
 
 - [Dependent Origination](https://sukhavaho.github.io/dependentorigination)
     - [Chaining](https://sukhavaho.github.io/dependentorigination/chaining)
