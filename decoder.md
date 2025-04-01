@@ -1,7 +1,7 @@
 # [Assistants](https://sukhavaho.github.io/assistants)
 
 ## Cache
-- [Rob Burbea's Videos](https://sukhavaho.github.io/burbeavideos)
+- [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 
 
 ## Decoder
