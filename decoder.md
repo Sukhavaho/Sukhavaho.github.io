@@ -1,6 +1,7 @@
 # [Assistants](https://sukhavaho.github.io/assistants)
 
 ## Cache
+- [The Precepts](https://sukhavaho.github.io/dhamma/precepts)
 - [List of Lists](https://sukhavaho.github.io/dhamma/lists)
 - [Claude's of Lists](https://sukhavaho.github.io/dhamma/claudelists)
 - [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
