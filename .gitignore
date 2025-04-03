@@ -1,0 +1,20 @@
+# Ignore Vim swap files
+*.swp
+*.swo
+
+# Ignore Vim backup files
+*~
+
+# Ignore Vim undo files
+*.un~
+
+# Ignore other temporary files
+*.tmp
+*.bak
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
