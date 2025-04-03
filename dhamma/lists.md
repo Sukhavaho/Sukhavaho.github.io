@@ -1,6 +1,24 @@
 # Lists
 
 ### Perplexity
+
+| **English**                          | **Pāḷi**                          |
+|--------------------------------------|------------------------------------|
+| Eightfold Noble Path                 | Ariya Aṭṭhaṅgika Magga             |
+| Five Aggregates                      | Pañca Khandha                     |
+| Five Faculties                       | Pañca Indriya                     |
+| Five Precepts                        | Pañca Sīla                        |
+| Five Strengths                       | Pañca Bala                        |
+| Four Bases of Power                  | Cattāro Iddhipāda                 |
+| Four Foundations of Mindfulness      | Cattāro Satipaṭṭhāna              |
+| Four Noble Truths                    | Cattāri Ariyasaccāni              |
+| Four Right Efforts                   | Cattāro Sammappadhāna             |
+| Seven Factors of Enlightenment       | Satta Bojjhaṅga                   |
+| Three Characteristics                | Tilakkhaṇa                        |
+| Three Jewels                         | Tiratana                          |
+| Three Poisons                        | Akusala-mūla                      |
+
+#### Take 2
 | **English**                          | **Pāḷi**                          |
 |--------------------------------------|------------------------------------|
 | Eightfold Noble Path                 | Ariya Aṭṭhaṅgika Magga             |
