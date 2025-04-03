@@ -1,5 +1,8 @@
 ## [Practice](https://sukhavaho.github.io/decoder)
 
+- [Lists](https://sukhavaho.github.io/dhamma/claudelists)
+    - [Precepts](https://sukhavaho.github.io/dhamma/precepts)
+ 
 - [Meditation](https://sukhavaho.github.io/meditation/meditation)
     - [Burbea](https://sukhavaho.github.io/burbea/burbea)
     - [ADD/ADHD Meditation](https://sukhavaho.github.io/meditation/adhd)

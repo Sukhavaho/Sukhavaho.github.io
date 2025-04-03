@@ -1,9 +1,8 @@
-# [Assistants](https://sukhavaho.github.io/assistants)
+# Decoder
 
 ## Cache
-- [The Precepts](https://sukhavaho.github.io/dhamma/precepts)
-- [List of Lists](https://sukhavaho.github.io/dhamma/lists)
-- [Claude's of Lists](https://sukhavaho.github.io/dhamma/claudelists)
+- [Lists in Buddhism](https://sukhavaho.github.io/dhamma/claudelists)
+    - [The Precepts](https://sukhavaho.github.io/dhamma/precepts)
 - [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 
 
@@ -17,7 +16,7 @@
     - [Amaravati Decoder](https://sukhavaho.github.io/amaravatidecoder)
 - [Watch](https://sukhavaho.github.io/watch)
 
-
+# [Assistants](https://sukhavaho.github.io/assistants)
         
 
 
