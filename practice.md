@@ -1,5 +1,4 @@
-## Practice
-#### [Back to Decoder](https://sukhavaho.github.io/decoder)
+## [Practice](https://sukhavaho.github.io/decoder)
 
 - [Meditation](https://sukhavaho.github.io/meditation/meditation)
     - [Burbea](https://sukhavaho.github.io/burbea/burbea)

@@ -1,4 +1,4 @@
-# [People in Buddhism and Meditation](https://sukhavaho.github.io/decoder)
+## [People in Buddhism and Meditation](https://sukhavaho.github.io/decoder)
 
 
 - [Ajahn Geoff](https://sukhavaho.github.io/people/ajahn_geoff)
