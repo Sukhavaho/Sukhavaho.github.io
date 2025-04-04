@@ -11,6 +11,7 @@
 - [Listen](https://sukhavaho.github.io/listen)
 - [People](https://sukhavaho.github.io/people/people)
 - [Practice](https://sukhavaho.github.io/practice)
+    - [Precepts](https://sukhavaho.github.io/dhamma/precepts)
 - [Read](https://sukhavaho.github.io/read)
 - [Study](https://sukhavaho.github.io/study)
     - [Amaravati Decoder](https://sukhavaho.github.io/amaravatidecoder)

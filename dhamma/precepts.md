@@ -1,5 +1,7 @@
 # [The Precepts](https://sukhavaho.github.io/decoder)
 
+### [See also: Lists in Buddhism](https://sukhavaho.github.io/dhamma/lists)
+
 In early and Theravada Buddhism, there are several different sets of precepts (sīla) for different practitioners. Here's a breakdown of the main precept groups:
 
 1. **Five Precepts** (Pañca Sīlāni) - For lay followers in daily life:
