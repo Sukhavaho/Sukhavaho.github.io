@@ -1,4 +1,4 @@
-# Assistants
+# [Assistants](https://sukhavaho.github.io/decoder)
 
 - [ChatGPT](https://chatgpt.com/)
     - [Chef Nisha Arora](https://chatgpt.com/g/g-kEoz3BWkM-chef-nisha-arora)
