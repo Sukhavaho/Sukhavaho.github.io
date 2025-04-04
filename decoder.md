@@ -1,7 +1,7 @@
 # Decoder
 
 ## Cache
-- [Lists in Buddhism](https://sukhavaho.github.io/dhamma/claudelists)
+- [Lists in Buddhism](https://sukhavaho.github.io/dhamma/lists)
     - [The Precepts](https://sukhavaho.github.io/dhamma/precepts)
 - [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 
