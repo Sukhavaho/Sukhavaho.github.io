@@ -1,5 +1,4 @@
-# Pāḷi Vocabulary
-
+# [Pāḷi Vocabulary](https://sukhavaho.github.io/languages/pali)
 
 ## Claud 03-15-2025
 

@@ -1,10 +1,13 @@
-# Pāḷi Language
+# [Pāḷi Language](https://sukhavaho.github.io/decoder)
+
+## Claude 
+- [Language Summary](https://sukhavaho.github.io/languages/palisummary)
+- [Grammar Summary](https://sukhavaho.github.io/languages/paligrammarsummary)
+- [Vocabulary](https://sukhavaho.github.io/Pāḷi/palivocab)
 
 ## Videos
 - [YouTube](https://sukhavaho.github.io/languages/palivideos)
 
-## Vocabulary
-- [Claude Vocabulary](https://sukhavaho.github.io/Pāḷi/palivocab)
 
 ## Books
 - [Yuttadhammo Pāḷi Textbook {Word}](https://docs.google.com/document/d/1uDHW0tOhqOGMv3sKbgEAMJ7KXpM21h2F26G5khPFNAY/edit?usp=drive_link)
