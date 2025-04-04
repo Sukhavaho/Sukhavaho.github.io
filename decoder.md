@@ -14,6 +14,7 @@
 - [Read](https://sukhavaho.github.io/read)
 - [Study](https://sukhavaho.github.io/study)
     - [Amaravati Decoder](https://sukhavaho.github.io/amaravatidecoder)
+    - [Pāḷi Bāsa](https://sukhavaho.github.io/languages/pali)
 - [Watch](https://sukhavaho.github.io/watch)
 
 # [Assistants](https://sukhavaho.github.io/assistants)
