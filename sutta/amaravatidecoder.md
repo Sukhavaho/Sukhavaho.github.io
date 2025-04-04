@@ -22,12 +22,12 @@
 - [Maggavibhanga Sutta - The Eightfold Path {SN 45.8}](https://suttacentral.net/sn45.8/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 ## Advice for living well
-- [Karaṇiya Metta Sutta - Loving Kindness {SN 1.8} {Khp 9}]
-- [Maṅgala Sutta - Highest Blessings {Khp 5}]
-- [Lokavipatti Sutta - The Eight Worldly Conditions {AN 8.6}]
-- [Kālāma Sutta - Relating to Spiritual Teachers and Traditions {AN 3.65}]
-- [Kakacūpama Sutta - The Simile of the Saw {MN 21}]
-- Alagaddūpama Sutta - The Simile of the Snake {MN 22}]
+- [Karaṇiya Metta Sutta - Loving Kindness {SN 1.8} {Khp 9}](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.piya.html)
+- [Maṅgala Sutta - Highest Blessings {Khp 5}](https://suttacentral.net/kp5/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Lokavipatti Sutta - The Eight Worldly Conditions {AN 8.6}](https://suttacentral.net/an8.6/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Kālāma Sutta - Relating to Spiritual Teachers and Traditions {AN 3.65}](https://suttacentral.net/an3.65/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Kakacūpama Sutta - The Simile of the Saw {MN 21}](https://suttacentral.net/mn21/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
+- [Alagaddūpama Sutta - The Simile of the Snake {MN 22}](https://suttacentral.net/mn22/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 ## Meditation Suttas
 - [Mahāsatipaṭṭhāna Sutta - Foundations of Mindfulness {MN 10}](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
@@ -37,7 +37,7 @@
 - [Mahārāhulovāda Sutta - Advice to Rāhula {MN 62}](https://suttacentral.net/mn62/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 
 ## Kamma - Cause and Effect
-- [Sakkapaññha Sutta - Sakka's Questions {DN 21}]
+- [Sakkapaññha Sutta - Sakka's Questions {DN 21}](https://suttacentral.net/dn21/en/sujato?lang=en&layout=linebyline&reference=none&notes=none&highlight=false&script=latin)
 - [Results of Intentions {Dhp 1-2}]
 - [Cūḷakammavibhanga Sutta - Exposition of Action {MN 135}]
 - [Paṭisandahati - On Rebirth {Miln 2.2.6}]

@@ -14,7 +14,7 @@
     - [Precepts](https://sukhavaho.github.io/dhamma/precepts)
 - [Read](https://sukhavaho.github.io/read)
 - [Study](https://sukhavaho.github.io/study)
-    - [Amaravati Decoder](https://sukhavaho.github.io/amaravatidecoder)
+    - [Amaravati Decoder](https://sukhavaho.github.io/sutta/amaravatidecoder)
     - [Pāḷi Bāsa](https://sukhavaho.github.io/languages/pali)
 - [Watch](https://sukhavaho.github.io/watch)
 
