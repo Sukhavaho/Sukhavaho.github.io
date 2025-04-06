@@ -1,4 +1,4 @@
-# Meditation
+## [Meditation](https://sukhavaho.github.io/practice)
 
 - [ADD/ADHD Meditation](https://sukhavaho.github.io/meditation/adhd)
 - [Burbea](https://sukhavaho.github.io/burbea/burbea)
