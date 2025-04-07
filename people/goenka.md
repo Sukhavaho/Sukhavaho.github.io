@@ -5,3 +5,6 @@
 - [Lion's Roar - Interview](https://www.lionsroar.com/the-universal-meditation-technique-of-s-n-goenka/)
 - [About Joseph Goldstein](https://insightmyanmar.org/burmadhammablog/2021/4/1/confusion-abounds-a-split-between-joseph-goldstein-and-sn-goenka)
 
+# Videos
+- [Dr. Flieschman AllpointstoOne](https://www.youtube.com/playlist?list=PLClGmIhbAuM3xcmqfetuNpgabMJOwGYH_)
+

@@ -10,6 +10,7 @@
 ## Decoder
 - [Discuss](https://sukhavaho.github.io/discuss)
 - [Listen](https://sukhavaho.github.io/listen)
+    - [Google Notebook LM](https://notebooklm.google.com/)
 - [People](https://sukhavaho.github.io/people/people)
 - [Practice](https://sukhavaho.github.io/practice)
     - [Precepts](https://sukhavaho.github.io/dhamma/precepts)

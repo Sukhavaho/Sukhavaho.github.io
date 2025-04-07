@@ -13,7 +13,7 @@
     - [Vajrayana](https://sukhavaho.github.io/buddhism/vajrayana)
     - [Zen](https://sukhavaho.github.io/buddhism/zen)
 
-
+- [Google Notebook LM](https://notebooklm.google.com/)
 
 - [Unclassified](https://sukhavaho.github.io/unclassified/unclassified))
     - [Dalrymple](https://sukhavaho.github.io/unclassified/dalrymple)
