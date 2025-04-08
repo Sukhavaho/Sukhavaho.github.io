@@ -1,7 +1,9 @@
 ## [People in Buddhism and Meditation](https://sukhavaho.github.io/decoder)
 
 - [Ajahn Geoff](https://sukhavaho.github.io/people/ajahn_geoff)
+- [Ajahn Lee Dhammadharo](https://sukhavaho.github.io/people/ajahn_lee_dhammadharo)
 - [Ajahn Sucitto](https://sukhavaho.github.io/people/ajahn_sucitto)
+- [Culadasa](https://sukhavaho.github.io/people/culadasa)
 - [Daniel Ingram](https://sukhavaho.github.io/people/daniel_ingram)
 - [Goenka, S.N.](https://sukhavaho.github.io/people/goenka)
 - [Leigh Brasington](https://sukhavaho.github.io/people/leigh_brasingthon)
