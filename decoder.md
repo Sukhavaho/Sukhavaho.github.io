@@ -4,6 +4,8 @@
 - [Dharma Overground - Insight in Perspective](https://www.dharmaoverground.org/discussion/-/message_boards/message/33210937)
 - [Lists in Buddhism](https://sukhavaho.github.io/dhamma/lists)
     - [The Precepts](https://sukhavaho.github.io/dhamma/precepts)
+    - [The Four Noble Truths - Aṭṭhaṅgika Magga](https://sukhavaho.github.io/dhamma/fournobletruths)
+
 - [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 
 
