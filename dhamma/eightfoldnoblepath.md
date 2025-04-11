@@ -1,4 +1,4 @@
-## [The Four Noble Truths](https://sukhavaho.github.io/dhamma/lists)
+## [The Noble Eightfold Path](https://sukhavaho.github.io/dhamma/lists)
 
 The Eightfold Path (Aṭṭhaṅgika Magga) is the core teaching of the Buddha that outlines the way to liberation (nibbāna) by overcoming suffering (dukkha). It is the fourth of the Four Noble Truths and represents the practical means to achieve the cessation of suffering. It is divided into three broad categories: wisdom (paññā), ethics (sīla), and mental discipline (samādhi).
 
