@@ -1,7 +1,7 @@
 # [Lists in Buddhism](https://sukhavaho.github.io/decoder)
 
 - [The Four Noble Truths - Aṭṭhaṅgika Magga](https://sukhavaho.github.io/dhamma/fournobletruths)
-- [The r Noble Truths](https://sukhavaho.github.io/dhamma/fournobletruths)
+- [The Noble Eightfold Path - Ariya Aṭṭhaṅgika Magga](https://sukhavaho.github.io/dhamma/eightfoldnoblepath)
 
 ### Comprehensive Guide to Theravada and Early Buddhist Lists
 
