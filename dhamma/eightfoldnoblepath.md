@@ -5,14 +5,14 @@ The Eightfold Path (Aṭṭhaṅgika Magga) is the core teaching of the Buddha t
 Here’s the breakdown:
 
 1. Wisdom (Paññā):
-•	1. Sammā-diṭṭhi: Right View
+    •	1. Sammā-diṭṭhi: Right View
 Understanding the Four Noble Truths, the nature of suffering, its cause, its cessation, and the path leading to its cessation.
-•	2. Sammā-saṅkappa: Right Intention
+    •	2. Sammā-saṅkappa: Right Intention
 Cultivating intentions of renunciation, goodwill, and harmlessness, while abandoning thoughts of desire, ill-will, and cruelty.
 
 2. Ethics (Sīla):
 
-•	3. Sammā-vācā: Right Speech
+    •	3. Sammā-vācā: Right Speech
 Speaking truthfully, avoiding slander, harsh speech, and idle chatter.
 
 	•	4. Sammā-kammanta: Right Action
