@@ -9,6 +9,7 @@
 - [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 
 ## [Google Notebook LM](https://notebooklm.google.com/)
+- [YouTube Notebook LM Podcasts](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SPo-HvvGvmD0pquoB27FDk)
 
 ## Decoder
 - [Discuss](https://sukhavaho.github.io/discuss)
