@@ -5,7 +5,7 @@
 - [Ajahn Geoff](https://sukhavaho.github.io/people/ajahn_geoff)
 - [Ajahn Lee Dhammadharo](https://sukhavaho.github.io/people/ajahn_lee_dhammadharo)
 - [Ajahn Sucitto](https://sukhavaho.github.io/people/ajahn_sucitto)
-- [Ajahn Sujato](https://sukhavaho.github.io/people/ajahn_sujato)
+- [Ajahn Sujato](https://sukhavaho.github.io/people/sujato)
 - [Culadasa](https://sukhavaho.github.io/people/culadasa)
 - [Daniel Ingram](https://sukhavaho.github.io/people/daniel_ingram)
 - [Goenka, S.N.](https://sukhavaho.github.io/people/goenka)
