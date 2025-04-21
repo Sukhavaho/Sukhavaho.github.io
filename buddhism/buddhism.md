@@ -1,4 +1,4 @@
-# Buddhism
+# [Buddhism](https://sukhavaho.github.io/decoder)
 
 - [Early Buddhism](https://sukhavaho.github.io/buddhism/earlybuddhism)
     - [Early Buddhist Meditation](https://sukhavaho.github.io/buddhism/earlymeditation)

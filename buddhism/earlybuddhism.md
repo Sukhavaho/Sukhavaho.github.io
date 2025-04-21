@@ -1,4 +1,4 @@
-# Early Buddhism
+# [Early Buddhism](https://sukhavaho.github.io/buddhism/buddhism)
 
 ## Perplexity 03-16-2025
 

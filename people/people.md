@@ -1,5 +1,7 @@
 ## [People in Buddhism and Meditation](https://sukhavaho.github.io/decoder)
 
+- [Ajahn Brahmali](https://sukhavaho.github.io/people/ajahn_brahmali)
+- [Ajahn Brahm](https://sukhavaho.github.io/people/ajahn_brahm)
 - [Ajahn Geoff](https://sukhavaho.github.io/people/ajahn_geoff)
 - [Ajahn Lee Dhammadharo](https://sukhavaho.github.io/people/ajahn_lee_dhammadharo)
 - [Ajahn Sucitto](https://sukhavaho.github.io/people/ajahn_sucitto)
