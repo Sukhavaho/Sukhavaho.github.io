@@ -5,7 +5,8 @@
 
 ## Videos
 
-- [Sujato - How to Stop Meditating](https://www.youtube.com/watch?v=EWNoaljcZ6k&list=PLk74A6Qy7X1RgyFM_G27Ek5y-NkHpvV8g)
+- [Sujato - Life Hacks for the End of The World Playlist](https://www.youtube.com/playlist?list=PLTcGMzIEhlsbKfAZcvskwySCzzRQ1iiMb)
+- [Sujato - Maha Chat Chai Metta Meditation Playlist](https://www.youtube.com/playlist?list=PLTcGMzIEhlsa0maPxIduPyYSNonn0_umT)
 - [Sujato - Metta Meditation](https://www.youtube.com/watch?v=ENwbhtw82Bo&t=7s&pp=ygUUU3VqYXRvIFZpc3VkZGhpbWFnZ2E%3D)
 - [Sujato on Thich Nhat Hanh & Luang Por Sumemdho](https://www.youtube.com/watch?v=vVJd5pz-PkU)
 - [Sujato on Goenka, Mahasi, etc](https://www.youtube.com/watch?v=afBxf0pYgHI)
@@ -26,10 +27,9 @@
 - [Sujato - 2012/13 Far Shore](https://www.youtube.com/playlist?list=PL70fWqztn7OXHkOH2TuFdpLuzL-71ggjg)
 - [Sujato - 2014 Far Shore](https://www.youtube.com/playlist?list=PL70fWqztn7OWsHDOeruUrTFwX2L8SCqn_)
 - [Sujato - 2015 Far Shore](https://www.youtube.com/playlist?list=PL70fWqztn7OUkWzQzR9XmkbFqVAc-M3yS)
-
-
 - [Sujato - Philosophy Nights](https://www.youtube.com/playlist?list=PL00D56D9A924C2AB4)
 
+- [Sujato - How to Stop Meditating](https://www.youtube.com/watch?v=EWNoaljcZ6k&list=PLk74A6Qy7X1RgyFM_G27Ek5y-NkHpvV8g)
 
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
 - [Sujato Bhikkhu - Sukhāvaho](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RgyFM_G27Ek5y-NkHpvV8g)
