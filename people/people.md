@@ -17,6 +17,7 @@
     - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
     - [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)
 - [Shaila Catherine](https://sukhavaho.github.io/people/shaila_catherine)
+- [Tejaniya Ashin](https://sukhavaho.github.io/people/tejaniya.md)
 - [Yuttadhammo](https://sukhavaho.github.io/people/yuttadhammo)
 
 
