@@ -1,6 +1,7 @@
 # Decoder
 
-## Vision Friendly
+## [YouTube History](https://www.youtube.com/feed/history)
+## [YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
 ## [Rob Burbea's Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 ## [YouTube Notebook LM Podcasts](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SPo-HvvGvmD0pquoB27FDk)
 ## [Ajahn Sujato](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)

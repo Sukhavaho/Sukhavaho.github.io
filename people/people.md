@@ -1,4 +1,4 @@
-## [People in Buddhism and Meditation](https://sukhavaho.github.io/decoder)
+## [Decoder](https://sukhavaho.github.io/decoder)
 
 - [Ajahn Brahmali](https://sukhavaho.github.io/people/ajahn_brahmali)
 - [Ajahn Brahm](https://sukhavaho.github.io/people/ajahn_brahm)
