@@ -1,4 +1,4 @@
-# Videeos
+# Videeos {DEPRECATED - Go to [Watch](https://sukhavaho.github.io/watch)}
 
 - [Buddhism Videos](https://sukhavaho.github.io/buddhism/buddhismvideos)
 - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)

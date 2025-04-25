@@ -1,5 +1,6 @@
 ## [Watch](https://sukhavaho.github.io/decoder)
 
+### [More Videos](https://sukhavaho.github.io/videos/videos)
 
 - [YouTube History](https://www.youtube.com/feed/history)
 - [YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
@@ -31,5 +32,16 @@
 
 
 # [Assistants](https://sukhavaho.github.io/assistants)
+
+# General
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Big Think](https://www.youtube.com/@bigthink)
+- [Malcolm Gladwell](https://www.youtube.com/@malcolmgladwell)
+- [Science 9](https://www.youtube.com/@ScienceNine)
+- [Startalk](https://www.youtube.com/@StarTalk)
+- [Startalk Plus](https://www.youtube.com/@StarTalkPlus)
+- [Veritasium](https://www.youtube.com/@veritasium)
+
+
 
 
