@@ -957,7 +957,7 @@
 ---
 
 ## The Ten Precepts (Dasa Sīla)
-
+#### [{Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Ten ethical guidelines observed by novice monks and nuns.
 
 **List:**
