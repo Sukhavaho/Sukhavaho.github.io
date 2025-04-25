@@ -981,4 +981,5 @@
 - Five Precepts (builds upon these)
 - Eight Precepts (builds upon these, splitting the seventh precept and adding the tenth)
 
+[Back to Top](#Table of Contents)
 
