@@ -1,53 +1,52 @@
 # Decoder
 ## [Buddhist Lists](https://sukhavaho.github.io/dhamma/buddhist-lists)
 ##### What to NOT do
+- [The Three Roots of Evil - Akusala-mūla](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-roots-of-evil-akusala-mūla)
+- [The Four Kinds of Clinging - Upādāna](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-kinds-of-clinging-upādāna)
 - [The Five Hindrances - Pañca Nivaraṇāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-hindrances-pañca-nīvaraṇāni)
-- [The Ten Unwholesome Actions - Dasa Akusala-kammapathā]
-- [The Three Roots of Evil - Akusala-mūla]
-- [The Four Kinds of Clinging - Upādāna]
-- [The Ten Fetters - Dasa Saṃyojanāni]
-
+- [The Ten Unwholesome Actions - Dasa Akusala-kammapathā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-unwholesome-actions-dasa-akusala-kammapathā)
+- [The Ten Fetters - Dasa Saṃyojanāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-fetters-dasa-saṃyojanāni)
  
 ##### What to do
-- [The Three Jewels/Refuges - Tiratana]
-- [The Four Foundations of Mindfulness - Cattāro Satipaṭṭhānā]
-- [The Seven Factors of Enlightenment - Satta Bojjhaṅga]
-- [The Noble Eightfold Path - Ariya Aṭṭhaṅgika Magga]
-- [The Five Precepts - Pañca Sila]
-- [The Eight Precepts - Aṭṭha Sila]
-- [The Ten Precepts - Dasa Sila]
+- [The Five Precepts - Pañca Sila](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-precepts-pañca-sīla)
+- [The Eight Precepts - Aṭṭha Sila](https://sukhavaho.github.io/dhamma/buddhist-lists#the-eight-precepts-aṭṭha-sīla)
+- [The Ten Precepts - Dasa Sila](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-precepts-dasa-sīla)
+- [The Three Jewels/Refuges - Tiratana](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-jewelsrefuges-tiratana)
+- [The Four Foundations of Mindfulness - Cattāro Satipaṭṭhānā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-foundations-of-mindfulness-cattāro-satipaṭṭhānā)
+- [The Seven Factors of Enlightenment - Satta Bojjhaṅga](https://sukhavaho.github.io/dhamma/buddhist-lists#the-seven-factors-of-enlightenment-satta-bojjhaṅgā)
+- [The Noble Eightfold Path - Ariya Aṭṭhaṅgika Magga](https://sukhavaho.github.io/dhamma/buddhist-lists#the-noble-eightfold-path-ariya-aṭṭhaṅgika-magga)
 
-- [The Four Sublime States - Brahma-vihāra]
-- [The Five Spiritual Faculties - Pañca Indriyāni]
-- [The Five Powers - Pañca Balāni]
-- [The Four Right Efforts - Cattāro Sammappadhānā]
-- [The Four Bases of Power - Cattāro Iddhipādā]
-- [The Four Noble Lineages - Cattāri Ariyavaṃsāni]
-- [The Three Trainings - Tissikkhā]
-- [The Three Doors of Liberation - Vimokkha-mukha]
-- [The Four Nutriments - Āhāra]
-- [The Six Recollections - Cha Anussati]
-- [The Ten Reflections - Dasa Anussati]
-- [The Seven Purifications - Satta Visuddhi]
-- [The Ten Perfections - Dasa Pārami]
-- [The Three Kinds of Wisdom - Paññā]
-- [The Four Disicriminations - Paṭisambhidā]
+- [The Four Sublime States - Brahma-vihāra](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-sublime-states-brahma-vihāra)
+- [The Five Spiritual Faculties - Pañca Indriyāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-spiritual-faculties-pañca-indriyāni)
+- [The Five Powers - Pañca Balāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-powers-pañca-balāni)
+- [The Four Right Efforts - Cattāro Sammappadhānā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-right-efforts-cattāro-sammappadhānā)
+- [The Four Bases of Power - Cattāro Iddhipādā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-bases-of-power-cattāro-iddhipādā)
+- [The Four Noble Lineages - Cattāri Ariyavaṃsāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-noble-lineages-cattāri-ariyavaṃsāni)
+- [The Three Trainings - Tissikkhā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-trainings-tisikkhā)
+- [The Three Doors of Liberation - Vimokkha-mukha](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-doors-of-liberation-vimokkha-mukha)
+- [The Four Nutriments - Āhāra](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-nutriments-āhāra)
+- [The Six Recollections - Cha Anussati](https://sukhavaho.github.io/dhamma/buddhist-lists#the-six-recollections-cha-anussati)
+- [The Ten Reflections - Dasa Anussati](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-reflections-dasa-anussati)
+- [The Seven Purifications - Satta Visuddhi](https://sukhavaho.github.io/dhamma/buddhist-lists#the-seven-purifications-satta-visuddhi)
+- [The Ten Perfections - Dasa Pārami](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-perfections-dasa-pāramī)
+- [The Three Kinds of Wisdom - Paññā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-kinds-of-wisdom-paññā)
+- [The Four Disicriminations - Paṭisambhidā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-discriminations-paṭisambhidā)
 
 
-##### What Happens
-- [The Four Noble Truths - Cattåri Ariyasaccåni]
-- [The Three Characteristics - Tilakkhana]
-- [The Five Aggregates - Pañcakkhandhā]
-- [The Six Sense Bases - Saḷāyatana]
-- [The Twelve Links of Dependent Origination - Paṭiccasamuppāda]
-- [The Four Stages of Enlightenment]
-- [The Nine Jhanas - Jhānāni]
-- The Four Elements - Cattāro Dhātu]
-- [The Three Types of Feelings - Vedanā]
-- [The Five Destinations - Pañcagati]
-- [The Eight Worldly Concerns - Loka-dhammā]
-- [The Thirty-One Planes of Existence - Bhūmi]
-- [The Three Types of Suffering - Dukkha]
+##### What Is
+- [The Four Noble Truths - Cattåri Ariyasaccåni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-noble-truths-cattāri-ariyasaccāni)
+- [The Three Characteristics - Tilakkhana](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-characteristics-tilakkhana)
+- [The Five Aggregates - Pañcakkhandhā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-aggregates-pañcakkhandhā)
+- [The Six Sense Bases - Saḷāyatana](https://sukhavaho.github.io/dhamma/buddhist-lists#the-six-sense-bases-saḷāyatana)
+- [The Twelve Links of Dependent Origination - Paṭiccasamuppāda](https://sukhavaho.github.io/dhamma/buddhist-lists#the-twelve-links-of-dependent-origination-paṭiccasamuppāda)
+- [The Four Stages of Enlightenment](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-stages-of-enlightenment)
+- [The Nine Jhanas - Jhānāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-nine-jhanas-jhānāni)
+- [The Four Elements - Cattāro Dhātu](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-elements-cattāro-dhātu)
+- [The Three Types of Feelings - Vedanā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-types-of-feelings-vedanā)
+- [The Five Destinations - Pañcagati](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-destinations-pañcagati)
+- [The Eight Worldly Concerns - Loka-dhammā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-eight-worldly-concerns-loka-dhammā)
+- [The Thirty-One Planes of Existence - Bhūmi](https://sukhavaho.github.io/dhamma/buddhist-lists#the-thirty-one-planes-of-existence-bhūmi)
+- [The Three Types of Suffering - Dukkha](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-types-of-suffering-dukkha)
 
 
 ## [YouTube History](https://www.youtube.com/feed/history)
