@@ -1,4 +1,5 @@
 ##### Top 40 Lists in Early and Theravada Buddhism: A Systematic Summary
+<a name="top"></a>
 
 ## Table of Contents
 1. [The Three Characteristics (Tilakkhana)](#the-three-characteristics-tilakkhana)
@@ -981,5 +982,5 @@
 - Five Precepts (builds upon these)
 - Eight Precepts (builds upon these, splitting the seventh precept and adding the tenth)
 
-[Back to Top](#Table of Contents)
-
+<a href="#top">Back to top</a>
+ 
