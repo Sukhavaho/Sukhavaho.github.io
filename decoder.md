@@ -9,6 +9,8 @@
 ## [Yuttadhammo Channel](https://www.youtube.com/@yuttadhammo)
 ## [Yuttadhammo Playlists](https://www.youtube.com/@yuttadhammo/playlists)
 
+## [Buddhist Lists](https://sukhavaho.github.io/dhamma/buddhist-lists)
+
 ## Decoder
 - [Discuss](https://sukhavaho.github.io/discuss)
 - [Listen](https://sukhavaho.github.io/listen)
