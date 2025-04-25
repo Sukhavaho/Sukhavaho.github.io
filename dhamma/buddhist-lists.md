@@ -1,4 +1,4 @@
-# Top 40 Lists in Early and Theravada Buddhism: A Systematic Summary
+##### Top 40 Lists in Early and Theravada Buddhism: A Systematic Summary
 
 ## Table of Contents
 1. [The Three Characteristics (Tilakkhana)](#the-three-characteristics-tilakkhana)
@@ -44,8 +44,8 @@
 
 ---
 
-## The Three Characteristics (Tilakkhana)
-
+### The Three Characteristics (Tilakkhana)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The three universal characteristics of all conditioned phenomena.
 
 **List:**
@@ -66,8 +66,8 @@
 
 ---
 
-## The Three Jewels/Refuges (Tiratana)
-
+### The Three Jewels/Refuges (Tiratana)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The three foundational refuges that Buddhists take.
 
 **List:**
@@ -86,8 +86,8 @@
 
 ---
 
-## The Four Noble Truths (Cattāri Ariyasaccāni)
-
+### The Four Noble Truths (Cattāri Ariyasaccāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The Buddha's first and central teaching on the nature of suffering and the path to its cessation.
 
 **List:**
@@ -110,8 +110,8 @@
 
 ---
 
-## The Five Aggregates (Pañcakkhandhā)
-
+### The Five Aggregates (Pañcakkhandhā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The five components that constitute what is conventionally called a "person" or "being."
 
 **List:**
@@ -135,8 +135,8 @@
 
 ---
 
-## The Six Sense Bases (Saḷāyatana)
-
+### The Six Sense Bases (Saḷāyatana)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The six internal sense bases and their corresponding external objects.
 
 **List:**
@@ -159,8 +159,8 @@
 
 ---
 
-## The Four Foundations of Mindfulness (Cattāro Satipaṭṭhānā)
-
+### The Four Foundations of Mindfulness (Cattāro Satipaṭṭhānā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The four objects of meditation that lead to the establishment of mindfulness.
 
 **List:**
@@ -185,8 +185,8 @@
 
 ---
 
-## The Five Hindrances (Pañca Nīvaraṇāni)
-
+### The Five Hindrances (Pañca Nīvaraṇāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The five mental obstacles that hinder progress in meditation and spiritual development.
 
 **List:**
@@ -208,8 +208,8 @@
 
 ---
 
-## The Seven Factors of Enlightenment (Satta Bojjhaṅgā)
-
+### The Seven Factors of Enlightenment (Satta Bojjhaṅgā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Seven qualities that lead to awakening when properly developed.
 
 **List:**
@@ -235,8 +235,8 @@
 
 ---
 
-## The Noble Eightfold Path (Ariya Aṭṭhaṅgika Magga)
-
+### The Noble Eightfold Path (Ariya Aṭṭhaṅgika Magga)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The Buddha's path to the cessation of suffering, consisting of eight interrelated factors.
 
 **List:**
@@ -264,8 +264,8 @@
 
 ---
 
-## The Five Precepts (Pañca Sīla)
-
+### The Five Precepts (Pañca Sīla)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The five basic ethical guidelines for Buddhist lay practitioners.
 
 **List:**
@@ -287,8 +287,8 @@
 
 ---
 
-## The Ten Unwholesome Actions (Dasa Akusala-kammapathā)
-
+### The Ten Unwholesome Actions (Dasa Akusala-kammapathā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Ten types of actions that lead to negative karmic results.
 
 **List:**
@@ -314,8 +314,8 @@
 
 ---
 
-## The Three Roots of Evil (Akusala-mūla)
-
+### The Three Roots of Evil (Akusala-mūla)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The three unwholesome roots that underlie all negative mental states and harmful actions.
 
 **List:**
@@ -334,8 +334,8 @@
 
 ---
 
-## The Four Sublime States (Brahma-vihāra)
-
+### The Four Sublime States (Brahma-vihāra)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four boundless qualities of mind that are to be developed towards all beings.
 
 **List:**
@@ -355,8 +355,8 @@
 
 ---
 
-## The Four Kinds of Clinging (Upādāna)
-
+### The Four Kinds of Clinging (Upādāna)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four types of attachment that fuel the cycle of rebirth.
 
 **List:**
@@ -377,8 +377,8 @@
 
 ---
 
-## The Five Spiritual Faculties (Pañca Indriyāni)
-
+### The Five Spiritual Faculties (Pañca Indriyāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Five faculties that need to be developed and balanced for spiritual progress.
 
 **List:**
@@ -401,8 +401,8 @@
 
 ---
 
-## The Five Powers (Pañca Balāni)
-
+### The Five Powers (Pañca Balāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The five spiritual faculties when they have been developed to the point of becoming powers.
 
 **List:**
@@ -422,8 +422,8 @@
 
 ---
 
-## The Twelve Links of Dependent Origination (Paṭiccasamuppāda)
-
+### The Twelve Links of Dependent Origination (Paṭiccasamuppāda)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The causal chain explaining how suffering arises and ceases.
 
 **List:**
@@ -454,8 +454,8 @@
 
 ---
 
-## The Four Stages of Enlightenment
-
+### The Four Stages of Enlightenment
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The four progressive stages leading to full awakening.
 
 **List:**
@@ -475,8 +475,8 @@
 
 ---
 
-## The Ten Fetters (Dasa Saṃyojanāni)
-
+### The Ten Fetters (Dasa Saṃyojanāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Ten bonds that bind beings to the cycle of rebirth.
 
 **List:**
@@ -502,8 +502,8 @@
 
 ---
 
-## The Four Right Efforts (Cattāro Sammappadhānā)
-
+### The Four Right Efforts (Cattāro Sammappadhānā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four aspects of right effort in preventing and abandoning unwholesome states, and developing and maintaining wholesome states.
 
 **List:**
@@ -523,8 +523,8 @@
 
 ---
 
-## The Four Bases of Power (Cattāro Iddhipādā)
-
+### The Four Bases of Power (Cattāro Iddhipādā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four qualities that, when developed, lead to psychic powers and spiritual accomplishments.
 
 **List:**
@@ -543,8 +543,8 @@
 
 ---
 
-## The Nine Jhanas (Jhānāni)
-
+### The Nine Jhanas (Jhānāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Nine progressive states of meditative absorption.
 
 **List:**
@@ -570,8 +570,8 @@
 
 ---
 
-## The Four Elements (Cattāro Dhātu)
-
+### The Four Elements (Cattāro Dhātu)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The four primary material elements that constitute physical matter.
 
 **List:**
@@ -591,8 +591,8 @@
 
 ---
 
-## The Three Types of Feelings (Vedanā)
-
+### The Three Types of Feelings (Vedanā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The three basic types of feeling tone that accompany all sense experience.
 
 **List:**
@@ -612,8 +612,8 @@
 
 ---
 
-## The Four Noble Lineages (Cattāri Ariyavaṃsāni)
-
+### The Four Noble Lineages (Cattāri Ariyavaṃsāni)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four qualities practiced by noble ones throughout Buddhist history.
 
 **List:**
@@ -632,8 +632,8 @@
 
 ---
 
-## The Three Trainings (Tisikkhā)
-
+### The Three Trainings (Tisikkhā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The three aspects of Buddhist training that encompass the entire path.
 
 **List:**
@@ -654,8 +654,8 @@
 
 ---
 
-## The Three Doors of Liberation (Vimokkha-mukha)
-
+### The Three Doors of Liberation (Vimokkha-mukha)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Three approaches to liberation through insight.
 
 **List:**
@@ -673,8 +673,8 @@
 
 ---
 
-## The Four Nutriments (Āhāra)
-
+### The Four Nutriments (Āhāra)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four types of "food" that sustain sentient existence.
 
 **List:**
@@ -694,8 +694,8 @@
 
 ---
 
-## The Five Destinations (Pañcagati)
-
+### The Five Destinations (Pañcagati)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The five possible realms of rebirth in Buddhist cosmology.
 
 **List:**
@@ -715,8 +715,8 @@
 
 ---
 
-## The Six Recollections (Cha Anussati)
-
+### The Six Recollections (Cha Anussati)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Six subjects for contemplation that inspire faith and devotion.
 
 **List:**
@@ -738,8 +738,8 @@
 
 ---
 
-## The Eight Worldly Concerns (Loka-dhammā)
-
+### The Eight Worldly Concerns (Loka-dhammā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Eight worldly conditions that fluctuate throughout life.
 
 **List:**
@@ -762,8 +762,8 @@
 
 ---
 
-## The Ten Reflections (Dasa Anussati)
-
+### The Ten Reflections (Dasa Anussati)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Ten subjects for contemplation that develop wholesome qualities.
 
 **List:**
@@ -789,8 +789,8 @@
 
 ---
 
-## The Thirty-One Planes of Existence (Bhūmi)
-
+### The Thirty-One Planes of Existence (Bhūmi)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** The traditional Buddhist cosmology categorizing all possible realms of rebirth.
 
 **List:**
@@ -815,8 +815,8 @@
 
 ---
 
-## The Seven Purifications (Satta Visuddhi)
-
+### The Seven Purifications (Satta Visuddhi)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Seven sequential stages of purification leading to liberation.
 
 **List:**
@@ -845,8 +845,8 @@
 
 ---
 
-## The Ten Perfections (Dasa Pāramī)
-
+### The Ten Perfections (Dasa Pāramī)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Ten virtues cultivated by bodhisattvas over many lifetimes to reach Buddhahood.
 
 **List:**
@@ -872,8 +872,8 @@
 
 ---
 
-## The Three Kinds of Wisdom (Paññā)
-
+### The Three Kinds of Wisdom (Paññā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Three types of wisdom development in Buddhist practice.
 
 **List:**
@@ -892,8 +892,8 @@
 
 ---
 
-## The Four Discriminations (Paṭisambhidā)
-
+### The Four Discriminations (Paṭisambhidā)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Four special analytical knowledge possessed by accomplished practitioners.
 
 **List:**
@@ -912,8 +912,8 @@
 
 ---
 
-## The Three Types of Suffering (Dukkha)
-
+### The Three Types of Suffering (Dukkha)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Three categories of suffering or unsatisfactoriness.
 
 **List:**
@@ -932,8 +932,8 @@
 
 ---
 
-## The Eight Precepts (Aṭṭha Sīla)
-
+### The Eight Precepts (Aṭṭha Sīla)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Eight ethical guidelines observed by lay Buddhists on special observance days (Uposatha).
 
 **List:**
@@ -956,8 +956,8 @@
 
 ---
 
-## The Ten Precepts (Dasa Sīla)
-#### [{Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
+### The Ten Precepts (Dasa Sīla)
+#### [{Back to Top}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 **Description:** Ten ethical guidelines observed by novice monks and nuns.
 
 **List:**
@@ -980,3 +980,5 @@
 **References:**
 - Five Precepts (builds upon these)
 - Eight Precepts (builds upon these, splitting the seventh precept and adding the tenth)
+
+
