@@ -1,5 +1,6 @@
 ## [Practice](https://sukhavaho.github.io/decoder)
 
+- [Lists {Better}](https://sukhavaho.github.io/dhamma/buddhist-lists)
 - [Lists](https://sukhavaho.github.io/dhamma/lists)
     - [Precepts](https://sukhavaho.github.io/dhamma/precepts)
  
