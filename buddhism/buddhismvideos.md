@@ -18,7 +18,7 @@
 - [Dipa Ma](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SZK7SEds8imXPRLyJaUVCZ)
 - [Dipa Ma - Amy Schmidt audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoYo5N3KmkQuMqLW0fvbU71o)
 - [Dzogchen](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SGi_r-ttSSw-viehZgPY_7)
-
+- [Denver Dzogchen Podcasts](https://www.youtube.com/@DenverDzogchenPodcast)
 - [Early Buddhism - Sujato](https://www.youtube.com/playlist?list=PL70fWqztn7OVo4h1RSRfuIzmb83S6O5Qt)
 - [Early Buddhism - BSWA](https://www.youtube.com/playlist?list=PLf9HOK_Rf1M6Jz_Xj_wuNUZVG9djvlkXs)
 - [Early Buddhism - Maggasekha](https://www.youtube.com/playlist?list=PLuD1xfDfsh6wwg93PFg19D4-JjTIUs16w)

@@ -22,6 +22,7 @@
     - [Buddhism Videos](https://sukhavaho.github.io/buddhism/buddhismvideos)
     - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
     - [Dzogchen Videos](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SGi_r-ttSSw-viehZgPY_7)
+        - [Denver Dzogchen Podcast](https://www.youtube.com/@DenverDzogchenPodcast)
     - [Early Buddhism - Brahmali](https://www.youtube.com/playlist?list=PLf9HOK_Rf1M6Jz_Xj_wuNUZVG9djvlkXs)
     - [Freestyle Vipassana](https://www.youtube.com/@Jeffreeflow)
     - [Mahasatipatthana Caranapalli](https://www.youtube.com/playlist?list=PLl3LPAoOk3_v52YuNcqBc6941ecp_R1M_)
