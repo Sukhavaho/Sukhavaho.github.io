@@ -30,6 +30,7 @@
     - [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
     - [Sanskrit Videos](https://sukhavaho.github.io/languages/sanskritvideos)
     - [Vimeo Ingram](https://vimeo.com/user13532867)
+    - [Visuddhimagga](https://www.youtube.com/playlist?list=PLk74A6Qy7X1TOOdwnHQbY0d0ZAQ_qslPy)
 
 
 # [Assistants](https://sukhavaho.github.io/assistants)
