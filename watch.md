@@ -1,5 +1,3 @@
-## [Watch](https://sukhavaho.github.io/decoder)
-
 ## [YouTube Notebook LM Podcasts](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SPo-HvvGvmD0pquoB27FDk)
 ## [YouTube Playlists](https://www.youtube.com/feed/playlists)
 ## [YouTube History](https://www.youtube.com/feed/history)
@@ -37,12 +35,11 @@
     - [Sanskrit Videos](https://sukhavaho.github.io/languages/sanskritvideos)
 
 
-# [Assistants](https://sukhavaho.github.io/assistants)
-
 # General
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Big Think](https://www.youtube.com/@bigthink)
-- [Malcolm Gladwell](https://www.youtube.com/@malcolmgladwell)
+- [Gladwell, Malcolm](https://www.youtube.com/@malcolmgladwell)
+- [Schwobel, Jim](https://www.youtube.com/@JimSchwoebel/videos)
 - [Science 9](https://www.youtube.com/@ScienceNine)
 - [Startalk](https://www.youtube.com/@StarTalk)
 - [Startalk Plus](https://www.youtube.com/@StarTalkPlus)
