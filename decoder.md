@@ -1,5 +1,3 @@
-# Decoder
-
 ## [Discuss](https://sukhavaho.github.io/discuss)
 ## [Listen](https://sukhavaho.github.io/listen)
 ## [People](https://sukhavaho.github.io/people/people)
