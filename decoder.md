@@ -1,4 +1,5 @@
 ## [Discuss](https://sukhavaho.github.io/discuss)
+## [Finance](finance)
 ## [Listen](https://sukhavaho.github.io/listen)
 ## [People](https://sukhavaho.github.io/people/people)
 ## [Practice](https://sukhavaho.github.io/practice)
