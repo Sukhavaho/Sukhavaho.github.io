@@ -4,7 +4,13 @@
 ## [YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
 ## [YouTube Playlist Chanting](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qq91uWyyrTHje3IIgoDdT0)
 
+# People
+## [Brahm, Ajahn](people/brahm_ajahn)
+
+# Topics
 ## [Buddhism Videos - Playlists](https://sukhavaho.github.io/buddhism/buddhismvideos)
+## [Guided Meditations](videos/guided)
+## [Metta Meditation](videos/metta)
 
 ## [Abhayagiri Channel](https://www.youtube.com/@AbhayagiriBuddhistMonastery/featured)
 ## [Amaravati Channel](https://www.youtube.com/@AmaravatiBuddhistMonastery)
