@@ -9,6 +9,7 @@
 
 # Topics
 ## [Buddhism Videos - Playlists](https://sukhavaho.github.io/buddhism/buddhismvideos)
+## [Early Buddhism](videos/early_buddhism)
 ## [Guided Meditations](videos/guided)
 ## [Metta Meditation](videos/metta)
 

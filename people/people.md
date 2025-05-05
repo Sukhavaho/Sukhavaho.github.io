@@ -2,7 +2,7 @@
 
 - [Ajahn Brahmali](https://sukhavaho.github.io/people/ajahn_brahmali)
 - [Ajahn Brahm](https://sukhavaho.github.io/people/ajahn_brahm)
-- [Ajahn Geoff](https://sukhavaho.github.io/people/ajahn_geoff)
+- [Ajahn Geoff](people/geoff_ajahn)
 - [Ajahn Lee Dhammadharo](https://sukhavaho.github.io/people/ajahn_lee_dhammadharo)
 - [Ajahn Sucitto](https://sukhavaho.github.io/people/ajahn_sucitto)
 - [Ajahn Sujato](https://sukhavaho.github.io/people/sujato)
