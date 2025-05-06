@@ -5,7 +5,6 @@
 ## [YouTube Playlist Chanting](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qq91uWyyrTHje3IIgoDdT0)
 
 # People
-## [Brahm, Ajahn](people/brahm_ajahn)
 ## [People Videos](people/people)
 
 # Topics

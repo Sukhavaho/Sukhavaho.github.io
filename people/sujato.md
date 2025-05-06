@@ -19,6 +19,7 @@
 - [Sujato - The Evolution of Consciousness](https://www.youtube.com/watch?v=HgYibpaRhpA&t=1261s)
 - [Sujato - The Eye of the Storm](https://www.youtube.com/watch?v=3eVSamgdiMA&t=329s)
 - [Sujato - Chaos & Metta Tour UK 2025](https://www.youtube.com/playlist?list=PLPxfnU-O-ZycSG5SSWQbV6NE4Z2FYQMAZ)
+- [Sujato - Chaos & Metta 2025](https://www.youtube.com/playlist?list=PLTcGMzIEhlsZa7oZQaFCwMB3LPY5GvuHH)
 - [Sujato - 2014 Meditation Retreat](https://www.youtube.com/playlist?list=PLQ_Y6m62B_MV5caohcpUhwaygETCGidxm)
 - [Sujato - Dhamma Threads](https://www.youtube.com/playlist?list=PL70fWqztn7OW4KJyW4C5HL-CVbeXh4sHI)
 - [Sujato - 2007 Far Shore](https://www.youtube.com/playlist?list=PL55C92DC1BBE1002B)
