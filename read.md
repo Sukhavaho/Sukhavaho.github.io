@@ -9,7 +9,7 @@
 - [With Each and Every Breath](https://www.dhammatalks.org/books/WithEachAndEveryBreath/Contents.html)
 
 
-- [Buddhist Sects](https://sukhavaho.github.io/buddhism/sects):1
+- [Buddhist Sects](https://sukhavaho.github.io/buddhism/sects)
     - [Early Buddhism](https://sukhavaho.github.io/buddhism/earlybuddhism)
     - [Madhyāmika](https://sukhavaho.github.io/buddhism/madhyamika)
     - [Mahayana](https://sukhavaho.github.io/buddhism/mahayana)
@@ -26,6 +26,4 @@
     - [Dalrymple](https://sukhavaho.github.io/unclassified/dalrymple)
     - [NoteBookLMs](https://sukhavaho.github.io/unclassified/notebooks)
 
-
-# [Assistants](https://sukhavaho.github.io/assistants)
 
