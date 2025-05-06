@@ -6,6 +6,7 @@
 
 # People
 ## [Brahm, Ajahn](people/brahm_ajahn)
+## [People Videos](people/people)
 
 # Topics
 ## [Buddhism Videos - Playlists](https://sukhavaho.github.io/buddhism/buddhismvideos)
