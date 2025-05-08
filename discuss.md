@@ -4,6 +4,7 @@
 
 - [Discussions](https://sukhavaho.github.io/buddhism/discussions)
     - [Dhamma Overground](https://dhammaoverground.org)
+        -[Insight in Perspective by Daniel Stuart: a review](https://www.dharmaoverground.org/discussion/-/message_boards/message/33210937)
     - [Dhamma Wheel](https://dhammawheel.com)
         - [Meditation](https://www.dharmawheel.net/viewforum.php?f=45)
     - [Reddit](https://sukhavaho.github.io/buddhism/reddit)
