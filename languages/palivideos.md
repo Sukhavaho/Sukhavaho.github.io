@@ -1,5 +1,8 @@
 # Pāḷi Language Videos
 
+- [My YouTube Pāḷi Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Rpc0mBQbAV0PKRKvOfdPSy)
+
+# Other Playlists
 - [YouTube: Yuttadhammo Pāḷi Course](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RBMCEO-g3xAfrpdaeTC75X)
 - [YouTube: Learn Pāḷi Language Basics in English](https://www.youtube.com/playlist?list=PLf6RXFuRpeLQH4nUanNBCl6um6N6Zcyc0)
 - [YouTube: Pāḷi Alphabet & Pronounciation](https://www.youtube.com/playlist?list=PLf6RXFuRpeLTjutJCvVRTZrMl-DFV9Yr3)

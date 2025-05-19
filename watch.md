@@ -1,3 +1,8 @@
+# Cache
+## [Burbea Videos](burbea/burbeavideos)
+## [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
+
+# My Playlists
 ## [YouTube Notebook LM Podcasts](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SPo-HvvGvmD0pquoB27FDk)
 ## [YouTube Playlists](https://www.youtube.com/feed/playlists)
 ## [YouTube History](https://www.youtube.com/feed/history)
@@ -6,9 +11,8 @@
 
 # People
 ## [People Videos](people/people)
-
 ## [Burbea Portal](burbea/burbea)
-## [Burbea Videos](burbea/burgeavideos)
+## [Burbea Videos](burbea/burbeavideos)
 
 
 # Topics
@@ -28,10 +32,9 @@
 ## [Culadasa - The Jhanas](https://www.youtube.com/playlist?list=PLDzDWOT7Ce1UUC5L5_-A2Cf4ueM9bYDQr)
 #### [Culadasa Audio Archives](https://www.youtube.com/@culadasaaudioarchive8942/playlists)
 ## [Culadasa - The Jhanas - original practice](https://www.youtube.com/playlist?list=PLFYqtUfYANRr61IuXlcxmxoROQLl548pQ)
-## [Brahmali Early Buddhism](https://www.youtube.com/playlist?list=PLf9HOK_Rf1M6Jz_Xj_wuNUZVG9djvlkXs)
 ## [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
 ## [BSWA Channel](https://www.youtube.com/@BuddhistSocietyWA)
-## [Dzogchen Videos](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SGi_r-ttSSw-viehZgPY_7)
+## [Dzogchen Videos](videos/dzogchen)
 ## [Ingram, Daniel - Vimeo](https://vimeo.com/user13532867)
 ## [Insight Meditation Center Channel](https://www.youtube.com/@InsightMeditationCenter)
 ## [Insight Meditation Society Channel](https://www.youtube.com/@InsightMeditationSociety/featured)
