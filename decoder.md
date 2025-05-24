@@ -1,3 +1,9 @@
+
+# Activities
+### Study Pāḷi
+### Read the Suttā
+### Study Finance
+
 ### [Discuss](discuss)
 ### [Finance](finance)
 ### [Listen](listen)
@@ -6,7 +12,6 @@
 ### [Read](read)
 ### [Study](study)
 ### [Watch](watch)
-
 
 # Categories:
 ## Meditation
