@@ -1,6 +1,8 @@
+# Cache
+- [YouTube: AK Warder Intro Learn Pāḷi](https://www.youtube.com/playlist?list=PLf6RXFuRpeLTvIFPAE29Ev5bjoFf8mVVY)
 
 # Activities
-### Study Pāḷi
+### Study Pāḷi [Language](languages/pali) + [Videos](language/palivideos)
 ### Read the Suttā
 ### Study Finance
 

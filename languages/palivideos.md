@@ -1,5 +1,9 @@
 # Pāḷi Language Videos
 
+# Cache
+- [YouTube: AK Warder Intro Learn Pāḷi](https://www.youtube.com/playlist?list=PLf6RXFuRpeLTvIFPAE29Ev5bjoFf8mVVY)
+
+# YouTube
 - [My YouTube Pāḷi Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Rpc0mBQbAV0PKRKvOfdPSy)
 
 # Other Playlists
