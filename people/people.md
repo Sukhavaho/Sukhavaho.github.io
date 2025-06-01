@@ -1,6 +1,6 @@
 ## [Decoder](https://sukhavaho.github.io/decoder)
 
-- [Brahmali, Ajahn](https://sukhavaho.github.io/people/ajahn_brahmali)
+- [Brahmali, Ajahn](brahmali)
 - [Brahm, Ajahn](https://sukhavaho.github.io/people/ajahn_brahm)
 - [Brasington, Lee](https://sukhavaho.github.io/people/leigh_brasingthon)
 - [Burbea, Rob](https://sukhavaho.github.io/burbea/burbea)
