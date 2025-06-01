@@ -1,5 +1,4 @@
-# [Ajahn Brahmali](https://sukhavaho.github.io/people/people)
-
+# Ajahn Brahmali
 
 # Videos
 - [2025 Sutta Retreat](https://www.youtube.com/playlist?list=PLfbyyIy0BWliHFuFJE7a0kS4JzA8rVGjH)
