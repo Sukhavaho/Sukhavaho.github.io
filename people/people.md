@@ -1,5 +1,6 @@
 ## [Decoder](https://sukhavaho.github.io/decoder)
 
+- [Armstrong](armstrong)
 - [Brahmali, Ajahn](brahmali)
 - [Brahm, Ajahn](brahm)
 - [Brasington, Lee](brasington)
@@ -14,7 +15,9 @@
 - [Goenka, S.N.](goenka)
 - [Ingram, Daniel](https://sukhavaho.github.io/people/daniel_ingram)
 - [Lee Dhammadharo, Ajahn](https://sukhavaho.github.io/people/ajahn_lee_dhammadharo)
+- [Loch Kelly](loch)
 - [Ottama, Ashin](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RIoiTWPTwSXkPG3YAnSy3W)
+- [Stephen Procter](procter)
 - [Sucitto, Ajahn](https://sukhavaho.github.io/people/ajahn_sucitto)
 - [Sujato, Ajahn](https://sukhavaho.github.io/people/sujato)
 - [Tejaniya, Ashin](https://sukhavaho.github.io/people/tejaniya.md)

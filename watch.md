@@ -1,15 +1,16 @@
 # Cache
-## [Burbea Videos](burbea/burbeavideos)
-## [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
+# [Magic](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RlLnES1HdG2ZQBkSyCu3af)
+# [Burbea Videos](burbea/burbeavideos)
+# [Pāḷi Videos](https://sukhavaho.github.io/languages/palivideos)
 
 # My Playlists
-## [YouTube Notebook LM Podcasts](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SPo-HvvGvmD0pquoB27FDk)
-## [YouTube Playlists](https://www.youtube.com/feed/playlists)
-## [YouTube History](https://www.youtube.com/feed/history)
-## [YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
-## [YouTube Playlist Chanting](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qq91uWyyrTHje3IIgoDdT0)
+# [YouTube Notebook LM Podcasts](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SPo-HvvGvmD0pquoB27FDk)
+# [YouTube Playlists](https://www.youtube.com/feed/playlists)
+# [YouTube History](https://www.youtube.com/feed/history)
+# [YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
+# [YouTube Playlist Chanting](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qq91uWyyrTHje3IIgoDdT0)
 
-## Organizations
+# Organizations
 - [Abhayagiri Channel](https://www.youtube.com/@AbhayagiriBuddhistMonastery/featured)
 - [Amaravati Channel](https://www.youtube.com/@AmaravatiBuddhistMonastery)
 - [BAUS Chuang Yen Monastery - Bhikkhu Bodhi](https://www.youtube.com/user/venbodhi)
@@ -23,7 +24,7 @@
 - [Bodhi, Bhikkhu](people/bhikkhu_bodhi)
 - [Burbea Portal](burbea/burbea)
 - [Burbea Videos](burbea/burbeavideos)
-- [Brahm, Ajahn](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qf76cJRk-4G2ve_lUgPz2L)
+- [Brahm, Ajahn](people/brahm)
 - [Sujato Bhikkhu](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
 - [Wallace, Alan](https://www.youtube.com/playlist?list=PLk74A6Qy7X1T9W252kf_wJscgl8BvQDD9)
 

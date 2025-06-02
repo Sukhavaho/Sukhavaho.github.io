@@ -4,10 +4,14 @@
 
 
 ## Videos
+- [Roy's YouTube Playlist](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
+
+- [Maggasekha Sujato Playlist](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
 
 - [Sujato - Life Hacks for the End of The World Playlist](https://www.youtube.com/playlist?list=PLTcGMzIEhlsbKfAZcvskwySCzzRQ1iiMb)
 - [Sujato - Maha Chat Chai Metta Meditation Playlist](https://www.youtube.com/playlist?list=PLTcGMzIEhlsa0maPxIduPyYSNonn0_umT)
 - [Sujato - Metta Meditation](https://www.youtube.com/watch?v=ENwbhtw82Bo&t=7s&pp=ygUUU3VqYXRvIFZpc3VkZGhpbWFnZ2E%3D)
+- [Sujato - Mahasatipatthåna Sutta](https://www.youtube.com/playlist?list=PL70fWqztn7OXdbGqWEOvhOVqf5oEDJCFV)
 - [Sujato on Thich Nhat Hanh & Luang Por Sumemdho](https://www.youtube.com/watch?v=vVJd5pz-PkU)
 - [Sujato on Goenka, Mahasi, etc](https://www.youtube.com/watch?v=afBxf0pYgHI)
 - [Sujato on Pa-Auk](https://www.youtube.com/watch?v=22XJ3tOIxMc)
@@ -32,7 +36,6 @@
 
 - [Sujato - How to Stop Meditating](https://www.youtube.com/watch?v=EWNoaljcZ6k&list=PLk74A6Qy7X1RgyFM_G27Ek5y-NkHpvV8g)
 
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
 - [Sujato Bhikkhu - Sukhāvaho](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RgyFM_G27Ek5y-NkHpvV8g)
 - [Early Buddhist Meditation - Sujato](https://www.youtube.com/playlist?list=PL70fWqztn7OVo4h1RSRfuIzmb83S6O5Qt)
 - [2007 Early Buddhist Meditation](https://www.youtube.com/playlist?list=PL70fWqztn7OVo4h1RSRfuIzmb83S6O5Qt)

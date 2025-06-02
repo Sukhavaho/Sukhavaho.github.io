@@ -1,5 +1,7 @@
 # Ajahn Brahmali
 
+# [BSWA](https://www.youtube.com/playlist?list=PLf9HOK_Rf1M5OzsdxrxznGicNM03ofyaN)
+
 # Videos
 - [2025 Sutta Retreat](https://www.youtube.com/playlist?list=PLfbyyIy0BWliHFuFJE7a0kS4JzA8rVGjH)
 - [2024 Sutta Retreat](https://www.youtube.com/playlist?list=PLfbyyIy0BWlhF11OuOFhQFyVrGVd04r4q)

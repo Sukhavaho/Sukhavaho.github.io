@@ -1,5 +1,9 @@
 # [Ashin Tejaniya](https://sukhavaho.github.io/people.md)
 
+# Videos
+- [Dhamma Everywhere](https://www.youtube.com/playlist?list=PLusB724OXMdmfBqsewaQYf2F-z4dywETz)
+- [Roy's playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1QswTB0jlaoQ1lHETYRQht5)
+
 # Audio Dharma
 - [Audio Dharma Talks](https://www.audiodharma.org/talks)
 - [Andrea Fella AudioDharma Retreat](https://www.audiodharma.org/series/9834)
