@@ -21,17 +21,35 @@
 
 # People
 - [People Videos](people/people)
+- [Armstrong](people/armstrong)
 - [Bodhi, Bhikkhu](people/bhikkhu_bodhi)
+- [Brasington, Lee](people/brasington)
 - [Burbea Portal](burbea/burbea)
 - [Burbea Videos](burbea/burbeavideos)
 - [Brahm, Ajahn](people/brahm)
-- [Sujato Bhikkhu](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
+- [Brahmali, Ajahn](people/brahmali)
+- [Catherine, Shaila](people/shaila_catherine)
+- [Culadasa](people/culadasa)
+- [Geoff, Ajahn](people/geoff_ajahn)
+- [Goenka, S.N.](people/goenka)
+- [Ingram, Daniel](people/daniel_ingram)
+- [Kenneth Folk](people/folk)
+- [Lee Dhammadharo, Ajahn](people/ajahn_lee_dhammadharo)
+- [Loch Kelly](people/loch)
+- [Ottama, Ashin](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RIoiTWPTwSXkPG3YAnSy3W)
+- [Stephen Procter](people/procter)
+- [Sujato Bhikkhu](people/sujato)
+- [Tejaniya, Ashin](people/tejaniya)
 - [Wallace, Alan](https://www.youtube.com/playlist?list=PLk74A6Qy7X1T9W252kf_wJscgl8BvQDD9)
+- [Wallace, Alan](people/alan_wallace)
+- [Yuttadhammo](people/yuttadhammo)
 
 
 # Topics
 ## Abhidhamma
 - [Caranapalli Abhidhamma](https://www.youtube.com/playlist?list=PLl3LPAoOk3_umShWzlKBWABVdPmWmy_Wb)
+## Dependent Origination
+- [Dependent Origination Playlist](videos/dependent)
 ## Early Buddhism
 - [Early Buddhism](videos/early_buddhism)
 ## EM+IFS

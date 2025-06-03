@@ -8,6 +8,7 @@
 
 - [Maggasekha Sujato Playlist](https://www.youtube.com/playlist?list=PLuD1xfDfsh6y56X4XfKxT2iOCRmgb-7nQ)
 
+- [Sujato / Brahmali - Dependent Origination in Early Buddhism](https://www.youtube.com/playlist?list=PL70fWqztn7OWZa-0W-rXPAzPNWT63yd8h)
 - [Sujato - Life Hacks for the End of The World Playlist](https://www.youtube.com/playlist?list=PLTcGMzIEhlsbKfAZcvskwySCzzRQ1iiMb)
 - [Sujato - Maha Chat Chai Metta Meditation Playlist](https://www.youtube.com/playlist?list=PLTcGMzIEhlsa0maPxIduPyYSNonn0_umT)
 - [Sujato - Metta Meditation](https://www.youtube.com/watch?v=ENwbhtw82Bo&t=7s&pp=ygUUU3VqYXRvIFZpc3VkZGhpbWFnZ2E%3D)
