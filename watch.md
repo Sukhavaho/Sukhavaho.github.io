@@ -46,17 +46,13 @@
 
 
 # Topics
-## Abhidhamma
-- [Caranapalli Abhidhamma](https://www.youtube.com/playlist?list=PLl3LPAoOk3_umShWzlKBWABVdPmWmy_Wb)
-## Dependent Origination
+- [Abhidhamma](videos/abhidhamma)
 - [Dependent Origination Playlist](videos/dependent)
-## Early Buddhism
+- [Dhammapada](videos/dhammapada)
 - [Early Buddhism](videos/early_buddhism)
 ## EM+IFS
 - [Loch Kelly - EM+IFS](https://www.youtube.com/playlist?list=PLk74A6Qy7X1S31fQalEf2H9cbYK5GJBpu)
-## Satipatthana
-- [Caranapalli Mahasatipatthana](https://www.youtube.com/playlist?list=PLl3LPAoOk3_v52YuNcqBc6941ecp_R1M_)
-## Visuddhimagga
+- [Satipatthana](videos/satipatthana)
 - [Visuddhimagga](https://www.youtube.com/playlist?list=PLk74A6Qy7X1TOOdwnHQbY0d0ZAQ_qslPy)
 
 ## [Buddhism Videos - Playlists](https://sukhavaho.github.io/buddhism/buddhismvideos)
