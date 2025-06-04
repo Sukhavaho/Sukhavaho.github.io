@@ -5,6 +5,8 @@
 ## [Ashin Otama - My YouTube Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RIoiTWPTwSXkPG3YAnSy3W)
 ## [Burbea Videos](burbea/burbeavideos)
 ## [Sujato Videos](people/sujato)
+## [Fleischman Videos](people/fleischman)
+## [Armstrong Videos](people/armstrong)
 
 # [Discuss](discuss)
 # [Finance](finance)

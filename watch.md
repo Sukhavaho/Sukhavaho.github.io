@@ -30,7 +30,7 @@
 - [Brahmali, Ajahn](people/brahmali)
 - [Catherine, Shaila](people/shaila_catherine)
 - [Culadasa](people/culadasa)
-- [Flєischman, Dr. Paul](https://www.youtube.com/playlist?list=PLf9HOK_Rf1M4noQxyya5xm_o5fLLJ62ie)
+- [Flєischman, Dr. Paul](people/fleischman)
 - [Geoff, Ajahn](people/geoff_ajahn)
 - [Goenka, S.N.](people/goenka)
 - [Ingram, Daniel](people/daniel_ingram)
