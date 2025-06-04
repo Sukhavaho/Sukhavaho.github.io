@@ -4,6 +4,7 @@
 ## [Bodhi: Fundamentals of the Buddha Dhamma 2022](https://www.youtube.com/playlist?list=PLgu0hJSLkqCX9uwZiA7YowzWAPx1bHawD)
 ## [Ashin Otama - My YouTube Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RIoiTWPTwSXkPG3YAnSy3W)
 ## [Burbea Videos](burbea/burbeavideos)
+## [Sujato Videos](people/sujato)
 
 # [Discuss](discuss)
 # [Finance](finance)
