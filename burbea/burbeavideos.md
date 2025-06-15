@@ -1,6 +1,8 @@
 # [Rob Burbea Videos](https://sukhavaho.github.io/decoder)
 
+# [Letting go of Judgment - single video](https://www.youtube.com/watch?v=0ZbR5NDEpJw&list=PLO6hhaAzLmiqPjxx6aJYX6K4UWA64JPKO&index=1)
 # [About Rob Burbea - An Interview](https://www.youtube.com/playlist?list=PLIUJoa_276ndbcoFk-6n-1AvLQKuA9kQE)
+# [Silent Autumn Retreat - Finland](https://www.youtube.com/playlist?list=PLO6hhaAzLmiqlj3v8K9XNZMWudWsyoEyt)
 # [Foundations of Soul-Making Dharma - Talks](https://www.youtube.com/playlist?list=PLO6hhaAzLmiqozm4DwmUxfDaR3wGU9ksn)
 # [Path of the Imaginal - Talks](https://www.youtube.com/playlist?list=PLO6hhaAzLmiql6yDdUeW-CKbUajVdSvwV)
 # [Meditation on Emptiness - Talks](https://www.youtube.com/playlist?list=PLO6hhaAzLmirg7oFKFiZlGGVkcUruFjuG)

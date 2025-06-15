@@ -16,6 +16,7 @@
 - [Brahmali, Ajahn](people/brahmali)
 - [Catherine, Shaila](people/shaila_catherine)
 - [Culadasa](people/culadasa)
+- [Dipa Ma](https://www.youtube.com/playlist?list=PLk74A6Qy7X1SZK7SEds8imXPRLyJaUVCZ)
 - [Flєischman, Dr. Paul](people/fleischman)
 - [Geoff, Ajahn](people/geoff_ajahn)
 - [Goenka, S.N.](people/goenka)
