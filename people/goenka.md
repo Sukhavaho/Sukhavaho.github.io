@@ -1,5 +1,7 @@
 # [S.N. Goenka](https://sukhavaho.github.io/buddhism/people)
 
+- [My YouTube Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1S8zI545Z6Xu88Vv3hkJ7oD)
+
 - [S.N. Goenka](https://www.vridhamma.org/S.N.-Goenka)
 - [The Innovation of SN Goenka](https://loveofallwisdom.com/blog/2013/10/the-innovations-of-s-n-goenka-1930-2013/)
 - [Lion's Roar - Interview](https://www.lionsroar.com/the-universal-meditation-technique-of-s-n-goenka/)

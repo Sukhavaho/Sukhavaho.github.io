@@ -1,10 +1,35 @@
 ## [Decoder](https://sukhavaho.github.io/decoder)
 
+
 - [Burbea, Rob](https://sukhavaho.github.io/burbea/burbea)
     - [Burbea Notebooks](https://sukhavaho.github.io/burbea/burbeanotebooks)
     - [Burbea Videos](https://sukhavaho.github.io/burbea/burbeavideos)
     - [STF Course Outline 2025](https://docs.google.com/document/d/1-Y1cM2fODzgx6XOk8IRLCOnmkQSpMfPM/edit)
 
-
+- [Anagarika Munindra - YouTube Playist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RkNiJqyAdeh6bsAp1bPc0d)
+- [Armstrong](people/armstrong)
+- [Bodhi, Bhikkhu](people/bhikkhu_bodhi)
+- [Brasington, Lee](people/brasington)
+- [Burbea Portal](burbea/burbea)
+- [Burbea Videos](burbea/burbeavideos)
+- [Brahm, Ajahn](people/brahm)
+- [Brahmali, Ajahn](people/brahmali)
+- [Catherine, Shaila](people/shaila_catherine)
+- [Culadasa](people/culadasa)
+- [Flєischman, Dr. Paul](people/fleischman)
+- [Geoff, Ajahn](people/geoff_ajahn)
+- [Goenka, S.N.](people/goenka)
+- [Ingram, Daniel](people/daniel_ingram)
+- [Kabat-Zinn, Joh](people/kabatzinn)
+- [Kenneth Folk](people/folk)
+- [Lee Dhammadharo, Ajahn](people/ajahn_lee_dhammadharo)
+- [Loch Kelly](people/loch)
+- [Ottama, Ashin](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RIoiTWPTwSXkPG3YAnSy3W)
+- [Stephen Procter](people/procter)
+- [Sujato Bhikkhu](people/sujato)
+- [Tejaniya, Ashin](people/tejaniya)
+- [Wallace, Alan](https://www.youtube.com/playlist?list=PLk74A6Qy7X1T9W252kf_wJscgl8BvQDD9)
+- [Wallace, Alan](people/alan_wallace)
+- [Yuttadhammo](people/yuttadhammo)
 
 
