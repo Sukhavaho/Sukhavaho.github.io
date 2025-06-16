@@ -25,6 +25,7 @@
 - [Kenneth Folk](people/folk)
 - [Lee Dhammadharo, Ajahn](people/ajahn_lee_dhammadharo)
 - [Loch Kelly](people/loch)
+- [Maha Bua, Ajahn](https://www.youtube.com/playlist?list=PLFYqtUfYANRqpeKcI1p0-BqAzP_aurNPe)
 - [Ottama, Ashin](https://www.youtube.com/playlist?list=PLk74A6Qy7X1RIoiTWPTwSXkPG3YAnSy3W)
 - [Stephen Procter](people/procter)
 - [Sujato Bhikkhu](people/sujato)

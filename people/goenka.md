@@ -20,7 +20,6 @@
 - [A Householder Tradition - by Patrick Given-Wilson](https://www.youtube.com/watch?v=TiJYWvoGJdM&t=483s)
 - [This Living Tradition - Patrick Given-Wilson](https://www.youtube.com/watch?v=urirx78ZrkQ)
 - [Saya Thet Ji - Patrick Given-Wilson](https://www.youtube.com/watch?v=slOMkNlkues)
-
 - [Webu Sayadaw - Patrick Given-Wilson](https://www.youtube.com/watch?v=dmKg66ucVio&t=46s)
 - [The Teachings of U Ba Khin - James Baræz](https://www.youtube.com/watch?v=AWQHKTlnTaE)
 - [Fifty Years of Dhamma Journey - English](https://www.youtube.com/watch?v=ciQYAbyU6GY&list=PL2S_26D8Tbx0buGFe32Zjby_WDYN6HTPN)

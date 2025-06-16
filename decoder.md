@@ -6,9 +6,7 @@
 ## [Bhikkhu Bodhi](people/bhikkhu_bodhi)
 ## [Yuttadhammo](people/yuttadhammo)
 ## [Bhikkhu Sujato](people/sujato)
-## [Paul Fleischman](people/fleischman)
 ## [Steve Armstrong](people/armstrong)
-## [Maha Bua, Ajahn](https://www.youtube.com/playlist?list=PLFYqtUfYANRqpeKcI1p0-BqAzP_aurNPe)
 
 # Cache - [Topics](topics)
 ## [Abhidhamma](videos/abhidhamma)
