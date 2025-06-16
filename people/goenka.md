@@ -3,6 +3,7 @@
 # Playlists
 - [My YouTube Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1S8zI545Z6Xu88Vv3hkJ7oD)
 - [Vipassana Meditation Channel](https://www.youtube.com/@VipassanaMeditation/playlists)
+- [Vipassana Lineage Series - Patrick Given-Wilson](https://www.youtube.com/playlist?list=PLs2yRU4JKVloxWX7659jp8V4URXcDWV5v)
 - [Mind Body - S.N. Goenka](https://www.youtube.com/playlist?list=PLPJVlVRVmhc7tFZhZamwa-O75lAaREhDK)
 - [S.N. Goenka](https://www.vridhamma.org/S.N.-Goenka)
 - [The Innovation of SN Goenka](https://loveofallwisdom.com/blog/2013/10/the-innovations-of-s-n-goenka-1930-2013/)
