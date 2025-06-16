@@ -1,7 +1,7 @@
 ## [Practice](https://sukhavaho.github.io/decoder)
 ## [Buddhist Lists](https://sukhavaho.github.io/dhamma/buddhist-lists)
 ##### What to NOT do
-- [The Three Roots of Evil - Akusala-mūla](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-roots-of-evil-akusala-mūla)
+- [The Three Roots of Evil - Akusala-mūla](dhamma/buddhist-lists#the-three-roots-of-evil-akusala-mūla)
 - [The Four Kinds of Clinging - Upādāna](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-kinds-of-clinging-upādāna)
 - [The Five Hindrances - Pañca Nivaraṇāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-hindrances-pañca-nīvaraṇāni)
 - [The Ten Unwholesome Actions - Dasa Akusala-kammapathā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-unwholesome-actions-dasa-akusala-kammapathā)
