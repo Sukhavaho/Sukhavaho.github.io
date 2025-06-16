@@ -2,11 +2,11 @@
 ## [Buddhist Lists](https://sukhavaho.github.io/dhamma/buddhist-lists)
 ##### What to NOT do
 - [The Three Roots of Evil - Akusala-mūla](dhamma/buddhist-lists#the-three-roots-of-evil-akusala-mūla)
-- [The Four Kinds of Clinging - Upādāna](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-kinds-of-clinging-upādāna)
-- [The Five Hindrances - Pañca Nivaraṇāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-hindrances-pañca-nīvaraṇāni)
-- [The Ten Unwholesome Actions - Dasa Akusala-kammapathā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-unwholesome-actions-dasa-akusala-kammapathā)
-- [The Ten Fetters - Dasa Saṃyojanāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-fetters-dasa-saṃyojanāni)
-- [The Eight Worldly Concerns - Loka-dhammā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-eight-worldly-concerns-loka-dhammā)
+- [The Four Kinds of Clinging - Upādāna](dhamma/buddhist-lists#the-four-kinds-of-clinging-upādāna)
+- [The Five Hindrances - Pañca Nivaraṇāni](dhamma/buddhist-lists#the-five-hindrances-pañca-nīvaraṇāni)
+- [The Ten Unwholesome Actions - Dasa Akusala-kammapathā](dhamma/buddhist-lists#the-ten-unwholesome-actions-dasa-akusala-kammapathā)
+- [The Ten Fetters - Dasa Saṃyojanāni](dhamma/buddhist-lists#the-ten-fetters-dasa-saṃyojanāni)
+- [The Eight Worldly Concerns - Loka-dhammā](dhamma/buddhist-lists#the-eight-worldly-concerns-loka-dhammā)
 ##### What Is
 - [The Twelve Links of Dependent Origination - Paṭiccasamuppāda](https://sukhavaho.github.io/dhamma/buddhist-lists#the-twelve-links-of-dependent-origination-paṭiccasamuppāda)
 - [The Four Noble Truths - Cattåri Ariyasaccåni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-noble-truths-cattāri-ariyasaccāni)
