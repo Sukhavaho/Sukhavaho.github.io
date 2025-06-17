@@ -1,13 +1,13 @@
 ## [Decoder <- Practice](https://sukhavaho.github.io/decoder)
 ## [Buddhist Lists](dhamma/buddhist-lists)
-##### What to NOT do
+# What to NOT do
 - [The Three Roots of Evil - Akusala-mūla](dhamma/buddhist-lists#the-three-roots-of-evil-akusala-mūla)
 - [The Four Kinds of Clinging - Upādāna](dhamma/buddhist-lists#the-four-kinds-of-clinging-upādāna)
 - [The Five Hindrances - Pañca Nivaraṇāni](dhamma/buddhist-lists#the-five-hindrances-pañca-nīvaraṇāni)
 - [The Ten Unwholesome Actions - Dasa Akusala-kammapathā](dhamma/buddhist-lists#the-ten-unwholesome-actions-dasa-akusala-kammapathā)
 - [The Ten Fetters - Dasa Saṃyojanāni](dhamma/buddhist-lists#the-ten-fetters-dasa-saṃyojanāni)
 - [The Eight Worldly Concerns - Loka-dhammā](dhamma/buddhist-lists#the-eight-worldly-concerns-loka-dhammā)
-##### What Is
+# What Is
 - [The Twelve Links of Dependent Origination - Paṭiccasamuppāda](dhamma/buddhist-lists#the-twelve-links-of-dependent-origination-paṭiccasamuppāda)
 - [The Four Noble Truths - Cattåri Ariyasaccåni](dhamma/buddhist-lists#the-four-noble-truths-cattāri-ariyasaccāni)
 - [The Three Types of Suffering - Dukkha](dhamma/buddhist-lists#the-three-types-of-suffering-dukkha)
@@ -17,7 +17,7 @@
 - [The Four Elements - Cattāro Dhātu](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-elements-cattāro-dhātu)
 - [The Three Types of Feelings - Vedanā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-types-of-feelings-vedanā)
 - [The Thirty-One Planes of Existence - Bhūmi](https://sukhavaho.github.io/dhamma/buddhist-lists#the-thirty-one-planes-of-existence-bhūmi)
-##### What to do
+# What to do
 - [The Three Jewels/Refuges - Tiratana](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-jewelsrefuges-tiratana)
 - [The Three Trainings - Tissikkhā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-trainings-tisikkhā)
 - [The Five Precepts - Pañca Sila](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-precepts-pañca-sīla)
@@ -38,7 +38,7 @@
 - [The Ten Perfections - Dasa Pārami](https://sukhavaho.github.io/dhamma/buddhist-lists#the-ten-perfections-dasa-pāramī)
 - [The Three Kinds of Wisdom - Paññā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-kinds-of-wisdom-paññā)
 - [The Four Disicriminations - Paṭisambhidā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-discriminations-paṭisambhidā)
-##### What Happens
+# What Happens
 - [The Four Stages of Enlightenment](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-stages-of-enlightenment)
 - [The Nine Jhanas - Jhānāni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-nine-jhanas-jhānāni)
 - [The Five Destinations - Pañcagati](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-destinations-pañcagati)

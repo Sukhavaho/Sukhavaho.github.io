@@ -46,7 +46,8 @@
 ---
 
 ### The Three Characteristics (Tilakkhana)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists)
+#### [Back to Practice](../practice)
 **Description:** The three universal characteristics of all conditioned phenomena.
 
 **List:**
