@@ -1,4 +1,4 @@
-## [Practice](https://sukhavaho.github.io/decoder)
+## [Decoder <- Practice](https://sukhavaho.github.io/decoder)
 ## [Buddhist Lists](dhamma/buddhist-lists)
 ##### What to NOT do
 - [The Three Roots of Evil - Akusala-mūla](dhamma/buddhist-lists#the-three-roots-of-evil-akusala-mūla)
@@ -8,10 +8,10 @@
 - [The Ten Fetters - Dasa Saṃyojanāni](dhamma/buddhist-lists#the-ten-fetters-dasa-saṃyojanāni)
 - [The Eight Worldly Concerns - Loka-dhammā](dhamma/buddhist-lists#the-eight-worldly-concerns-loka-dhammā)
 ##### What Is
-- [The Twelve Links of Dependent Origination - Paṭiccasamuppāda](https://sukhavaho.github.io/dhamma/buddhist-lists#the-twelve-links-of-dependent-origination-paṭiccasamuppāda)
-- [The Four Noble Truths - Cattåri Ariyasaccåni](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-noble-truths-cattāri-ariyasaccāni)
-- [The Three Types of Suffering - Dukkha](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-types-of-suffering-dukkha)
-- [The Three Characteristics - Tilakkhana](https://sukhavaho.github.io/dhamma/buddhist-lists#the-three-characteristics-tilakkhana)
+- [The Twelve Links of Dependent Origination - Paṭiccasamuppāda](dhamma/buddhist-lists#the-twelve-links-of-dependent-origination-paṭiccasamuppāda)
+- [The Four Noble Truths - Cattåri Ariyasaccåni](dhamma/buddhist-lists#the-four-noble-truths-cattāri-ariyasaccāni)
+- [The Three Types of Suffering - Dukkha](dhamma/buddhist-lists#the-three-types-of-suffering-dukkha)
+- [The Three Characteristics - Tilakkhana](dhamma/buddhist-lists#the-three-characteristics-tilakkhana)
 - [The Five Aggregates - Pañcakkhandhā](https://sukhavaho.github.io/dhamma/buddhist-lists#the-five-aggregates-pañcakkhandhā)
 - [The Six Sense Bases - Saḷāyatana](https://sukhavaho.github.io/dhamma/buddhist-lists#the-six-sense-bases-saḷāyatana)
 - [The Four Elements - Cattāro Dhātu](https://sukhavaho.github.io/dhamma/buddhist-lists#the-four-elements-cattāro-dhātu)

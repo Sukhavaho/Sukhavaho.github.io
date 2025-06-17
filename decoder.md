@@ -1,5 +1,9 @@
 # Cache - [Dhamma](dhamma/buddhist-lists)
 
+# FIXME: 
+## [dhamma/lists](dhamma/lists)
+## [dhamma/buddhist-lists](dhamma/buddhist-lists)
+## [Practice](practice)
 
 # Cache - [People](people)
 ### [Goenka, S.N.](people/goenka)
