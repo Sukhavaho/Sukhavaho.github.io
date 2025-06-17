@@ -68,7 +68,7 @@
 ---
 
 ### The Three Jewels/Refuges (Tiratana)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The three foundational refuges that Buddhists take.
 
 **List:**
@@ -88,7 +88,7 @@
 ---
 
 ### The Four Noble Truths (Cattāri Ariyasaccāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The Buddha's first and central teaching on the nature of suffering and the path to its cessation.
 
 **List:**
@@ -112,7 +112,7 @@
 ---
 
 ### The Five Aggregates (Pañcakkhandhā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The five components that constitute what is conventionally called a "person" or "being."
 
 **List:**
@@ -137,7 +137,7 @@
 ---
 
 ### The Six Sense Bases (Saḷāyatana)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The six internal sense bases and their corresponding external objects.
 
 **List:**
@@ -161,7 +161,7 @@
 ---
 
 ### The Four Foundations of Mindfulness (Cattāro Satipaṭṭhānā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The four objects of meditation that lead to the establishment of mindfulness.
 
 **List:**
@@ -187,7 +187,7 @@
 ---
 
 ### The Five Hindrances (Pañca Nīvaraṇāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The five mental obstacles that hinder progress in meditation and spiritual development.
 
 **List:**
@@ -210,7 +210,7 @@
 ---
 
 ### The Seven Factors of Enlightenment (Satta Bojjhaṅgā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Seven qualities that lead to awakening when properly developed.
 
 **List:**
@@ -237,7 +237,7 @@
 ---
 
 ### The Noble Eightfold Path (Ariya Aṭṭhaṅgika Magga)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The Buddha's path to the cessation of suffering, consisting of eight interrelated factors.
 
 **List:**
@@ -266,7 +266,7 @@
 ---
 
 ### The Five Precepts (Pañca Sīla)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The five basic ethical guidelines for Buddhist lay practitioners.
 
 **List:**
@@ -289,7 +289,7 @@
 ---
 
 ### The Ten Unwholesome Actions (Dasa Akusala-kammapathā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Ten types of actions that lead to negative karmic results.
 
 **List:**
@@ -316,7 +316,7 @@
 ---
 
 ### The Three Roots of Evil (Akusala-mūla)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The three unwholesome roots that underlie all negative mental states and harmful actions.
 
 **List:**
@@ -336,7 +336,7 @@
 ---
 
 ### The Four Sublime States (Brahma-vihāra)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four boundless qualities of mind that are to be developed towards all beings.
 
 **List:**
@@ -357,7 +357,7 @@
 ---
 
 ### The Four Kinds of Clinging (Upādāna)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four types of attachment that fuel the cycle of rebirth.
 
 **List:**
@@ -379,7 +379,7 @@
 ---
 
 ### The Five Spiritual Faculties (Pañca Indriyāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Five faculties that need to be developed and balanced for spiritual progress.
 
 **List:**
@@ -403,7 +403,7 @@
 ---
 
 ### The Five Powers (Pañca Balāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The five spiritual faculties when they have been developed to the point of becoming powers.
 
 **List:**
@@ -424,7 +424,7 @@
 ---
 
 ### The Twelve Links of Dependent Origination (Paṭiccasamuppāda)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The causal chain explaining how suffering arises and ceases.
 
 **List:**
@@ -456,7 +456,7 @@
 ---
 
 ### The Four Stages of Enlightenment
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The four progressive stages leading to full awakening.
 
 **List:**
@@ -477,7 +477,7 @@
 ---
 
 ### The Ten Fetters (Dasa Saṃyojanāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Ten bonds that bind beings to the cycle of rebirth.
 
 **List:**
@@ -504,7 +504,7 @@
 ---
 
 ### The Four Right Efforts (Cattāro Sammappadhānā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four aspects of right effort in preventing and abandoning unwholesome states, and developing and maintaining wholesome states.
 
 **List:**
@@ -525,7 +525,7 @@
 ---
 
 ### The Four Bases of Power (Cattāro Iddhipādā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four qualities that, when developed, lead to psychic powers and spiritual accomplishments.
 
 **List:**
@@ -545,7 +545,7 @@
 ---
 
 ### The Nine Jhanas (Jhānāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Nine progressive states of meditative absorption.
 
 **List:**
@@ -572,7 +572,7 @@
 ---
 
 ### The Four Elements (Cattāro Dhātu)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The four primary material elements that constitute physical matter.
 
 **List:**
@@ -593,7 +593,7 @@
 ---
 
 ### The Three Types of Feelings (Vedanā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The three basic types of feeling tone that accompany all sense experience.
 
 **List:**
@@ -614,7 +614,7 @@
 ---
 
 ### The Four Noble Lineages (Cattāri Ariyavaṃsāni)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four qualities practiced by noble ones throughout Buddhist history.
 
 **List:**
@@ -634,7 +634,7 @@
 ---
 
 ### The Three Trainings (Tisikkhā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The three aspects of Buddhist training that encompass the entire path.
 
 **List:**
@@ -656,7 +656,7 @@
 ---
 
 ### The Three Doors of Liberation (Vimokkha-mukha)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Three approaches to liberation through insight.
 
 **List:**
@@ -675,7 +675,7 @@
 ---
 
 ### The Four Nutriments (Āhāra)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four types of "food" that sustain sentient existence.
 
 **List:**
@@ -696,7 +696,7 @@
 ---
 
 ### The Five Destinations (Pañcagati)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The five possible realms of rebirth in Buddhist cosmology.
 
 **List:**
@@ -717,7 +717,7 @@
 ---
 
 ### The Six Recollections (Cha Anussati)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Six subjects for contemplation that inspire faith and devotion.
 
 **List:**
@@ -740,7 +740,7 @@
 ---
 
 ### The Eight Worldly Concerns (Loka-dhammā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Eight worldly conditions that fluctuate throughout life.
 
 **List:**
@@ -764,7 +764,7 @@
 ---
 
 ### The Ten Reflections (Dasa Anussati)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Ten subjects for contemplation that develop wholesome qualities.
 
 **List:**
@@ -791,7 +791,7 @@
 ---
 
 ### The Thirty-One Planes of Existence (Bhūmi)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** The traditional Buddhist cosmology categorizing all possible realms of rebirth.
 
 **List:**
@@ -817,7 +817,7 @@
 ---
 
 ### The Seven Purifications (Satta Visuddhi)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Seven sequential stages of purification leading to liberation.
 
 **List:**
@@ -847,7 +847,7 @@
 ---
 
 ### The Ten Perfections (Dasa Pāramī)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Ten virtues cultivated by bodhisattvas over many lifetimes to reach Buddhahood.
 
 **List:**
@@ -874,7 +874,7 @@
 ---
 
 ### The Three Kinds of Wisdom (Paññā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Three types of wisdom development in Buddhist practice.
 
 **List:**
@@ -894,7 +894,7 @@
 ---
 
 ### The Four Discriminations (Paṭisambhidā)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Four special analytical knowledge possessed by accomplished practitioners.
 
 **List:**
@@ -914,7 +914,7 @@
 ---
 
 ### The Three Types of Suffering (Dukkha)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Three categories of suffering or unsatisfactoriness.
 
 **List:**
@@ -934,7 +934,7 @@
 ---
 
 ### The Eight Precepts (Aṭṭha Sīla)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Eight ethical guidelines observed by lay Buddhists on special observance days (Uposatha).
 
 **List:**
@@ -958,7 +958,7 @@
 ---
 
 ### The Ten Precepts (Dasa Sīla)
-#### [{Back to Top}](dhamma/buddhist-lists)
+#### [{Back to Top}](buddhist-lists) OR  [Back to Practice](../practice)
 **Description:** Ten ethical guidelines observed by novice monks and nuns.
 
 **List:**
