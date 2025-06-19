@@ -19,6 +19,8 @@
 ### [Abhidhamma](videos/abhidhamma)
 ### [Dependent Origination](videos/dependent)
 ### [Early Buddhism](videos/early_buddhism)
+### [Jhana](meditation/jhana)
+### [Kasina](meditation/kasina)
 ### [Neuroscience](videos/neuroscience)
 ### [Pāḷi](languages/pali)
 ### [Satipatthana](videos/satipatthana)

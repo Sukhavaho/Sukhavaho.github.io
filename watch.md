@@ -10,13 +10,14 @@
 # [YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
 # [YouTube Playlist Chanting](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qq91uWyyrTHje3IIgoDdT0)
 
-# Organizations
+# [Organizations](organizations)
 - [Abhayagiri Channel](https://www.youtube.com/@AbhayagiriBuddhistMonastery/featured)
 - [Amaravati Channel](https://www.youtube.com/@AmaravatiBuddhistMonastery)
 - [BAUS Chuang Yen Monastery - Bhikkhu Bodhi](https://www.youtube.com/user/venbodhi)
 - [BSWA Channel Ajahn Brahm](https://www.youtube.com/@BuddhistSocietyWA)
 - [Insight Meditation Center Channel](https://www.youtube.com/@InsightMeditationCenter)
 - [Insight Meditation Society Channel](https://www.youtube.com/@InsightMeditationSociety/featured)
+- [Pariyatti](videos/pariyatti)
 - [Yuttadhammo Channel](https://www.youtube.com/@yuttadhammo)
 
 # [People](people/people)
