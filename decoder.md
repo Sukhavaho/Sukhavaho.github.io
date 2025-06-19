@@ -1,9 +1,12 @@
 # Cache - [Dhamma](dhamma/buddhist-lists)
 
 # FIXME: 
-## [dhamma/lists](dhamma/lists)
-## [dhamma/buddhist-lists](dhamma/buddhist-lists)
+### Practice appears to be an overlay with pointers to buddhist-lists
 ## [Practice](practice)
+### This is the underlay...
+## [dhamma/buddhist-lists](dhamma/buddhist-lists)
+### This is separate & unrelated
+## [dhamma/lists](dhamma/lists)
 
 # Cache - [People](people)
 ### [Goenka, S.N.](people/goenka)
@@ -21,6 +24,7 @@
 ### [Early Buddhism](videos/early_buddhism)
 ### [Jhana](meditation/jhana)
 ### [Kasina](meditation/kasina)
+### [Metta](videos/metta)
 ### [Neuroscience](videos/neuroscience)
 ### [Pāḷi](languages/pali)
 ### [Satipatthana](videos/satipatthana)

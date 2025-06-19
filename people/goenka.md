@@ -25,3 +25,6 @@
 - [Fifty Years of Dhamma Journey - English](https://www.youtube.com/watch?v=ciQYAbyU6GY&list=PL2S_26D8Tbx0buGFe32Zjby_WDYN6HTPN)
 - [Dr. Flieschman AllpointstoOne](https://www.youtube.com/playlist?list=PLClGmIhbAuM3xcmqfetuNpgabMJOwGYH_)
 
+# People
+- [Ledi Sayadaw](ledi_sayadaw)
+

@@ -23,6 +23,7 @@
 - [Ingram, Daniel](people/daniel_ingram)
 - [Kabat-Zinn, Joh](people/kabatzinn)
 - [Kenneth Folk](people/folk)
+- [Ledi Sayadaw](people/ledi_sayadaw)
 - [Lee Dhammadharo, Ajahn](people/ajahn_lee_dhammadharo)
 - [Loch Kelly](people/loch)
 - [Maha Bua, Ajahn](https://www.youtube.com/playlist?list=PLFYqtUfYANRqpeKcI1p0-BqAzP_aurNPe)

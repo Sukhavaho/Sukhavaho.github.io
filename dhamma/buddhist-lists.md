@@ -453,6 +453,7 @@
 - Three Types of Feelings (at link 7)
 - Five Aggregates (components appear throughout the chain)
 
+### Deeper Dive: [Dependent Origination](dependentorigination)
 ---
 
 ### The Four Stages of Enlightenment

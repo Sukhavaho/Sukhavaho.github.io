@@ -1,5 +1,6 @@
 # Metta Meditation
 - [Brahm, Ajahn 25 May, ½015](https://www.youtube.com/watch?v=7Jb72-QgXOc)
+- [Burbea - Loving Kindness and Compassion as a Path to Awakening](https://www.youtube.com/playlist?list=PLO6hhaAzLmioOHu7hWHu6VMJdfn_U3KIv)
 - [Jack Kornfield](https://www.youtube.com/watch?v=aPiaLnWi6lM&t=262s)
 - [Loving Kindness meditation](https://www.youtube.com/watch?v=sDi40FQcaIU&t=206s)
 - [Manoj Dias](https://www.youtube.com/watch?v=vj0JDwQLof4)
