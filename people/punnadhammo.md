@@ -4,6 +4,7 @@
 - [Ajahn Punnadhammo Channel](https://www.youtube.com/@AjahnPunnadhammo)
 - [Ajahn Punnadhammo Playlists](https://www.youtube.com/@AjahnPunnadhammo/playlists)
 
+- [Knowing the Mind - Playist](https://www.youtube.com/playlist?list=PLfYRXXbgoIy_2J5kIBzZi8TWGYvGgqTZu)
 - [Vipassana - Mahasi Method](https://www.youtube.com/playlist?list=PLAP2qNgi-LGsO56zaaw70TV3uBmFmt6PP)
 - [Meditation Toolkit](https://www.youtube.com/playlist?list=PLAP2qNgi-LGu4wD9Q-IjVtErHxSRDcUIG)
 - [Abhidhamma](https://www.youtube.com/playlist?list=PLAP2qNgi-LGu6kgALlNq6ytyhpy20Cksm)

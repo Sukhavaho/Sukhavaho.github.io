@@ -7,6 +7,8 @@
 
 - [Satipatthana Sutta - My YouTube Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qg9BTmUuG9b45W1QLCQjWg)
 - [Mahasatipatthana Sutta - Sujato Playlisṭ](https://www.youtube.com/playlist?list=PL70fWqztn7OXdbGqWEOvhOVqf5oEDJCFV)
+- [Satipatthana Sutta - Bhikkhu Bodhi](https://www.youtube.com/playlist?list=PLQ8yNWdQZuMMZ3My9AWE-qJKMmmzyduXL)
+- [Satipatthana Sutta - AudioBuddha Playlist](https://www.youtube.com/playlist?list=PLahooTbMXXrQtOGmuB3tFPU4y4k6Z08e2)
 
 - [Punnadhammo - Vipassana: Mahasi Method](https://www.youtube.com/playlist?list=PLAP2qNgi-LGsO56zaaw70TV3uBmFmt6PP)
 
