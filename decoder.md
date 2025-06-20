@@ -1,14 +1,8 @@
-# Cache - [Dhamma](dhamma/buddhist-lists)
-
-# FIXME: 
-### Practice appears to be an overlay with pointers to buddhist-lists
-## [Practice](practice)
-### This is the underlay...
-## [dhamma/buddhist-lists](dhamma/buddhist-lists)
-### This is separate & unrelated
-## [dhamma/lists](dhamma/lists)
-
-# Cache - [People](people)
+## Cache - [Dhamma](dhamma/buddhist-lists)
+#### [Practice](practice)
+##### [dhamma/buddhist-lists](dhamma/buddhist-lists)
+##### [dhamma/lists](dhamma/lists)
+## Cache - [People](people)
 ### [Goenka, S.N.](people/goenka)
 ### [Fleischman](people/fleischman)
 ### [Ashin Otama](people/otama_ashin)
@@ -17,8 +11,7 @@
 ### [Yuttadhammo](people/yuttadhammo)
 ### [Bhikkhu Sujato](people/sujato)
 ### [Steve Armstrong](people/armstrong)
-
-# Cache - [Topics](topics)
+## Cache - [Topics](topics)
 ### [Abhidhamma](videos/abhidhamma)
 ### [Dependent Origination](videos/dependent)
 ### [Early Buddhism](videos/early_buddhism)
@@ -30,18 +23,13 @@
 ### [Satipatthana](videos/satipatthana)
 ### [Suttā](buddhism/suttas)
 ### [Visuddhimagga](videos/visuddhimagga)
-
-
-
-# [Discuss](discuss)
-# [Finance](finance)
-# [Listen](listen)
-# [Practice](practice)
-# [Read](read)
-# [Study](study)
-# [Watch](watch)
-
-
+## [Discuss](discuss)
+## [Finance](finance)
+## [Listen](listen)
+## [Practice](practice)
+## [Read](read)
+## [Study](study)
+## [Watch](watch)
 # Categories:
 ## Meditation
 - [Meditation](meditation/meditation)

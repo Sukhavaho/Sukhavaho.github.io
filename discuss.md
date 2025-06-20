@@ -14,5 +14,3 @@
 
 - [Zoom Links](https://sukhavaho.github.io/zoom)
 
-# [Assistants](https://sukhavaho.github.io/assistants)
-
