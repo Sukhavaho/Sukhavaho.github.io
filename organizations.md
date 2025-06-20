@@ -11,3 +11,5 @@
 - [Investigating the Dhamma](https://www.youtube.com/playlist?list=PLs2yRU4JKVlr-IzmXUy9LLKMW8mCq1svT)
 - [Bhikkhu Bodhi](https://www.youtube.com/playlist?list=PLs2yRU4JKVlrTyHSdq-hrD_ezwaNnFDbg)
 
+- [Clear Mountain Monastery](videos/clear_mountain)
+

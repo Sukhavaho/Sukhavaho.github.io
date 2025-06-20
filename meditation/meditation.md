@@ -1,6 +1,7 @@
 ## [Meditation](https://sukhavaho.github.io/practice)
 
 - [Vipassana](vipassana)
+- [Satipatthana Sutta](satipatthana)
 
 - [ADD/ADHD Meditation](https://sukhavaho.github.io/meditation/adhd)
 - [Burbea](https://sukhavaho.github.io/burbea/burbea)
