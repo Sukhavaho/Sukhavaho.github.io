@@ -6,6 +6,7 @@
 - [Vipassana Noting - My YouTube Playist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1S18Ke2iemW6uJUi8G1T-Lv)
 
 - [Satipatthana Sutta - My YouTube Playlist](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Qg9BTmUuG9b45W1QLCQjWg)
+- [Mahasatipatthana Sutta - Sujato Playlisṭ](https://www.youtube.com/playlist?list=PL70fWqztn7OXdbGqWEOvhOVqf5oEDJCFV)
 
 - [Punnadhammo - Vipassana: Mahasi Method](https://www.youtube.com/playlist?list=PLAP2qNgi-LGsO56zaaw70TV3uBmFmt6PP)
 
