@@ -1,4 +1,5 @@
 ## Cache [Practice](practice)
+- [Vipassana](meditation/vipassana)
 ## Cache - [People](people)
 - [Goenka, S.N.](people/goenka)
 - [Fleischman](people/fleischman)
