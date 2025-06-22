@@ -26,6 +26,7 @@
 - [Ask a Monk](https://www.youtube.com/playlist?list=PLEAF1C6352D4F61F9)
 - [Buddhist Videos](https://www.youtube.com/playlist?list=PLA0486BD8D475F882)
 - [My VLog](https://www.youtube.com/playlist?list=PLEFFAD40B840F7647)
+- [Sabbasava Sutta](https://www.youtube.com/playlist?list=PLYfiLmnVsItl7XgikueX89vC69n1N8aDQ)
 
 ### Books
 - [Sirimangalo Texts](https://sirimangalo.org/text/)

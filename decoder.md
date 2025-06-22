@@ -1,7 +1,7 @@
 ## Cache [Practice](practice)
 - [Vipassana](meditation/vipassana)
 - [Jhana](meditation/jhana)
-## Cache - [People](people)
+## Cache - [People](people/people)
 - [Goenka, S.N.](people/goenka)
 - [Fleischman](people/fleischman)
 - [Ashin Otama](people/otama_ashin)
