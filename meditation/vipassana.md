@@ -1,7 +1,7 @@
 # Vipassana
 
 ## Goenka / U. Ba. Khin
-
+- [Goenka - The Science of Purification of the Mind](https://www.youtube.com/watch?v=IyRTa5FGhxs&list=PLPJVlVRVmhc7tFZhZamwa-O75lAaREhDK&index=21)
 - [Fleischman - Vipassana's Unique Focus and Features - Introductory Talk](https://www.youtube.com/watch?v=jEvy20CyK-Y&t=1674s)
 - [Patrick Given-Wilson - Vipassana Meditation Talk](https://www.youtube.com/watch?v=iurvAFnpjPU&t=58s)
 - [An interview with Patrick Given-Wilson 2023](https://www.youtube.com/watch?v=QzadoAI_nDM&t=57s)
@@ -34,8 +34,8 @@
 - [Playlist - Goenka Satipatthana Course](https://www.youtube.com/playlist?list=PLkp1WctFH0GEcLqhG3m_qv-vdLfmeiAhO)
 - [Eric Lerner - Journey of Insight Meditation](https://www.youtube.com/playlist?list=PLs2yRU4JKVlqZdYKhlEowRsQlQvN0Gf5o)
 
-
-- [Goenka - The Science of Purification of the Mind](https://www.youtube.com/watch?v=IyRTa5FGhxs&list=PLPJVlVRVmhc7tFZhZamwa-O75lAaREhDK&index=21)
+# [People](../people/people.md)
+- [Paul Fleischman](../people/fleischman)
 
 # Channels 
 - [Vipassana Meditation Channel - to extract](https://www.youtube.com/@VipassanaMeditation/playlists)
