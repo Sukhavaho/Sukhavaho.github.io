@@ -1,3 +1,7 @@
+
+## [DeFi](defi)
+- [DeFi Study Guides](https://docs.google.com/document/d/1Sb-CyRFgzsTpBWrOBVlZnaPvqO5-n8pIX1cwtZLwk64/edit?tab=t.0)
+- [DeFi Notebooks](https://docs.google.com/document/d/1w65YfyzsP04kpZsQ1nv5FzKPG0kPryDrkz5HE_BUcWs/edit?tab=t.0)
 ## Cache [Practice](practice)
 - [Vipassana](meditation/vipassana)
 - [Jhana](meditation/jhana)
