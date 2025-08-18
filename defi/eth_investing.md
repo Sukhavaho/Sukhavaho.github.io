@@ -5,12 +5,16 @@ See also:     [ETH Investing Specifics](eth_investing_specifics)
 
 Here’s a deep, risk-first blueprint for turning your ETH into yield. I’ve organized it by “yield layers,” from lowest to highest risk/complexity. Under each: how it works, what to watch, leaders (incl. multi-chain), and concrete moves.
 
+See: [Baseline Staking Strategy](baseline_staking)
+
 Layer 0 — Baseline staking (your risk floor)
 
 Goal: capture protocol-native ETH issuance+MEV with minimal extra risk.
 	•	What to use
 	•	Direct LSTs (liquid staking tokens):
-stETH (Lido) – largest liquidity & integrations. Pros: breadth, integrations; Cons: governance concentration, validator set centralization externalities.  ￼
+stETH (Lido) – largest liquidity & integrations. 
+
+Pros: breadth, integrations; Cons: governance concentration, validator set centralization externalities.  ￼
 rETH (Rocket Pool) – more decentralized, smoothing-pool MEV sharing for node ops; as a holder you benefit indirectly via rETH APR. Node operators can opt into the smoothing pool.  ￼
 frxETH/sfrxETH (Frax) – sfrxETH auto-composes staking+MEV into the vault for a historically higher capture vs plain LST wrappers (implementation details in docs).
 	•	Execution (baseline)

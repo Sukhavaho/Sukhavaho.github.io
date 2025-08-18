@@ -18,9 +18,6 @@
     - [On-Chain Analytics Platforms](onchain_analytics_platforms)
         - [Glassnode](glassnode)
         - [Nansen](nansen)
-# Innovation
-- [Autonomous Verifiable Services](autonomous_verifiable_services)
-    - [Eigen Cloud](eigen_cloud)
 # Centralized Exchanges
 - [CEXs](cexs)
     - [Binance](binance_exchange)
@@ -120,11 +117,15 @@
     - [Integrations](integrations)
     - [Oracles](oracles)
         - [Chainlink](chainlink)
+# Innovation
+- [Autonomous Verifiable Services](autonomous_verifiable_services)
+    - [Eigen Cloud](eigen_cloud)
 # Investing
 - [Investing](investing)
     - [ETH Investing](eth_investing)
         - [ETH Investing Strategy](eth_investing_strategy)
             - [ETH Investing Specifics](eth_investing_specifics)
+    - [Layer 0 - Baseline Staking (risk floor)](baseline_staking)
 # Protocols
 - [Protocols](defi_protocols)
     - [Lending](lending_protocols)
