@@ -2,6 +2,79 @@
 
 ## [Back to ETH Investing](eth_investing)
 
+# Baseline Staking (Layer 0 Runbook)
+
+## Goal
+Capture Ethereum’s native staking yield (issuance + tips + MEV) with the **lowest added risk**.  
+This is the **risk floor** for all ETH yield strategies.
+
+---
+
+## Portfolio Mix (example allocation)
+
+- **40% wstETH (Lido)**  
+  - Breadth of integrations, DeFi/L2 ready (non-rebasing).  
+  - **Contract (Ethereum L1):** `0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0`
+
+- **35% rETH (Rocket Pool)**  
+  - Decentralized operator set, smoothing pool reduces MEV/tip variance.  
+  - **Acquire via:** Rocket Pool UI or Uniswap v3  
+  - **Note:** Check Rocket Pool docs for latest address.
+
+- **25% sfrxETH (Frax)**  
+  - ERC-4626 vault, high capture of validator yield.  
+  - **Contract (Ethereum L1):** `0xac3E018457B222d93114458476f3E3416Abbe38F`
+
+**Optional:** Up to 10–20% in **solo validators** (32 ETH each) for sovereignty and custody.
+
+---
+
+## Acquisition
+
+- **stETH/wstETH:** Swap ETH on Curve or Lido UI; wrap stETH → wstETH for DeFi/L2.  
+- **rETH:** Acquire via Uniswap v3 or Rocket Pool UI.  
+- **sfrxETH:** Mint frxETH from Frax, then deposit into the sfrxETH vault.
+
+---
+
+## Risks & Controls
+
+- **Smart contract risk:** diversify across 3 protocols (Lido, Rocket Pool, Frax).  
+- **Operator/slashing risk:** Rocket Pool’s distributed minipools + Lido’s multi-operator set reduce single-point failures.  
+- **Exit liquidity risk:**  
+  - *Lido:* withdrawal queue → ETH.  
+  - *rETH:* swap back via secondary liquidity.  
+  - *sfrxETH:* vault redemption → frxETH.  
+- **Peg deviation:** monitor Curve/Uniswap pools for LST pricing vs ETH.  
+- **Governance centralization:** keep Lido exposure under ~33% of your stack.
+
+---
+
+## Quarterly Exit Drill
+
+Perform a small test exit each quarter:
+
+- **stETH/wstETH:** Request withdrawal in Lido queue, test claim.  
+- **rETH:** Swap a small amount back to ETH on Uniswap.  
+- **sfrxETH:** Redeem a small amount back to frxETH.  
+
+Record timings and slippage.
+
+---
+
+## Monitoring Checklist
+
+- Lido withdrawal queue depth and processing speed.  
+- rETH / ETH peg health.  
+- sfrxETH share price (exchange rate vs frxETH).  
+- Staking APR composition (issuance vs tips/MEV).  
+- Lido’s market share (watch for >33% concentration).
+
+---
+
+
+
+
 ### Layer 0 — Baseline staking (your risk floor)
 
 Goal: capture protocol-native ETH issuance+MEV with minimal extra risk.
@@ -112,4 +185,20 @@ Definitions (fast)
 ⸻
 
 If you want, I can generate a one-pager “baseline staking runbook” (addresses, UI links, exact approval limits, and a tiny checklist for doing the quarterly exit drill).
+
+## Flow Diagram
+
+```mermaid
+flowchart TD
+    ETH[ETH] -->|Stake via Lido| stETH[stETH]
+    stETH --> wstETH[wstETH (wrapped, non-rebasing)]
+    ETH -->|Stake via Rocket Pool| rETH[rETH]
+    ETH -->|Mint via Frax| frxETH[frxETH]
+    frxETH -->|Deposit to Vault| sfrxETH[sfrxETH]
+
+    %% Exit flows
+    stETH -->|Withdraw Queue| ETH
+    wstETH -->|Unwrap → stETH| stETH
+    rETH -->|Swap (Uniswap/Curve)| ETH
+    sfrxETH -->|Redeem Vault| frxETH -->|Redeem| ETH
 
