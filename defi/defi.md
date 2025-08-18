@@ -18,7 +18,7 @@
     - [Aggregators](aggregators)
         - [DEX aggregators (1inch)](dex_aggregators)
         - [Yield aggregators (Yearn, Idle)](yield_aggregators)
-- [Cross-cutting Concerns](cross_cutting_concerns))
+- [Cross-cutting Concerns](cross_cutting_concerns)
     - [Risk Vectors & Threat Modeling](risk_vectors_and_threat_modeling)
 - [DEXs](dexs)
 - [Ecosystems](ecosystems)
