@@ -82,10 +82,6 @@
 - [Stores of Value](stores_of_value)
     ¯ [Bitcoin](bitcoin_ecosystem)
     - [Litecoin](litecoin_ecosystem)
-- [TradFi Players](tradfiplayers)
-- [Yield Farming](yieldfarming)
-    - [Staking](staking
-    - [Liquidity Pools](liquiditypools)
 - [Token Ṭypes & Functions](token_types_and_functions)
     - [Derivative Tokens](derivative_tokens)
     - [Governance Tokens](governance_tokens)
@@ -101,6 +97,7 @@
     - [Staking/Restaking](staking_restaking_tokens)
     - [Utility](utility_tokens)
     - [Yield Tokens](yield_tokens)
+- [TradFi Players](tradfiplayers)
 - [Treasury Funds](treasuryfunds)
 - [User Interfaces & Supporting Infrastructure](user_interfaces_and_supporting_infrastructure)
     - [Wallets & Custody](wallets_and_custody)
@@ -108,4 +105,7 @@
         - [Analytics](developer_tooling_analytics)
         - [Contracts](developer_tooling_contracts)
         - [Auditing](developer_tooling_auditiṇg)
+- [Yield Farming](yield_farming)
+    - [Staking](staking)
+    - [Liquidity Pools](liquiditypools)
 
