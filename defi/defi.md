@@ -1,6 +1,8 @@
 # Decentralized Finance
 
+# Research
 - [Academia, Research and Conferences](academia_research_conferences)
+# Analyses
 - [Analyst Services](analyst_services)
     - [Blockchain Explorers](blockchain_explorers)
     - [Dapp Analytics Platforms](dapp_analytics_platforms)
@@ -13,13 +15,16 @@
     - [On-Chain Analytics Platforms](onchain_analytics_platforms)
         - [Glassnode](glassnode)
         - [Nansen](nansen)
+# Innovation
 - [Autonomous Verifiable Services](autonomous_verifiable_services)
     - [Eigen Cloud](eigen_cloud)
+# Centralized Exchanges
 - [CEXs](cexs)
     - [Binance](binance_exchange)
     - [Coinbase](coinbase_exchange)
-    - [Jupiter](jupiter_exchange)
+    - [Gemini](gemini_exchange)
     - [Kraken](kraken_exchange)
+# Core Protocols
 - [Core Protocol Primitives](core_protocol_primitives)
     - [Liquidity Pools](liquidity_pools)
         - [AMM DEXs (Uniswap, Curve)](amm_dexs)
@@ -33,6 +38,7 @@
         - [Yield aggregators (Yearn, Idle)](yield_aggregators)
 - [Cross-cutting Concerns](cross_cutting_concerns)
     - [Risk Vectors & Threat Modeling](risk_vectors_and_threat_modeling)
+# Decentralized Autonomous Organizations
 - [DAOs](daos)
     - [Aave DAO](aave_dao)
     - [Arbitrum DAO](arbitrum_dao)
@@ -51,6 +57,7 @@
     - [Synthetix DAO](synthetix_dao)
     - [The Graph DAO](the_graph_dao)
     - [Uniswap DAO](uniswap_dao)
+# Decentralized Exchanges
 - [DEXs](dexs)
     - [1inch Network DEX](1inch_network_dex)
     - [Aerodrome DEX](aerodrome_dex)
@@ -65,21 +72,25 @@
     - [SushiSwap DEX](sushi_swap_dex)
     - [Trader Joe DEX](trader_joe_dex)
     - [Uniswap DEX](uniswap_dex)
+# Ecosystems
 - [Ecosystems](ecosystems)
     - [Bitcoin](bitcoin_ecosystem)
     - [Cardano](cardano_ecoosystem)
     - [Ethereum](ethereum_ecosystem)
     - [Solana](solana_ecosystem)
+# Financial Services
 - [Financial Services & Utilities](financial_services_and_utilities)
     - [Derivatives & Structured Products](derivatives_and_structured_products)
     - [Insurance & Risk Mitigation](insurance_and_risk_mitigation)
     - [Identity / Credit](identity_credit)
     - [Real-World Assets](real_world_assets)
         - [Tokenized Real Estate](tokenized_real_estate)
+# Governance and DAO Structures
 - [Governance & DAO Structures](governance_and_DAO_structures)
     - [Protocol Governance](protocol_governance)
     - [Treasury & Yield Management](treasury_and_yield_management)
     - [Investment & Service DAOs](investment_and_service_DAOs)
+# Infrastructures
 - [Infrastructure](infrastructure)
     - [Blockchains](blockchains)
         - [Layer 1](layer1_blockchains)
@@ -106,6 +117,12 @@
     - [Integrations](integrations)
     - [Oracles](oracles)
         - [Chainlink](chainlink)
+# Investing
+- [Investing](investing)
+    - [ETH Investing](eth_investing)
+        - [ETH Investing Strategy](eth_investing_strategy)
+            - [ETH Investing Specifics](eth_investing_specifics)
+# Protocols
 - [Protocols](defi_protocols)
     - [Lending](lending_protocols)
         - [Aave](aave_protocol)
@@ -114,6 +131,7 @@
         - [Eigen Cloud](eigen_cloud)
     - [Staking](staking_protocols)
     - [Swapping](swapping_protocols)
+# Smart Contracts
 - [Smart Contracts](smart_contracts)
     - [Programming](programming_contracts)
         - [Solidity](solidity_language)
@@ -127,10 +145,12 @@
             - [Zk Snarks](zksnarks)
         - [Verification](smart_contract_verification)
         - [Quantum Readiness](quantum_readiness)
+# Stores of Value
 - [Stores of Value](stores_of_value)
     ¯ [Bitcoin](bitcoin_ecosystem)
     - [Litecoin](litecoin_ecosystem)
-- [Token Ṭypes & Functions](token_types_and_functions)
+# Tokens
+- [Token Types & Functions](token_types_and_functions)
     - [Derivative Tokens](derivative_tokens)
     - [Governance Tokens](governance_tokens)
     - [Identity/Reputation](identity_reputation_tokens)
@@ -145,16 +165,21 @@
     - [Staking/Restaking](staking_restaking_tokens)
     - [Utility](utility_tokens)
     - [Yield Tokens](yield_tokens)
+# Traditional Finance
 - [TradFi Players](tradfi_players)
+# Treasury Funds
 - [Treasury Funds](treasury_funds)
+# User Interfaces and Supporting Infrastructure
 - [User Interfaces & Supporting Infrastructure](user_interfaces_and_supporting_infrastructure)
     - [Wallets & Self-Custody](wallets_and_self_custody)
     - [Developer tooling](developer_tooling)
         - [Analytics](developer_tooling_analytics)
         - [Contracts](developer_tooling_contracts)
         - [Auditing](developer_tooling_auditiṇg)
+# Valuation
 - [Valuation Multiples](valuation_multiples)
     - [Price/Earnings Ratios](price_earnings_ratios)
+# Yield Farming
 - [Yield Farming](yield_farming)
     - [Staking](staking)
     - [Liquidity Pools](liquidity_pools)
