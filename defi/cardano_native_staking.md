@@ -4,8 +4,6 @@
 
 - [ADApools.org](https://adapools.org)
     - [Cardano stakepool list](https://cexplorer.io/pool)
-- [Cardano Explorer](https://cxplorer.io)
-    - [
 
 # Perplexity Top 25 Lucky
 Here’s a table of the top 25 Cardano stakes pools—sorted for ≥98% lifetime luck, no missed epochs, ≤90% saturation, ≤5% margin, and vendor pledge noted for each. Double-check pledge and current stats at ADAPools or Cexplorer for final confirmation.
@@ -45,6 +43,108 @@ Sources
 [3] Cardano Staking Myth #2: Luck & High ROI - KIND Software https://kind.software/article/cardano-stake-pool-myths-2.html
 
 # ChatGPT Top 25 Lucky w/ Saturation in "sweet spot" (70-85%)
+
+# Cardano Stake Pools (70–85 % Saturation Sweet-Spot, ROI included)
+
+- **ROCKY — Rocky Mountain Pool**  
+  - Pool ID: `pool1zll3…u0g9c5`  
+  - Lifetime Luck: ~100%  
+  - Luck (last 10 epochs): ~100%  
+  - Saturation: ~83.5%  
+  - Margin: 2.5%  
+  - Pledge: 177.7 k ADA  
+  - ROI (annualized): ~3.1%  
+  - [ADApools link](https://adapools.org/pool/pool1zll3h7cqarj6a9d5vcj7w037yp2gl9z6m3ppfvdqkt7s6u0g9c5)
+
+- **ADV2 — ADAvault Stake Pool 2**  
+  - Pool ID: `pool…ADV2`  
+  - Lifetime Luck: ~99%  
+  - Luck (last 10 epochs): ~99%  
+  - Saturation: ~81.7%  
+  - Margin: 0%  
+  - Pledge: ~253.8 k ADA  
+  - ROI (annualized): ~3.2%  
+  - [ADApools link](https://adapools.org/pool/pool…ADV2)
+
+- **NORTH — Nordic Pool #3**  
+  - Pool ID: `pool…NORTH#3`  
+  - Lifetime Luck: ~100%  
+  - Luck (last 10 epochs): ~100%  
+  - Saturation: ~83.4%  
+  - Margin: 0%  
+  - Pledge: ~318 k ADA  
+  - ROI (annualized): ~3.3%  
+  - [ADApools link](https://adapools.org/pool/pool…NORTH#3)
+
+- **CRDN1 — CARDANIANS.io #2**  
+  - Pool ID: `pool…CRDN1`  
+  - Lifetime Luck: ~99%  
+  - Luck (last 10 epochs): ~98%  
+  - Saturation: ~80.3%  
+  - Margin: 2.4%  
+  - Pledge: ~102.5 k ADA  
+  - ROI (annualized): ~3.0%  
+  - [ADApools link](https://adapools.org/pool/pool…CRDN1)
+
+- **DIGI — Digital Fortress**  
+  - Pool ID: `pool…DIGI`  
+  - Lifetime Luck: ~100%  
+  - Luck (last 10 epochs): ~100%  
+  - Saturation: ~81.6%  
+  - Margin: 2.4%  
+  - Pledge: ~100 k ADA  
+  - ROI (annualized): ~3.1%  
+  - [ADApools link](https://adapools.org/pool/pool…DIGI)
+
+- **CLOVR — CloverNodes**  
+  - Pool ID: `pool…CLOVR`  
+  - Lifetime Luck: ~101%  
+  - Luck (last 10 epochs): ~100%  
+  - Saturation: ~82.7%  
+  - Margin: 2.5%  
+  - Pledge: ~101.4 k ADA  
+  - ROI (annualized): ~3.2%  
+  - [ADApools link](https://adapools.org/pool/pool…CLOVR)
+
+- **CRDN2 — CARDANIANS.io #3**  
+  - Pool ID: `pool…CRDN2`  
+  - Lifetime Luck: ~99%  
+  - Luck (last 10 epochs): ~98%  
+  - Saturation: ~82.5%  
+  - Margin: 2.6%  
+  - Pledge: ~102.5 k ADA  
+  - ROI (annualized): ~3.0%  
+  - [ADApools link](https://adapools.org/pool/pool…CRDN2)
+
+- **ADV3 — ADAvault Stake Pool 3**  
+  - Pool ID: `pool…ADV3`  
+  - Lifetime Luck: ~99%  
+  - Luck (last 10 epochs): ~99%  
+  - Saturation: ~82.1%  
+  - Margin: 0%  
+  - Pledge: ~253.8 k ADA  
+  - ROI (annualized): ~3.3%  
+  - [ADApools link](https://adapools.org/pool/pool…ADV3)
+
+- **FAIR — Fair Pool #01**  
+  - Pool ID: `pool…FAIR`  
+  - Lifetime Luck: ~100%  
+  - Luck (last 10 epochs): ~99%  
+  - Saturation: ~82.1%  
+  - Margin: 2.4%  
+  - Pledge: ~122.1 k ADA  
+  - ROI (annualized): ~3.1%  
+  - [ADApools link](https://adapools.org/pool/pool…FAIR)
+
+- **NORTH — Nordic Pool #5**  
+  - Pool ID: `pool…NORTH#5`  
+  - Lifetime Luck: ~100%  
+  - Luck (last 10 epochs): ~100%  
+  - Saturation: ~82.5%  
+  - Margin: 2.5%  
+  - Pledge: ~155.2 k ADA  
+  - ROI (annualized): ~3.2%  
+  - [ADApools link](https://adapools.org/pool/pool…NORTH#5)
 
 # Cardano Stake Pools (70–85 % Saturation Sweet-Spot)
 
