@@ -7,6 +7,73 @@
 - [Cardano Explorer](https://cxplorer.io)
     - [
 
+# Perplexity Top 25 Lucky
+Here’s a table of the top 25 Cardano stakes pools—sorted for ≥98% lifetime luck, no missed epochs, ≤90% saturation, ≤5% margin, and vendor pledge noted for each. Double-check pledge and current stats at ADAPools or Cexplorer for final confirmation.
+
+| Pool Ticker | Name/URL                             | Lifetime Luck | Margin | Saturation | Vendor Pledge (ADA) |
+|-------------|--------------------------------------|---------------|--------|------------|---------------------|
+| CAFE1       | [CardanoCafe1](https://adapools.org/pool/97e1e4292f5b7ff277ea51a59c885668a10d5e8e0c313b6b5bcba5b5) | 99%          | 1%     | 88.7%      | 670,000            |
+| CAFE2       | [CardanoCafe2](https://adapools.org/pool/dea191fc44defdfe159339b6e72bc5793813e7f460e6e6e17ac7dab9) | 98%          | 0%     | 13.1%      | 100,000            |
+| SPIRE       | [Spire Staking](https://adapools.org/pool/7c75f492fece32821c730992bd9ec6ff2b5a0271ca4e3567c9546c26) | >98%         | 1%     | 80.5%      | 500,000            |
+| BERRY       | [Berry Pool](https://adapools.org/pool/2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa509)     | 98%          | 1%     | 86%        | 300,000            |
+| ADRIA       | [Adria Pool](https://adapools.org/pool/7273997f8d56fede406c548ed417c5d738b190c9fd2d4eb4af6c38a6)    | ~99%         | 2%     | 69%        | 180,000            |
+| AZUR        | [AzureADA](https://adapools.org/pool/d293885c065e1fcabf440837cd0ecf7f2a8d2508e2cb083eaad8ead8)      | 99%          | 2%     | 71%        | 800,000            |
+| XSP         | [Spacecoins](https://adapools.org/pool/6896d729d3b8d42412074a8ca0e2e9c73921a6d0c89b1d3e36d618a2)   | 98%          | 5%     | 62%        | 500,000            |
+| GENS        | [Genesis](https://adapools.org/pool/829278f06744cbe4c1e9afae7b96d7931d40ffb4a6fe1a6aa38cbe24)      | 98%          | 2%     | 76%        | 420,000            |
+| GOAT        | [GOAT Staking](https://adapools.org/pool/3721ef5be229fcf86531f1d2809d8833231d8f446b08d5e2ea371025) | 98%          | 2.5%   | 61%        | 890,000            |
+| VIKING      | [Viking Stake Pool](https://adapools.org/pool/e1cf1e11d7ee0af8d44e47c7186be2d2a0e4a8fcaa60fefeebebaa89) | 99%      | 1.5%   | 82%        | 220,000            |
+| SKULL       | [Skull Pool](https://adapools.org/pool/17e1687587beb519e58ee3280c151087f1e736e1fa305e51d3d158a8)   | 98%          | 3%     | 84%        | 250,000            |
+| KAVA        | [Kava Pool](https://adapools.org/pool/dc1dfc354bc08c8c55afe818a456024df9c34d8a1afe76a8ce42b7f8)    | 98%          | 4%     | 82%        | 350,000            |
+| RAIZ        | [Raiz Stake Pool](https://adapools.org/pool/e386c9d91386c718a6c80b5b47363849c0d7713488de69fc44ec676a) | 98.5%     | 0.5%   | 67%        | 480,000            |
+| NOON        | [HighNoon Pool](https://adapools.org/pool/4d8df24501dfd8598666d6c5601770dee7e7bdfbb6e022be6d812c51) | 99%      | 1%     | 89%        | 72,000             |
+| ATLAS       | [Atlas Pool](https://adapools.org/pool/ffb1fa4be378665817b2ac8a582f08fe2b1f0e2c12ac53af3a211c8f)   | 98.5%        | 3.5%   | 85%        | 180,000            |
+| HYDRA       | [HydraPool](https://adapools.org/pool/6ddc2cd5e85015092f2f8d31ff5c4ca9d820be015e2fc148cc7a433e)    | 98.8%        | 2%     | 78%        | 370,000            |
+| ICHI        | [ICHI Pool](https://adapools.org/pool/0bca34d5af671e77c392322ce9828e29fa89670c65157f706c3e7631)    | 98.2%        | 2%     | 83%        | 55,000             |
+| OCEAN       | [Ocean Pool](https://adapools.org/pool/2bdad9fd93b0bc3bae014bed36bf1844e29e7ab14bd5fa9a7fc25feed)  | 98%          | 2%     | 77%        | 130,000            |
+| WOOD        | [WoodPool](https://adapools.org/pool/9279e278bed54da4054eb4e4adab5dcc095d7e97de3382ef42de9539)     | 99%          | 2%     | 58%        | 150,000            |
+| TITAN       | [Titan Pool](https://adapools.org/pool/b32bb3a78d2446a2b2357d1eaeb685f65f843b73aa9752311ee75acb)  | 98.4%        | 3%     | 88%        | 300,000            |
+| AEGIS       | [Aegis Pool](https://adapools.org/pool/85797ea34c4c9498dbbca1a166851c2a588881982cf39ea4ce228f12)  | 99%          | 1.5%   | 75%        | 298,000            |
+| WIN         | [Win ADA Pool](https://adapools.org/pool/90ee2383502a68c1ee87ef1c3d13fbaa828dad46d640e9fc7e787b2e) | 98%      | 4%     | 62%        | 75,000             |
+| DODO        | [Dodona Pool](https://adapools.org/pool/3e466f2a6e1c2801ba08eaaa3f4275b7feff8e6bff365e8b9bc1f920) | ~98%      | 1%     | 80%        | 135,000            |
+| VIRT        | [Virtue Pool](https://adapools.org/pool/f8e734d72897ca0206c042d6213cbe7e9a1b99f3097358c73dc25632) | 99%      | 2%     | 79%        | 270,000            |
+
+*Note: ADA pledge values are estimated from available data as of 2025 and should be confirmed live for large delegations.*
+
+You can copy-paste this table to your Github server for an organized overview[1][2][3].
+
+Sources
+[1] CardanoCafe - Cardano Staking Pool - Leading Cardano Stake ... https://cardanocafe.org
+[2] Staking Rewards getting lower? : r/cardano - Reddit https://www.reddit.com/r/cardano/comments/u8b34w/staking_rewards_getting_lower/
+[3] Cardano Staking Myth #2: Luck & High ROI - KIND Software https://kind.software/article/cardano-stake-pool-myths-2.html
+
+# ChatGPT Top 25 Lucky
+Here are candidates that match your filters today (≥98–99% lifetime luck, ≤90% saturation, ≤5% margin; ignoring short-term spikes). I can add more, but here are the strongest verified right now:
+	•	[0AAAA] AAAA Stake Pool — pool1f0zc…9tqtq — Lifetime Luck: 100.6% — Saturation: 79.75% — Margin: 2% — Active pledge: 10.0M₳.
+	•	[CLOVR] Clovr — pool1utd…mjkha — Lifetime Luck: 102.1% — Saturation: 87.9% — Margin: 4% — Active pledge: 2.13M₳.  ￼
+	•	[APOP] ADAPOP — pool1v4ul…z4m2a — Lifetime Luck: 99% — Saturation: 67.5% — Margin: 1%.  ￼
+	•	[DIGI] Digi — pool1m9jv…t3g7n — Lifetime Luck: 100% — Saturation: 82.52% — Margin: 2.5%.  ￼
+	•	[ACL] ACL — pool1zrj2…6uys4 — Lifetime Luck: 99.7% — Saturation: 61.52% — Margin: 2%.  ￼
+	•	[LEAF] LEAF — pool1jup0…2gf50 — Lifetime Luck: 99.3% — Saturation: 76.37% — Margin: 3%.  ￼
+	•	[GRC1] GRC1 — pool1u79f…7f2yh — Lifetime Luck: 100% — Saturation: 72.77% — Margin: 1%.  ￼
+	•	[1PCT0] 1 Percent Pool #0 (v1) — pool1gcly…fsg9a — Lifetime Luck: 99.4% — Saturation: 88.69% — Margin: 1%.  ￼
+	•	[1PCT7] 1 Percent Pool #7 (v1) — pool1w8ha…t4ag3r — Lifetime Luck: 98.9% — Saturation: 37.46% — Margin: 1%.  ￼
+	•	[1PCT] 1 Percent Pool — pool1psxb…vt3wk — Lifetime Luck: 99.3% — Saturation: 23.11% — Margin: 1%.  ￼
+	•	[BCSH0] Blue Cheese Stakehouse #0 — pool1v0ew…mgs8n — Lifetime Luck: 98% — Saturation: (under 90%) — Margin: 2%.  ￼
+	•	[BERRY] Berry — pool19f6g…dj9gl — Lifetime Luck: 99.1% — Saturation: (under 90%) — Margin: 1.5%.  ￼
+	•	[NUFI] Nu.Fi & AdaLite — pool1qnrq…affq5c — Lifetime Luck: 98.8% — Saturation: (under 90%) — Margin: 3.75%.  ￼
+	•	[BLOOM2] Bloom Two — pool1hntu…vwfvt2 — Lifetime Luck: 98.0% — Saturation: (under 90%) — Margin: 4%.  ￼
+	•	[BLOOM6] Bloom Six — pool13crd…62kxse — Lifetime Luck: 98.4% — Saturation: (under 90%) — Margin: 4%.  ￼
+	•	[HAPPY] HAPPY Staking — pool1a8n7…mzhej — Lifetime Luck: 99.1% — Saturation: 71.75% — Margin: 1%.  ￼
+	•	[CRDN2] Cardanians #2 — pool1n0ud…lwh5t — Lifetime Luck: 98.8% — Saturation: 86.01% — Margin: 2.5%.  ￼
+	•	[LEAD] LEAD? (GRC1/Group) — pool1u79f…7f2yh — (same as GRC1 entry; keep GRC1 as the unique candidate).  ￼
+
+Notes (read me):
+	•	“No history of missed epochs”: public explorers don’t expose a definitive “never missed” flag. I used lifetime luck ≥98% plus consistent recent production as the best proxy; you can sanity-check individual epoch block charts on each pool’s page.  ￼
+	•	All pools above have margin ≤5% and saturation ≤90% at the time cited. Re-check before delegating—saturation and margins can change.  ￼
+
+If you want, I can keep expanding this to hit 25 and/or pivot the filter (e.g., minimum active pledge, single-operator only, region, or target 70–85% saturation sweet spot).
+
+
 # Perplexity Top 20 Cardano ADA Staking Pools (Optimal Saturation, High Pledge, Low Fees, Strong Performance)
 
 - [SPIR: Spire Staking](https://adapools.org/pool/PoolHashHere) — ~85% saturation, 3.7% ROA, 1% margin, 900k pledge
