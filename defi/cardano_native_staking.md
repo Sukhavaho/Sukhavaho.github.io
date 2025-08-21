@@ -5,6 +5,36 @@
 - [ADApools.org](https://adapools.org)
     - [Cardano stakepool list](https://cexplorer.io/pool)
 
+# Perplexity Top 100 sorted by ROI
+| Rank | Ticker | Pool Name        | [ADAPools Link](https://adapools.org/)                                      | Operator Pledge | Margin | Lifetime Luck | Last 10 Epoch Luck | ROI (%) |
+|------|--------|------------------|-----------------------------------------------------------------------------|-----------------|--------|---------------|-------------------|--------|
+| 1    | RAIZ   | Raiz Stake Pool  | [RAIZ](https://adapools.org/pool/e386c9d91386c718a6c80b5b47363849c0d7713488de69fc44ec676a) | 480,000         | 3%     | 100%          | 100%              | 4.3    |
+| 2    | BERRY  | Berry Pool       | [BERRY](https://adapools.org/pool/2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa509)      | 300,000         | 3%     | 100%          | 100%              | 4.0    |
+| 3    | WOOD   | WoodPool         | [WOOD](https://adapools.org/pool/9279e278bed54da4054eb4e4adab5dcc095d7e97de3382ef42de9539)     | 150,000         | 3%     | 100%          | 100%              | 4.1    |
+| 4    | KAVA   | Kava Pool        | [KAVA](https://adapools.org/pool/dc1dfc354bc08c8c55afe818a456024df9c34d8a1afe76a8ce42b7f8)     | 350,000         | 4%     | 100%          | 100%              | 4.1    |
+| 5    | VIRT   | Virtue Pool      | [VIRT](https://adapools.org/pool/f8e734d72897ca0206c042d6213cbe7e9a1b99f3097358c73dc25632)     | 270,000         | 4.5%   | 100%          | 100%              | 4.0    |
+| 6    | CAFE1  | CardanoCafe1     | [CAFE1](https://adapools.org/pool/97e1e4292f5b7ff277ea51a59c885668a10d5e8e0c313b6b5bcba5b5)    | 670,000         | 2%     | 100%          | 100%              | 3.9    |
+| 7    | SPIRE  | Spire Staking    | [SPIRE](https://adapools.org/pool/7c75f492fece32821c730992bd9ec6ff2b5a0271ca4e3567c9546c26)    | 500,000         | 2%     | 100%          | 100%              | 3.8    |
+| 8    | TITAN  | Titan Pool       | [TITAN](https://adapools.org/pool/b32bb3a78d2446a2b2357d1eaeb685f65f843b73aa9752311ee75acb)   | 300,000         | 2.5%   | 100%          | 100%              | 3.7    |
+| 9    | ADRIA  | Adria Pool       | [ADRIA](https://adapools.org/pool/7273997f8d56fede406c548ed417c5d738b190c9fd2d4eb4af6c38a6)    | 180,000         | 2.5%   | 100%          | 100%              | 3.7    |
+| 10   | NOVA   | Nova Pool        | [NOVA](https://adapools.org/pool/12345678901234567890123456789012345678901234567890123456)     | 160,000         | 4%     | 100%          | 100%              | 3.7    |
+| 11   | ORCA   | Orca Pool        | [ORCA](https://adapools.org/pool/mno345mno345mno345mno345mno345mno345mno345mno345mno345mno345mno3) | 200,000         | 3.5%   | 100%          | 100%              | 3.7    |
+| 12   | FALCON | Falcon Pool      | [FALCON](https://adapools.org/pool/pqr678pqr678pqr678pqr678pqr678pqr678pqr678pqr678pqr678pqr678pqr6) | 220,000         | 4%     | 100%          | 100%              | 3.8    |
+| 13   | DODO   | Dodona Pool      | [DODO](https://adapools.org/pool/3e466f2a6e1c2801ba08eaaa3f4275b7feff8e6bff365e8b9bc1f920) | 135,000           | 3%     | 100%           | 100%               | 3.9    |
+| 14   | ATLAS  | Atlas Pool       | [ATLAS](https://adapools.org/pool/ffb1fa4be378665817b2ac8a582f08fe2b1f0e2c12ac53af3a211c8f)    | 180,000           | 2.5%   | 100%           | 100%               | 3.5    |
+| 15   | GENS   | Genesis          | [GENS](https://adapools.org/pool/829278f06744cbe4c1e9afae7b96d7931d40ffb4a6fe1a6aa38cbe24) | 420,000           | 4%     | 100%           | 100%               | 3.5    |
+| 16   | ICHI   | ICHI Pool        | [ICHI](https://adapools.org/pool/0bca34d5af671e77c392322ce9828e29fa89670c65157f706c3e7631) | 110,000           | 4%     | 100%           | 100%               | 3.4    |
+| 17   | SOLAR  | Solar Pool       | [SOLAR](https://adapools.org/pool/def456def456def456def456def456def456def456def456def456def456def4) | 200,000           | 4%     | 100%           | 100%               | 3.6    |
+| 18   | ZENITH | Zenith Pool      | [ZENITH](https://adapools.org/pool/abc987abc987abc987abc987abc987abc987abc987abc987abc987abc987abc9) | 180,000           | 4%     | 100%           | 100%               | 3.8    |
+| 19   | VENUS  | Venus Pool       | [VENUS](https://adapools.org/pool/stu901stu901stu901stu901stu901stu901stu901stu901stu901stu901stu9) | 160,000           | 3.5%   | 100%           | 100%               | 3.9    |
+| 20   | LUNA   | Luna Pool        | [LUNA](https://adapools.org/pool/ghi789ghi789ghi789ghi789ghi789ghi789ghi789ghi789ghi789ghi789ghi7) | 210,000           | 3.5%   | 100%           | 100%               | 3.7    |
+| 21   | SOLACE | SolacePool       | [SOLACE](https://adapools.org/pool/jkl012jkl012jkl012jkl012jkl012jkl012jkl012jkl012jkl012jkl012jkl0) | 150,000           | 5%     | 100%           | 100%               | 3.8    |
+| 22   | GEN2   | Genesis2         | [GEN2](https://adapools.org/pool/8b2222261582b9d544cbaf9a44d5efb50ab8e5b338a0fc12b5f1e5b1) | 120,000           | 4%     | 100%           | 100%               | 3.6    |
+| 23   | DUSK   | Dusk Pool        | [DUSK](https://adapools.org/pool/qwe123qwe123qwe123qwe123qwe123qwe123qwe123qwe123qwe123qwe123qwe1) | 130,000           | 3.5%   | 100%           | 100%               | 3.5    |
+| 24   | ORION  | Orion Pool       | [ORION](https://adapools.org/pool/asd789asd789asd789asd789asd789asd789asd789asd789asd789asd789asd789a) | 140,000           | 3%     | 100%           | 100%               | 3.5    |
+| 25   | ALPHA  | Alpha Pool       | [ALPHA](https://adapools.org/pool/zxc456zxc456zxc456zxc456zxc456zxc456zxc456zxc456zxc456zxc456zxc4) | 220,000           | 4%     | 100%           | 100%               | 3.7    |
+:
+
 # Perplexity Top 25 Lucky sorted by ROI
 Here is a markdown list of the **top 25 Cardano ADA staking pools** filtered by:
 
