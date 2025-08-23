@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DeFi Taxonomy – Interactive Mind Map</title>
+  <script src="https://unpkg.com/d3@7"></script>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #111831;
+      --text: #e7eefc;
+      --muted: #9fb3d9;
+      --accent: #6aa6ff;
+      --link: #8bd6ff;
+      --node: #ffffff;
+      --node-dim: #bcd1ff;
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      margin: 0; 
+      background: var(--bg); 
+      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    header {
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+
+    h1 { 
+      font-size: 1.1rem; 
+      margin: 0 0 .5rem 0; 
+      letter-spacing: .2px; 
+      color: var(--text);
+    }
+
+    .toolbar {
+      display: flex; 
+      flex-wrap: wrap; 
+      gap: .5rem; 
+      align-items: center;
+    }
+
+    .toolbar input[type="search"] {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,0.12);
+      color: var(--text);
+      padding: .6rem .75rem;
+      border-radius: .6rem;
+      min-width: 16rem;
+      outline: none;
+    }
+
+    .toolbar button {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,0.12);
+      color: var(--text);
+      padding: .55rem .75rem;
+      border-radius: .6rem;
+      cursor: pointer;
+      transition: transform .05s ease, background .2s ease;
+    }
+    .toolbar button:hover { background: #172046; }
+    .toolbar button:active { transform: scale(0.98); }
+
+    .toolbar .hint { color: var(--muted); font-size: .9rem; }
+
+    #container {
+      position: relative;
+      flex: 1 1 auto; 
+      min-height: 480px;
+    }
+
+    svg { width: 100%; height: 100%; display: block; }
+
+    .link {
+      fill: none; 
+      stroke: var(--link); 
+      stroke-opacity: .3; 
+      stroke-width: 1.2px;
+    }
+
+    .node circle {
+      fill: var(--node); 
+      stroke: none; 
+      r: 3.5;
+    }
+
+    .node.collapsed circle { fill: var(--node-dim); }
+
+    .node text { 
+      font-size: 12.5px; 
+      fill: var(--text); 
+      paint-order: stroke; 
+      stroke: rgba(11,16,32,0.5); 
+      stroke-width: 3px; 
+      stroke-linejoin: round;
+    }
+
+    .highlight circle {
+      r: 5.5; 
+      filter: drop-shadow(0 0 4px var(--accent));
+    }
+
+    .breadcrumb {
+      position: absolute; 
+      left: 1rem; bottom: 1rem; right: 1rem;
+      color: var(--muted); 
+      font-size: .95rem;
+      white-space: nowrap; 
+      overflow: hidden; 
+      text-overflow: ellipsis;
+      pointer-events: none;
+    }
+
+    .legend {
+      position: absolute; 
+      right: 1rem; top: 1rem; 
+      background: rgba(0,0,0,0.25);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: .6rem; 
+      padding: .5rem .6rem; 
+      color: var(--muted); 
+      font-size: .85rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Decentralized Finance (DeFi) – Interactive Taxonomy</h1>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search nodes (e.g., Aave, LST, oracle)…" />
+      <button id="expandAll" title="Expand all nodes">Expand All</button>
+      <button id="collapseAll" title="Collapse to top-level">Collapse</button>
+      <button id="fit" title="Fit graph to view">Fit</button>
+      <button id="download" title="Download SVG">Download</button>
+      <span class="hint">Tip: click nodes to expand/collapse; drag to pan; scroll/trackpad to zoom.</span>
+    </div>
+  </header>
+
+  <div id="container">
+    <svg id="mindmap" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid meet"></svg>
+    <div class="legend">● expanded ◍ collapsed • match highlighted</div>
+    <div id="breadcrumb" class="breadcrumb"></div>
+  </div>
+
+  <script>
+    // --- Taxonomy Data (edit this object to customize the mind map) ---
+    const taxonomyData = {
+      name: "DeFi Taxonomy",
+      children: [
+        {
+          name: "Infrastructure & Foundations",
+          children: [
+            {
+              name: "Blockchains",
+              children: [
+                { name: "Layer 1", children: [
+                  { name: "Ethereum" }, { name: "Solana" }, { name: "Cardano" }, { name: "Bitcoin" }, { name: "Avalanche" }, { name: "Polkadot" }, { name: "Cosmos" }
+                ]},
+                { name: "Layer 2", children: [
+                  { name: "Arbitrum" }, { name: "Optimism" }, { name: "zkSync" }, { name: "Starknet" }, { name: "Base" }
+                ]}
+              ]
+            },
+            { name: "Bridges & Wrapped", children: [
+              { name: "Wormhole" }, { name: "LayerZero" }, { name: "wETH" }, { name: "wBTC" }
+            ]},
+            { name: "Oracles", children: [ { name: "Chainlink" }, { name: "Pyth" }, { name: "Band" } ] }
+          ]
+        },
+        {
+          name: "Core Protocol Primitives",
+          children: [
+            {
+              name: "Liquidity Pools",
+              children: [
+                { name: "DEX AMMs", children: [ { name: "Uniswap" }, { name: "Curve" }, { name: "Balancer" } ] },
+                { name: "Lending/Borrowing", children: [ { name: "Aave" }, { name: "Compound" }, { name: "Spark" } ] }
+              ]
+            },
+            {
+              name: "Pegged & Synthetic",
+              children: [
+                { name: "Stablecoins", children: [ { name: "DAI" }, { name: "USDC" }, { name: "USDT" }, { name: "FRAX" } ] },
+                { name: "Liquid Staking Tokens", children: [ { name: "stETH" }, { name: "rETH" }, { name: "cbETH" } ] },
+                { name: "Synthetics", children: [ { name: "sUSD" }, { name: "Tokenized Stocks" } ] }
+              ]
+            },
+            {
+              name: "Aggregators",
+              children: [
+                { name: "DEX Aggregators", children: [ { name: "1inch" }, { name: "Matcha" }, { name: "Jupiter" }, { name: "Paraswap" } ] },
+                { name: "Yield Aggregators", children: [ { name: "Yearn" }, { name: "Idle" }, { name: "Beefy" } ] }
+              ]
+            }
+          ]
+        },
+        {
+          name: "Token Types & Functions",
+          children: [
+            { name: "Governance", children: [ { name: "UNI" }, { name: "COMP" }, { name: "MKR" } ] },
+            { name: "Derivative Tokens", children: [ { name: "Options" }, { name: "Perpetuals" } ] },
+            { name: "Yield Tokens", children: [ { name: "LP Tokens" }, { name: "Staking Derivatives" }, { name: "Yield NFTs" } ] },
+            { name: "Identity & Reputation", children: [ { name: "ENS" }, { name: "DID" }, { name: "Soulbound" } ] }
+          ]
+        },
+        {
+          name: "Financial Services & Utilities",
+          children: [
+            { name: "Derivatives & Structured", children: [ { name: "GMX" }, { name: "Lyra" }, { name: "Ribbon" } ] },
+            { name: "Insurance & Risk", children: [ { name: "Nexus Mutual" }, { name: "InsurAce" } ] },
+            { name: "Credit & Identity", children: [ { name: "Goldfinch" }, { name: "Cred Protocol" } ] },
+            { name: "Real-World Assets", children: [ { name: "T-Bills" }, { name: "Real Estate" }, { name: "Carbon Credits" } ] }
+          ]
+        },
+        {
+          name: "Governance & DAOs",
+          children: [
+            { name: "Protocol DAOs", children: [ { name: "Uniswap DAO" }, { name: "MakerDAO" } ] },
+            { name: "Investment DAOs", children: [ { name: "PleasrDAO" }, { name: "MetaCartel" } ] },
+            { name: "Service DAOs", children: [ { name: "Raid Guild" }, { name: "DAOhaus" } ] },
+            { name: "Treasury Mgmt" }
+          ]
+        },
+        {
+          name: "Interfaces & Tooling",
+          children: [
+            { name: "Wallets & Custody", children: [ { name: "MetaMask" }, { name: "Ledger" }, { name: "Safe" }, { name: "Argent" } ] },
+            { name: "Dev Tooling", children: [ { name: "Hardhat" }, { name: "Foundry" }, { name: "The Graph" } ] },
+            { name: "Analytics", children: [ { name: "Dune" }, { name: "Nansen" }, { name: "Token Terminal" } ] },
+            { name: "Compliance & RegTech" }
+          ]
+        },
+        {
+          name: "Cross-Cutting",
+          children: [
+            { name: "Smart Contracts & Verification", children: [ { name: "Solidity" }, { name: "Vyper" }, { name: "Move" }, { name: "Formal Verification" } ] },
+            { name: "Cryptography", children: [ { name: "ECDSA" }, { name: "EdDSA" }, { name: "zk-SNARKs" }, { name: "zk-STARKs" } ] },
+            { name: "Quantum Readiness", children: [ { name: "PQ Signatures" } ] },
+            { name: "Risk Vectors", children: [ { name: "Oracle Manipulation" }, { name: "Liquidity Crises" }, { name: "Governance Attacks" } ] }
+          ]
+        },
+        {
+          name: "Centralized Exchanges (CeFi)",
+          children: [ { name: "Binance" }, { name: "Coinbase" }, { name: "Kraken" } ]
+        },
+        {
+          name: "Stores of Value",
+          children: [ { name: "Bitcoin" }, { name: "Litecoin" } ]
+        },
+        {
+          name: "Restaking & AVS",
+          children: [ { name: "EigenLayer" }, { name: "AVSs (DA, Oracles, Sequencing)" } ]
+        }
+      ]
+    };
+
+    // --- Rendering Logic ---
+    const svg = d3.select('#mindmap');
+    const g = svg.append('g'); // pan/zoom group
+    const linkG = g.append('g').attr('class', 'links');
+    const nodeG = g.append('g').attr('class', 'nodes');
+    const breadcrumbEl = document.getElementById('breadcrumb');
+
+    const width = 1200, height = 900;
+    const radius = Math.min(width, height) / 2 - 80;
+
+    const tree = d3.tree().size([2 * Math.PI, radius]).separation((a, b) => (a.parent === b.parent ? 1 : 2));
+
+    const root = d3.hierarchy(taxonomyData);
+    root.x0 = Math.PI; // center
+    root.y0 = 0;
+
+    // Collapse helper: move children to _children
+    function collapse(d) {
+      if (d.children) {
+        d._children = d.children;
+        d._children.forEach(collapse);
+        d.children = null;
+      }
+    }
+
+    // Expand helper: move _children back to children
+    function expand(d) {
+      if (d._children) {
+        d.children = d._children;
+        d._children = null;
+      }
+      if (d.children) d.children.forEach(expand);
+    }
+
+    // Initially: expand first level, collapse deeper
+    root.children?.forEach((d) => {
+      if (d.children) d.children.forEach(collapse);
+    });
+
+    // Zoom & Pan
+    const zoom = d3.zoom().scaleExtent([0.4, 2.5]).on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    });
+    svg.call(zoom);
+
+    function project(x, y) {
+      const angle = x - Math.PI / 2;
+      return [Math.cos(angle) * y, Math.sin(angle) * y];
+    }
+
+    function diagonal(d) {
+      const [sx, sy] = project(d.source.x, d.source.y);
+      const [tx, ty] = project(d.target.x, d.target.y);
+      return `M${sx},${sy}C${(sx + tx) / 2},${(sy + ty) / 2} ${(sx + tx) / 2},${(sy + ty) / 2} ${tx},${ty}`;
+    }
+
+    function update(source) {
+      const duration = 300;
+      const nodes = root.descendants().reverse();
+      const links = root.links();
+
+      tree(root);
+
+      // LINKS
+      const link = linkG.selectAll('path').data(links, (d) => d.target.data.name + Math.random());
+      link.join(
+        (enter) => enter
+          .append('path')
+          .attr('class', 'link')
+          .attr('d', (d) => {
+            const o = { x: source.x0 ?? source.x, y: source.y0 ?? source.y };
+            return diagonal({ source: o, target: o });
+          })
+          .transition().duration(duration)
+          .attr('d', diagonal),
+        (updateSel) => updateSel.transition().duration(duration).attr('d', diagonal),
+        (exit) => exit.transition().duration(duration).attr('d', (d) => {
+          const o = { x: source.x, y: source.y };
+          return diagonal({ source: o, target: o });
+        }).remove()
+      );
+
+      // NODES
+      const node = nodeG.selectAll('g.node').data(nodes, (d) => d.data.name + '-' + d.depth);
+
+      const nodeEnter = node.enter()
+        .append('g')
+        .attr('class', 'node')
+        .attr('transform', () => {
+          const [x, y] = project(source.x0 ?? source.x, source.y0 ?? source.y);
+          return `translate(${x},${y})`;
+        })
+        .on('click', (_, d) => {
+          if (d.children) { d._children = d.children; d.children = null; }
+          else { d.children = d._children; d._children = null; }
+          update(d);
+          showBreadcrumb(d);
+        })
+        .on('mouseover', (_, d) => showBreadcrumb(d));
+
+      nodeEnter.append('circle').attr('r', 1e-6);
+      nodeEnter.append('title').text((d) => d.ancestors().map(a => a.data.name).reverse().join(' › '));
+      nodeEnter.append('text')
+        .attr('dy', '0.31em')
+        .attr('x', (d) => project(d.x, d.y)[0] < 0 ? -8 : 8)
+        .attr('text-anchor', (d) => project(d.x, d.y)[0] < 0 ? 'end' : 'start')
+        .attr('transform', (d) => {
+          const [x, y] = project(d.x, d.y);
+          const angle = (d.x * 180 / Math.PI) - 90;
+          return `rotate(${angle}) translate(${d.y},0) rotate(${x < 0 ? 180 : 0})`;
+        })
+        .text((d) => d.data.name);
+
+      const nodeUpdate = nodeEnter.merge(node);
+
+      nodeUpdate
+        .attr('class', (d) => 'node' + (d._children && !d.children ? ' collapsed' : ''))
+        .transition().duration(duration)
+        .attr('transform', (d) => {
+          const [x, y] = project(d.x, d.y);
+          return `translate(${x},${y})`;
+        });
+
+      nodeUpdate.select('circle').transition().duration(duration).attr('r', 4);
+
+      nodeUpdate.select('text')
+        .attr('transform', (d) => {
+          const angle = (d.x * 180 / Math.PI) - 90;
+          return `rotate(${angle}) translate(${d.y},0) rotate(${project(d.x, d.y)[0] < 0 ? 180 : 0})`;
+        })
+        .attr('x', (d) => project(d.x, d.y)[0] < 0 ? -8 : 8)
+        .attr('text-anchor', (d) => project(d.x, d.y)[0] < 0 ? 'end' : 'start');
+
+      const nodeExit = node.exit();
+      nodeExit.transition().duration(duration)
+        .attr('transform', () => {
+          const [x, y] = project(source.x, source.y);
+          return `translate(${x},${y})`;
+        })
+        .remove();
+
+      root.each((d) => { d.x0 = d.x; d.y0 = d.y; });
+    }
+
+    function showBreadcrumb(d) {
+      breadcrumbEl.textContent = d.ancestors().map(a => a.data.name).reverse().join(' › ');
+    }
+
+    // --- Controls ---
+    document.getElementById('expandAll').addEventListener('click', () => { expand(root); update(root); });
+    document.getElementById('collapseAll').addEventListener('click', () => {
+      root.children?.forEach((d) => { if (d.children) d.children.forEach(collapse); });
+      update(root);
+    });
+    document.getElementById('fit').addEventListener('click', () => fitToView());
+
+    document.getElementById('download').addEventListener('click', () => {
+      const serializer = new XMLSerializer();
+      const svgNode = document.getElementById('mindmap').cloneNode(true);
+      svgNode.removeAttribute('style');
+      const source = serializer.serializeToString(svgNode);
+      const blob = new Blob([source], { type: 'image/svg+xml;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url; a.download = 'defi-taxonomy.svg'; a.click();
+      URL.revokeObjectURL(url);
+    });
+
+    // Search with highlight & auto-expand paths to matches
+    const searchEl = document.getElementById('search');
+    searchEl.addEventListener('input', () => {
+      const q = searchEl.value.trim().toLowerCase();
+      const matches = [];
+      root.each((d) => {
+        d.matched = q && d.data.name.toLowerCase().includes(q);
+        if (d.matched) matches.push(d);
+      });
+
+      // expand all ancestor paths to reveal matches
+      if (q) {
+        matches.forEach((m) => m.ancestors().forEach((a) => { if (a._children) { a.children = a._children; a._children = null; } }));
+      }
+      update(root);
+
+      // highlight matched nodes
+      nodeG.selectAll('g.node')
+        .classed('highlight', (d) => d.matched === true);
+
+      if (matches.length) showBreadcrumb(matches[0]);
+    });
+
+    function fitToView() {
+      // Center the root
+      const t = d3.zoomIdentity.translate(width/2, height/2).scale(1);
+      svg.transition().duration(400).call(zoom.transform, t);
+    }
+
+    // Initial render
+    update(root);
+    fitToView();
+  </script>
+</body>
+</html>
+
