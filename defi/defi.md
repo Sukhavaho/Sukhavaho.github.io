@@ -1,5 +1,9 @@
 # Decentralized Finance
 
+# Mind Mapps
+
+- [Interactive Ethereum DeFi Taxonomy](ethmap.html)
+
 # YouTube Videos
 - [DeFi Videos](https://www.youtube.com/playlist?list=PL5qIcLndifC2r6-9M4iV2UPMX6NvCjhe0)
 
