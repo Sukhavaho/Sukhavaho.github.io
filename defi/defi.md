@@ -1,20 +1,16 @@
 # Decentralized Finance
 
-## Staking
-- [AdaStat](https://adastat.net/addresses/stake1u8pzl36jr7e0ldfv34wcr97km7n5erltx9xlpcx8ewk9yag8e6y93)
-- [Pool ST3AK](https://adastat.net/pools/f76e3a1104a9d816a67d5826a155c9e2979a839d0d944346d47e33ab)
+## Staking Status
+- [Staking Status](staking)
+    - [Ada Staking](ada_staking)
+    - [Solana Staking](solana_staking)
 
-# YouTube Videos
-- [DeFi Videos](https://www.youtube.com/playlist?list=PL5qIcLndifC2r6-9M4iV2UPMX6NvCjhe0)
-
-# Study Guides
-- [DeFi Study Guides](https://docs.google.com/document/d/1Sb-CyRFgzsTpBWrOBVlZnaPvqO5-n8pIX1cwtZLwk64/edit?usp=sharing)
-
-# NotebookLM
-- [DeFi Notebooks](https://docs.google.com/document/d/1w65YfyzsP04kpZsQ1nv5FzKPG0kPryDrkz5HE_BUcWs/edit?usp=sharing)
-
-# Research
-- [Academia, Research and Conferences](academia_research_conferences)
+## Study Guides
+- [DeFi Study Guides](defi_study)
+    - [DeFi Videos](https://www.youtube.com/playlist?list=PL5qIcLndifC2r6-9M4iV2UPMX6NvCjhe0)
+    - [DeFi Study Guides](https://docs.google.com/document/d/1Sb-CyRFgzsTpBWrOBVlZnaPvqO5-n8pIX1cwtZLwk64/edit?usp=sharing)
+    - [DeFi Notebooks](https://docs.google.com/document/d/1w65YfyzsP04kpZsQ1nv5FzKPG0kPryDrkz5HE_BUcWs/edit?usp=sharing)
+    - [Academia, Research and Conferences](academia_research_conferences)
 
 # Analyses
 - [Analyst Services](analyst_services)
