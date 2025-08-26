@@ -1,8 +1,8 @@
 # Decentralized Finance
 
-# Mind Mapps
-
-- [Interactive Ethereum DeFi Taxonomy](ethmap.html)
+## Staking
+- [AdaStat](https://adastat.net/addresses/stake1u8pzl36jr7e0ldfv34wcr97km7n5erltx9xlpcx8ewk9yag8e6y93)
+- [Pool ST3AK](https://adastat.net/pools/f76e3a1104a9d816a67d5826a155c9e2979a839d0d944346d47e33ab)
 
 # YouTube Videos
 - [DeFi Videos](https://www.youtube.com/playlist?list=PL5qIcLndifC2r6-9M4iV2UPMX6NvCjhe0)
@@ -226,8 +226,7 @@
     - [Staking](staking)
     - [Liquidity Pools](liquidity_pools)
 
-# Google Notebooks
+# Mind Maps
+- [Interactive Ethereum DeFi Taxonomy](ethmap.html)
 
-
-# YouTube Videos
 
