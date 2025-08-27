@@ -1,4 +1,4 @@
-# Decentralized Finance
+# DeFi - Decentralized Finance
 
 ## Staking Status
 - [Staking Status](staking)
@@ -80,19 +80,26 @@
 
 # Decentralized Exchanges
 - [DEXs](dexs)
-    - [1inch Network DEX](1inch_network_dex)
-    - [Aerodrome DEX](aerodrome_dex)
-    - [Balancer DEX](balancer_dex)
-    - [Curve Finance DEX](curve_finance_dex)
-    - [dYdX DEX](dydx_dex)
-    - [Kyber Network DEX](kyber_network_dex)
-    - [Orca DEX](orca_dex)
-    - [QuickSwap DEX](quick_swap_dex)
-    - [Jupiter DEX](jupiter_dex)
-    - [Raydium DEX](raydium_dex)
-    - [SushiSwap DEX](sushi_swap_dex)
-    - [Trader Joe DEX](trader_joe_dex)
-    - [Uniswap DEX](uniswap_dex)
+    - [Types of DEXs](dex_types)
+        - [Automated Market Makers (AMMs)](dex_amms)
+            - [Uniswap DEX](uniswap_dex)
+            - [Raydium DEX](raydium_dex)
+            - [SushiSwap DEX](sushi_swap_dex)
+            - [Curve Finance DEX](curve_finance_dex)
+            - [Balancer DEX](balancer_dex)
+        - [AMM /Hybrid](dex_amm_hybrid)
+            - [Aerodrome DEX](aerodrome_dex)
+i           - [Meteora FIXME]()
+        - [Order Books](dex_order_book)
+            - [dYdX DEX](dydx_dex)
+            - [Hyperliquid FIXME]()
+# fixme:
+- [1inch Network DEX](1inch_network_dex)
+- [Kyber Network DEX](kyber_network_dex)
+- [Orca DEX](orca_dex)
+- [QuickSwap DEX](quick_swap_dex)
+- [Jupiter DEX](jupiter_dex)
+- [Trader Joe DEX](trader_joe_dex)
 
 # Ecosystems
 - [Ecosystems](ecosystems)
@@ -218,6 +225,9 @@
 # Valuation
 - [Valuation Multiples](valuation_multiples)
     - [Price/Earnings Ratios](price_earnings_ratios)
+
+# Wallets
+- [Wallets](defi_wallets)
 
 # Yield Farming
 - [Yield Farming](yield_farming)
