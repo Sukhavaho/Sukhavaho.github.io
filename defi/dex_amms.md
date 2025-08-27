@@ -9,6 +9,100 @@
     - [Saddle]
     - [Ellipsis]
 
+# Automated Market Maker (AMM) DEXs
+
+## How AMM DEXs Work
+
+Instead of using an order book of buyers and sellers, **AMM DEXs use liquidity pools** where assets are deposited by liquidity providers (LPs). Traders interact directly with these pools rather than waiting for someone to take the other side of a trade.
+
+- **Liquidity Pools**: Smart contracts that hold pairs (or more) of tokens.  
+- **Pricing Formula**: Determines the exchange rate between tokens in the pool.  
+- **LP Incentives**: LPs earn a share of transaction fees (and sometimes token rewards).  
+- **Trader Experience**: Traders get instant swaps, but face slippage depending on pool depth and trade size.  
+
+---
+
+## Subtypes of AMM Models
+
+### 1. Constant Product AMM (x * y = k)
+- **Formula**:  
+x * y = k
+
+- **Behavior**:  
+- Price moves along a **hyperbola**.  
+- As one token is bought, its price increases non-linearly.  
+- Pool **never runs out** of liquidity (infinite price asymptote).  
+- **Example**: Uniswap v2, PancakeSwap.  
+- **Value**: Always available trading, but high slippage for large trades.  
+
+---
+
+### 2. Constant Sum AMM (x + y = k)
+- **Formula**:  
+x + y = k
+- **Behavior**:  
+- Perfectly linear pricing.  
+- Allows **zero slippage** until one asset is exhausted.  
+- Pool **can run out** of liquidity in one token (problematic).  
+- **Example**: Mostly academic; not used much in practice.  
+- **Value**: Works in highly correlated pairs (but unstable if assets diverge).  
+
+---
+
+### 3. Constant Mean AMM (Weighted Product)
+- **Formula**:  
+∏ x_i^w_i = k
+where `w_i` are weights (summing to 1).
+- **Behavior**:  
+- Generalizes constant product AMM to multiple tokens.  
+- Weighted exposure allows custom index-like pools.  
+- **Example**: Balancer.  
+- **Value**: Enables pools like 80/20, 50/50, or even 98/2 for asymmetric exposure.  
+
+---
+
+### 4. Stable-Swap AMM (Curve’s Model)
+- **Formula**:  
+Combination of constant product & constant sum:  
+- Near equilibrium → behaves like **constant sum** (low slippage).  
+- At imbalances → behaves like **constant product** (keeps liquidity).  
+- **Behavior**:  
+- Optimized for stable assets (USDC/DAI, stETH/ETH).  
+- Very low slippage for like-kind assets.  
+- **Example**: Curve Finance.  
+- **Value**: Best for stablecoins or pegged assets.  
+
+---
+
+### 5. Hybrid/Custom AMMs
+- **Dynamic Curve AMMs**: Change formula based on market conditions. (Bancor v2, DODO’s PMM).  
+- **Proactive Market Maker (PMM)**: Uses external oracles to shift price curve closer to true market price. (DODO).  
+- **Concentrated Liquidity**: LPs provide liquidity in price ranges, not across infinity. (Uniswap v3).  
+
+---
+
+## Comparison Table
+
+| AMM Type              | Formula                    | Strengths                              | Weaknesses                          | Examples |
+|-----------------------|----------------------------|----------------------------------------|-------------------------------------|----------|
+| Constant Product      | x * y = k                  | Always liquid, simple, robust          | High slippage for large trades      | Uniswap v2, PancakeSwap |
+| Constant Sum          | x + y = k                  | Zero slippage (until imbalance)        | Pool can be drained, impractical    | Mostly theoretical |
+| Constant Mean         | ∏ x_i^w_i = k              | Multi-asset, weighted exposure         | Complex, may reduce depth           | Balancer |
+| Stable-Swap (Hybrid)  | Mix of product + sum       | Low slippage for stable/pegged assets  | Only works for correlated assets    | Curve, Saddle |
+| Hybrid/Dynamic        | Custom/Oracle-based        | Flexible, efficient pricing            | Higher complexity, reliance on oracles | DODO, Bancor |
+| Concentrated Liquidity| Range-based product model  | Efficient use of capital, tighter spreads | Active management required         | Uniswap v3 |
+
+---
+
+## Key Insights
+
+- **Constant Product** is the workhorse of AMMs, simple and resilient.  
+- **Constant Sum** is too fragile for real-world volatility.  
+- **Constant Mean** turns pools into index-like funds.  
+- **Stable-Swap** is the go-to for stablecoins and synthetic assets.  
+- **Dynamic/Hybrid** AMMs (PMMs, CLMMs) represent the *next generation* of AMMs—capital efficient and adaptive.  
+
+
 
 Overview
 AMM DEXs (Automated Market Maker Decentralized Exchanges) differ from other DEX types (like order-books or aggregators) by replacing traditional matching of buyers and sellers with liquidity pools and algorithmic pricing. Instead of matching individual orders, trades are executed against a pool maintained by liquidity providers (LPs), and prices are set by pre-defined mathematical formulas (e.g., x × y = k constant-product)  ￼ ￼ ￼.
