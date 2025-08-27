@@ -1,7 +1,70 @@
 # [Back to DeFi](defi)
+## See also [DEX Order Book](dex_order_book)
 
 - [Defi Llama - Top DEX Aggregators](https://defillama.com/dex-aggregators)
 - [Coin Gecko - Top DEX Aggregators](https://www.coingecko.com/en/categories/dex-aggregator)
+
+Here’s a clean breakdown—first a brief definition, then how DEX aggregators work, followed by a Markdown table listing the top ten DEX aggregators (by prominence and volume) and the blockchains they support.
+
+⸻
+
+What’s a DEX Aggregator?
+
+A Decentralized Exchange (DEX) Aggregator is a platform that sources liquidity across multiple decentralized exchanges—AMMs, order-book DEXs, market makers, etc.—and automatically routes your trade across them to get you the best price, minimized slippage, and optimized gas usage  ￼ ￼.
+
+⸻
+
+How Do They Work?
+	1.	Price discovery & smart routing
+Aggregators query numerous liquidity sources and compute the optimal split of your trade across them to minimize cost and slippage. Examples: 1inch’s Pathfinder, OpenOcean’s Meta-aggregation  ￼ ￼ ￼.
+	2.	Order splitting across venues
+Big swaps get “sliced” across multiple DEXs to avoid price impact—this is especially important for large or illiquid trades  ￼ ￼.
+	3.	Cross-chain bridging
+Many aggregators integrate bridges (like Wormhole, Stargate, Celer cBridge), enabling cross-chain swaps—so you can trade assets between EVM and non-EVM chains seamlessly  ￼.
+	4.	MEV protection and advanced orders
+Some aggregators use batch auctions, intent-based routing, or agent competitions to protect against MEV/front-running (e.g., CoW Swap, Velora). They might also offer limit orders, DCA, or gasless swaps  ￼ ￼ ￼ ￼.
+
+⸻
+
+Top 10 DEX Aggregators & Their Supported Blockchains
+
+| Rank | Aggregator     | Key Feature(s)                         | Blockchains / Ecosystems Supported                    |
+|------|----------------|-----------------------------------------|--------------------------------------------------------|
+| 1    | 1inch          | Smart routing (Pathfinder), MEV defense | Ethereum, Optimism, Arbitrum, BNB Chain, Polygon, zkSync, Base, Avalanche, Fantom, more  [oai_citation:12‡CoinGecko](https://www.coingecko.com/learn/what-are-dex-aggregators-in-crypto?utm_source=chatgpt.com) [oai_citation:13‡exchangeflow.co](https://exchangeflow.co/blog/best-dex-aggregator-platforms-of-2024?utm_source=chatgpt.com) [oai_citation:14‡weareblox.info](https://weareblox.info/dex-aggregators/?utm_source=chatgpt.com) [oai_citation:15‡OKX](https://www.okx.com/en-us/learn/top-dex-aggregators?utm_source=chatgpt.com) |
+| 2    | OpenOcean      | Meta-aggregation incl. CeFi liquidity    | 30+ chains including Ethereum, Solana, Arbitrum, Base, Optimism, zkSync, Aptos, Starknet  [oai_citation:16‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) |
+| 3    | Matcha (0x)    | Clean UI, limit orders                   | Ethereum, Polygon, Arbitrum, Optimism, Avalanche, BNB Chain, Fantom, Celo, Base, Mode, Unichain, etc.  [oai_citation:17‡Stablecoin Insider](https://www.stablecoininsider.com/best-stablecoin-aggregators/?utm_source=chatgpt.com) [oai_citation:18‡OKX](https://www.okx.com/en-us/learn/top-dex-aggregators?utm_source=chatgpt.com) |
+| 4    | Paraswap       | Price optimization, API for devs         | Ethereum, BNB Chain, Avalanche, Polygon, Fantom, zkEVM, Optimism, Arbitrum, Base  [oai_citation:19‡exchangeflow.co](https://exchangeflow.co/blog/best-dex-aggregator-platforms-of-2024?utm_source=chatgpt.com) [oai_citation:20‡weareblox.info](https://weareblox.info/dex-aggregators/?utm_source=chatgpt.com) |
+| 5    | CoW Swap       | Batch auctions, MEV protection           | Ethereum, Gnosis Chain, Base, Arbitrum  [oai_citation:21‡CoinGecko](https://www.coingecko.com/learn/what-are-dex-aggregators-in-crypto?utm_source=chatgpt.com) [oai_citation:22‡dexrank.com](https://dexrank.com/dex/aggregators/?utm_source=chatgpt.com) |
+| 6    | Jupiter        | Solana-native, very high TVL             | Solana (integrates Raydium, Orca, Meteora)  [oai_citation:23‡CoinGecko](https://www.coingecko.com/learn/what-are-dex-aggregators-in-crypto?utm_source=chatgpt.com) |
+| 7    | Cetus Protocol | Sui + Aptos focus, limit/DCA             | Sui, Aptos  [oai_citation:24‡CoinGecko](https://www.coingecko.com/learn/what-are-dex-aggregators-in-crypto?utm_source=chatgpt.com) |
+| 8    | LFJ (Trader Joe ecosystem) | Aggregator + trading ecosystem | Avalanche, Solana, Arbitrum, Ethereum  [oai_citation:25‡CoinGecko](https://www.coingecko.com/learn/what-are-dex-aggregators-in-crypto?utm_source=chatgpt.com) |
+| 9    | Rubic          | Multi-chain, user-focused                | Over 70 blockchains, sources from 200+ DEXs  [oai_citation:26‡OKX](https://www.okx.com/en-us/learn/top-dex-aggregators?utm_source=chatgpt.com) |
+| 10   | OKX DEX        | X Routing across 400 DEXs, 20+ bridges   | Multi-chain aggregator with cross-chain routing  [oai_citation:27‡OKX](https://www.okx.com/en-us/learn/top-dex-aggregators?utm_source=chatgpt.com) |
+
+
+⸻
+i# Top DEX Aggregators by TVL – 2025
+
+| TVL Rank | Aggregator     | Approx. TVL / Notes                       | Key Features                                        | Supported Blockchains / Ecosystems                  |
+|----------|----------------|--------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| 1        | 1inch          | Top TVL among aggregators                   | Smart routing (Pathfinder), MEV-resistant           | ETH, Arbitrum, Optimism, BNB, Polygon, zkSync, Base, Avalanche…  [oai_citation:3‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) [oai_citation:4‡DeFi Llama](https://defillama.com/protocols/Dex%20aggregator?utm_source=chatgpt.com) |
+| 2        | OpenOcean      | #2 by TVL                                   | ‘Ultra Mode’, bridging, meta-aggregation            | 30+ chains including Ethereum, Solana, Aptos, Starknet, zkSync, more  [oai_citation:5‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) [oai_citation:6‡DeFi Llama](https://defillama.com/protocols/Dex%20aggregator?utm_source=chatgpt.com) |
+| 3        | CoW Swap       | Ranked high in TVL                          | MEV protection, batch auctions, intent-based orders | Ethereum (plus Base, Arbitrum emerging)  [oai_citation:7‡coinglass](https://www.coinglass.com/news/417604?utm_source=chatgpt.com) [oai_citation:8‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) |
+| 4        | Velora         | In top TVL list                            | Intent-based routing, gasless intents               | ETH, Polygon, BSC, plus cross-chain via bridges  [oai_citation:9‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) |
+| 5        | 0x Aggregator / Matcha | Also high TVL ranking                | Clean UI, developer APIs, routing across sources    | ETH, Polygon, Arbitrum, Optimism, Avalanche, BNB Chain, Fantom, Celo, Base, more  [oai_citation:10‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) [oai_citation:11‡Medium](https://mint-ventures.medium.com/sifting-for-gold-identifying-long-term-investment-targets-through-market-cycles-2025-edition-466e0596e69d?utm_source=chatgpt.com) |
+| 6        | Jupiter        | ~\$2.84 B TVL – largest on Solana           | Juno engine, gasless, DCA & limit orders            | Solana  [oai_citation:12‡CoinGape](https://coingape.com/dex-aggregators/?utm_source=chatgpt.com) |
+| 7        | Rango Exchange | Listed among top aggregators                | Cross-chain (70+ chains), DEX + bridge routing      | Ethereum, Solana, Cosmos, Bitcoin, Tron, 70+ others  [oai_citation:13‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) |
+| 8        | LlamaSwap      | Top EVM-focused aggregator                  | Meta-aggregates across other aggregators            | 20+ EVM chains (ETH, Arbitrum, Optimism, Polygon, BNB, Avalanche)  [oai_citation:14‡Datawallet](https://www.datawallet.com/crypto/best-dex-aggregator?utm_source=chatgpt.com) |
+| 9        | Bebop          | Mentioned in top-10 ranking                 | Dynamic routing across multiple sources             | 11 chains  [oai_citation:15‡CoinGape](https://coingape.com/dex-aggregators/?utm_source=chatgpt.com) |
+| 10       | KyberSwap      | In top competition                          | Aggregates 60+ DEXs, dynamic routing                | 14 chains  [oai_citation:16‡CoinGape](https://coingape.com/dex-aggregators/?utm_source=chatgpt.com) [oai_citation:17‡Medium](https://mint-ventures.medium.com/sifting-for-gold-identifying-long-term-investment-targets-through-market-cycles-2025-edition-466e0596e69d?utm_source=chatgpt.com) |
+
+TL;DR
+	•	Definition: A smart platform routing swaps across multiple DEXs for best prices and low slippage.
+	•	Works by: smart routing, order splitting, cross-chain swaps, MEV defense, advanced orders.
+	•	Top 10: 1inch, OpenOcean, Matcha, Paraswap, CoW Swap, Jupiter, Cetus, LFJ, Rubic, OKX DEX.
+	•	Chains they support: spans Ethereum ecosystem, Solana, Sui, Aptos, Avalanche, BNB Chain, zk-chains, and more.
+
+Want this expanded with TVL rankings, token info, or as a CSV table? Just say the word.
 
 ## Gemini 08-26-2025:
 

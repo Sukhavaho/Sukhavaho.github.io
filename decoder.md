@@ -6,6 +6,7 @@
 - [Core Protocols](defi/core_protocols)
 - [DAOs](defi/daos)
 - [DEXs](defi/dexs)
+    - [DEX Types](defi/dex_types)
 - [Ecosystems](defi/ecosystems)
 - [Infrastructure](defi/infrastructure)
 - [Investing](defi/investing)
