@@ -46,7 +46,7 @@
 - [Core Protocols](core_protocols)
     - [Core Protocol Primitives](core_protocol_primitives)
     - [Liquidity Pools](liquidity_pools)
-        - [AMM DEXs (Uniswap, Curve)](amm_dexs)
+        - [AMM DEXs (Uniswap, Curve)](dex_amms)
         - [Lending/Borrowing (Aave, Compound, interest-rate)](lending_borrowing)
     - [Pegged / Synthetic Assets](pegged_synthetic_assets)
         - [Stablecoins (DAI, USDC, algorithmic)](stable_coins)
