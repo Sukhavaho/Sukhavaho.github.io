@@ -43,7 +43,8 @@
     - [Kraken](kraken_exchange)
 
 # Core Protocols
-- [Core Protocol Primitives](core_protocol_primitives)
+- [Core Protocols](core_protocols)
+    - [Core Protocol Primitives](core_protocol_primitives)
     - [Liquidity Pools](liquidity_pools)
         - [AMM DEXs (Uniswap, Curve)](amm_dexs)
         - [Lending/Borrowing (Aave, Compound, interest-rate)](lending_borrowing)

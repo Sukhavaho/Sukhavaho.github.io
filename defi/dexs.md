@@ -1,5 +1,7 @@
 # [Back to DeFi](defi)
 
+- [Alchemy.com DEXs](https://www.alchemy.com/dapps/best/decentralized-exchanges-dexs)
+
 - [Types of DEXs](dex_types)
     - [Aggregators](dex_aggregators)
     - [Automatic Market Makers (AMMs)](dex_amms)

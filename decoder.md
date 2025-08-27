@@ -1,5 +1,7 @@
 ## Staking Status
 - [Staking](defi/staking)
+    - [Ada Staking](ada_staking)
+    - [Solana Staking](solana_staking)
 
 ## [DeFi](defi/defi)
 - [Analyses](defi/analyst_services)
