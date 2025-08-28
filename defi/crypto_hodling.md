@@ -1,5 +1,9 @@
 # Crypto HODLing
 
+- [Gemini: Crypto Long-Term Investment Criteria](https://docs.google.com/document/d/1TwTW1PZRFONqKzcBX8op8qldxJ3K-SQYmglqDf2Q6_Y/edit?usp=sharing)
+    - [Web Link](https://docs.google.com/document/d/e/2PACX-1vTdxlQ_2e_kCOrOfTG5P8uMfoZaRIydO0KuFbs2H6s3WpXtVPDWySEaqQFL72QsSmmsAlxswmApP9sL/pub)
+- [NotebookLM: Best Tokens to HODL](https://notebooklm.google.com/notebook/4f0267e7-4ee4-4d2d-bcca-58616898942b)
+
 
 # ChatGPT 08-27-2025 Criteria:
 Here’s a solid framework of metrics you can use when evaluating a crypto project for a long-term hold (hodl):

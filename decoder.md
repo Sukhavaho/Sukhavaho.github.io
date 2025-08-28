@@ -15,6 +15,8 @@
 - [Ecosystems](defi/ecosystems)
 - [Infrastructure](defi/infrastructure)
 - [Investing](defi/investing)
+    - [HODLING](defi/crypto_hodling)
+    - [Real World Assets](defi/crypto_rwa)
 - [Protocols](defi/protocols)
 - [Smart Contracts](defi/smart_contracts)
 - [Staking Status](defi/staking)
