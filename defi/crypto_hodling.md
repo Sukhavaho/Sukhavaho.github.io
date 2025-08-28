@@ -7,8 +7,11 @@ Here’s a solid framework of metrics you can use when evaluating a crypto proje
 ⸻
 
 1. Fundamentals of the Project
+
 1.1	Whitepaper & Vision – Does it solve a real problem? Or is it hype?
+
 1.2	Use Case / Utility – Is the token necessary for the network? Or is it just a speculative wrapper?
+
 1.3	Ecosystem Adoption – Who’s building on it? Are developers, users, and businesses adopting it?
 
 ⸻
