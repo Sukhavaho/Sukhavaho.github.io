@@ -156,6 +156,7 @@ i           - [Meteora FIXME]()
 
 # Investing
 - [Investing](investing)
+    - [HODLING](crypto_hodling)
     - [ETH Investing](eth_investing)
         - [ETH Investing Strategy](eth_investing_strategy)
             - [ETH Investing Specifics](eth_investing_specifics)

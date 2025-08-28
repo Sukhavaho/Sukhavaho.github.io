@@ -21,6 +21,22 @@ Instead of using an order book of buyers and sellers, **AMM DEXs use liquidity p
 - **Trader Experience**: Traders get instant swaps, but face slippage depending on pool depth and trade size.  
 
 ---
+# AMM Subtypes Comparison
+
+| AMM Type              | Formula                    | Strengths                              | Weaknesses                          | Examples |
+|-----------------------|----------------------------|----------------------------------------|-------------------------------------|----------|
+| Constant Product      | x * y = k                  | Always liquid, simple, robust          | High slippage for large trades      | Uniswap v2, PancakeSwap |
+| Constant Sum          | x + y = k                  | Zero slippage (until imbalance)        | Pool can be drained, impractical    | Mostly theoretical |
+| Constant Mean         | ∏ x_i^w_i = k              | Multi-asset, weighted exposure         | Complex, may reduce depth           | Balancer |
+| Stable-Swap (Hybrid)  | Mix of product + sum       | Low slippage for stable/pegged assets  | Only works for correlated assets    | Curve, Saddle |
+| Hybrid/Dynamic        | Custom/Oracle-based        | Flexible, efficient pricing            | Higher complexity, reliance on oracles | DODO, Bancor |
+| Concentrated Liquidity| Range-based product model  | Efficient use of capital, tighter spreads | Active management required         | Uniswap v3 |
+
+•	Constant Product is the workhorse of AMMs, simple and resilient.
+•	Constant Sum is too fragile for real-world volatility.
+•	Constant Mean turns pools into index-like funds.
+•	Stable-Swap is the go-to for stablecoins and synthetic assets.
+•	Dynamic/Hybrid AMMs (PMMs, CLMMs) represent the next generation of AMMs—capital efficient and adaptive.
 
 ## Subtypes of AMM Models
 
