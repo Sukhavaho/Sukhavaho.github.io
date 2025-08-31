@@ -156,6 +156,9 @@ i           - [Meteora FIXME]()
 
 # Investing
 - [Investing](investing)
+        - [Anti-fragile Crypto and DeFi](crypto_anti_fragile)
+            - [Crypto Anti-fragility Google Docs](https://docs.google.com/document/d/1RUyZoP-zigaZxknhtGmTNpx_L06rDPRdd18NfoPiyd4/edit?tab=t.0)
+                - [Gemini: Crypto Crash Survival Strategy](https://docs.google.com/document/d/e/2PACX-1vRZYjmShpwfm3SsX4IRgxNl1f5PLhH_VqbKeXf2djeZeWYp5IeKmulOEJODPJakuhdciwBa_zLiGj40/pub)
         - [Gemini: Digital Assets - Individual Benefits Guide](https://docs.google.com/document/d/1O5Pum__Df2I87VX0O1bEvddFjpL6ywNnjN958WKHw6U/edit?tab=t.0)
             - [Web Page](https://docs.google.com/document/d/e/2PACX-1vTveP4fei-FJbx1krzO45M8MIUCG2zV_wSrt5J_ZAZbHC41w2RFJGjHfSXfOorzQFhaYtnSCzSdZXXH/pub)
         - [Gemini: Crypto♣urrency Price Influences Explained](https://docs.google.com/document/d/1JzMHMVSp6z5B6CaP_iu_KpF_g64WEgAS1b8EXS8yfIs/edit?tab=t.0)
