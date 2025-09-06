@@ -197,6 +197,9 @@ i           - [Meteora FIXME]()
     - [Staking](staking_protocols)
     - [Swapping](swapping_protocols)
 
+# Safety and Security
+- [Crypto Scams and Fraud Prevention](crypto_scams)
+
 # Smart Contracts
 - [Smart Contracts](smart_contracts)
     - [Programming](programming_contracts)
