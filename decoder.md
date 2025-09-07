@@ -21,6 +21,7 @@
 - [Smart Contracts](defi/smart_contracts)
 - [Staking Status](defi/staking)
 - [Study Guides](defi/defi_study)
+    - [DeFi Terminology](defi/defi_terminology)
 - [Tokens](defi/token_types_and_functions)
 - [Treasury Funds](defi/treasury_funds)
 - [Valuation](defi/valuation_multiples)
