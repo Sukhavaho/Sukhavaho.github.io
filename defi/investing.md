@@ -1,6 +1,7 @@
 # [Back to DeFi](defi)
 
-## [See also: Tokenomics](tokenomics)
+- [Tokenomics](tokenomics)
+- [Token Metrics](token_metrics)
 
 ## Conservative
 - [Crypto Anti-Fragility](crypto_anti_fragile)
