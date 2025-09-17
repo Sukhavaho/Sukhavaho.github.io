@@ -30,11 +30,6 @@
         - [Glassnode](glassnode)
         - [Nansen](nansen)
 
-# [Cardano](cardano)
-- [Cardano Blockchain](cardano_blockchain)
-- [Cardano Ecosystem](cardano_ecosystem)
-    - [Cardano Native Staking](cardano_native_staking)
-
 # Centralized Exchanges
 - [CEXs](cexs)
     - [Binance](binance_exchange)
@@ -42,7 +37,7 @@
     - [Gemini](gemini_exchange)
     - [Kraken](kraken_exchange)
 
-# Core Protocols
+# Core Protocols {Merge with DeFi Protocols below}
 - [Core Protocols](core_protocols)
     - [Core Protocol Primitives](core_protocol_primitives)
     - [Liquidity Pools](liquidity_pools)
@@ -57,6 +52,17 @@
         - [Yield aggregators (Yearn, Idle)](yield_aggregators)
 - [Cross-cutting Concerns](cross_cutting_concerns)
     - [Risk Vectors & Threat Modeling](risk_vectors_and_threat_modeling)
+
+# DeFi Protocols {Merge with Core Protocols above}
+- [Protocols](defi_protocols)
+    - [Lending](lending_protocols)
+        - [Aave](aave_protocol)
+        - [Spark](spark_protocol)
+    - [Restaking](restaking_protocols)
+        - [Eigen Cloud](eigen_cloud)
+    - [Staking](staking_protocols)
+    - [Swapping](swapping_protocols)
+
 
 # Decentralized Autonomous Organizations
 - [DAOs](daos)
@@ -188,7 +194,7 @@ i           - [Meteora FIXME]()
             - [ETH Investing Specifics](eth_investing_specifics)
     - [Layer 0 - Baseline Staking (risk floor)](baseline_staking)
 
-# Protocols
+# DeFii Protocols
 - [Protocols](defi_protocols)
     - [Lending](lending_protocols)
         - [Aave](aave_protocol)
@@ -237,6 +243,8 @@ i           - [Meteora FIXME]()
     - [Staking/Restaking](staking_restaking_tokens)
     - [Utility](utility_tokens)
     - [Yield Tokens](yield_tokens)
+
+# [Token List](token_list)
 
 # Tokenomics
 - [Tokenomics](tokenomics)
