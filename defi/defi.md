@@ -1,5 +1,7 @@
 # DeFi - Decentralized Finance
 
+- [Wallet Addresses](wallet_addresses)
+
 ## Staking Status
 - [Staking Status](staking)
     - [Ada Staking](ada_staking)
@@ -13,7 +15,7 @@
     - [DeFi Notebooks](https://docs.google.com/document/d/1w65YfyzsP04kpZsQ1nv5FzKPG0kPryDrkz5HE_BUcWs/edit?usp=sharing)
     - [Academia, Research and Conferences](academia_research_conferences)
 
-# Analyses
+# Analyses & Predictions
 - [Analyst Services](analyst_services)
     - [Blockchain Explorers](blockchain_explorers)
     - [Collaborative Analytics](collaborative_analytics)
@@ -29,6 +31,7 @@
     - [On-Chain Analytics Platforms](onchain_analytics_platforms)
         - [Glassnode](glassnode)
         - [Nansen](nansen)
+- [Price Predictions](crypto_price_predictions)
 
 # Centralized Exchanges
 - [CEXs](cexs)
@@ -57,6 +60,7 @@
 - [Protocols](defi_protocols)
     - [Lending](lending_protocols)
         - [Aave](aave_protocol)
+        - [MOrpho](morpho_protocol)
         - [Spark](spark_protocol)
     - [Restaking](restaking_protocols)
         - [Eigen Cloud](eigen_cloud)
