@@ -15,6 +15,9 @@
     - [DeFi Notebooks](https://docs.google.com/document/d/1w65YfyzsP04kpZsQ1nv5FzKPG0kPryDrkz5HE_BUcWs/edit?usp=sharing)
     - [Academia, Research and Conferences](academia_research_conferences)
 
+## Research
+- [krystal](https://defi.krystal.app)
+
 # Analyses & Predictions
 - [Analyst Services](analyst_services)
     - [Blockchain Explorers](blockchain_explorers)
@@ -87,6 +90,17 @@
     - [Synthetix DAO](synthetix_dao)
     - [The Graph DAO](the_graph_dao)
     - [Uniswap DAO](uniswap_dao)
+
+# dApps
+- [dApps](dapps)
+    - [Aave](https://app.aave.com)
+    - [Beefy](https://app.beefy.com)
+    - [Krystal](https://defi.krystal.app)
+    - [Morpho](https://app.morpho.org)
+    - [Uniswap](https://app.uniswap.org)
+    - [Yearn Finance](https://yearn.fi)
+        - [Yearn Vaults](https://yearn.fi/apps)
+
 
 # Decentralized Exchanges
 - [DEXs](dexs)
