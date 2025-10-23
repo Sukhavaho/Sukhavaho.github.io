@@ -1,6 +1,8 @@
 
 # Decoder
 
+### [Encrypt / Decrypt Notes](defi/encdec)
+
 ## Staking Status
 - [Staking](defi/staking)
     - [Ada Staking](ada_staking)
