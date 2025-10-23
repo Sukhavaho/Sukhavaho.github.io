@@ -1,9 +1,6 @@
 
 # Decoder
 
-## Fun Stuff
-- [Caving](defi/caving)
-- [Coconuts](defi/coconuts)
 
 ## Staking Status
 - [Staking](defi/staking)
@@ -99,4 +96,8 @@
 # [Music Sufi](https://www.youtube.com/playlist?list=PLk74A6Qy7X1QRjY-rCakBiKykrT7P_dH2)
 # [Music Drums](https://www.youtube.com/playlist?list=PLk74A6Qy7X1Q-F0JEYEA-23J7dZapTjly)
 # [Music Trance](https://www.youtube.com/playlist?list=PLk74A6Qy7X1T-569VdvKDEu7X9ZSzMyBT)
+
+## Fun Stuff
+- [Caving](defi/caving)
+- [Coconuts](defi/coconuts)
 

@@ -1,4 +1,4 @@
 # Blue Lagoon
-## [Back to vaults](vaults)
+## [Back to Coconuts](coconuts)
 
 
