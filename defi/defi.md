@@ -305,3 +305,7 @@ i           - [Meteora FIXME]()
 - [Interactive Ethereum DeFi Taxonomy](ethmap.html)
 
 
+# Fun stuff
+- [Coconuts](coconuts)
+- [Caving](caving)
+

@@ -1,7 +1,9 @@
 
 # Decoder
 
-### [Encrypt / Decrypt Notes](defi/encdec)
+## Fun Stuff
+- [Caving](defi/caving)
+- [Coconuts](defi/coconuts)
 
 ## Staking Status
 - [Staking](defi/staking)
