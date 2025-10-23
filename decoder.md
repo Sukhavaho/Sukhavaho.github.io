@@ -100,4 +100,5 @@
 ## Fun Stuff
 - [Caving](defi/caving)
 - [Coconuts](defi/coconuts)
+- [PINs](defi/pins)
 

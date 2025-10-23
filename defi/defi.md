@@ -308,4 +308,5 @@ i           - [Meteora FIXME]()
 # Fun stuff
 - [Coconuts](coconuts)
 - [Caving](caving)
+- [PINs](pins)
 
