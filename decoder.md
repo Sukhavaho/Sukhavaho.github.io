@@ -1,6 +1,14 @@
 
 # Decoder
 
+## Addresses
+- [Wallet Addresses](defi/wallet_addresses)
+    - [DMZ ETH dmz.kudru.eth](defi/dmzeth.md)
+    - [STASH ETH stash.kudru.eth](defi/stasheth.md)
+
+## Investing
+- [Investments](defi/investments)
+- [Investing](defi/investing)
 
 ## Staking Status
 - [Staking](defi/staking)
@@ -28,7 +36,7 @@
     - [Real World Assets](defi/crypto_rwa)
 - [Protocols](defi/protocols)
 - [Research](defi/research)
-    - [DeFi Llama](defi/defi_llama)
+    - [DeFi Llama](defi/defillama)
     - [Krystal](defi/krystal)
 - [Smart Contracts](defi/smart_contracts)
 - [Staking Status](defi/staking)

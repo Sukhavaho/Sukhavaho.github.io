@@ -1,7 +1,9 @@
-# [Back to DeFi](defi)
+# Investing
+## [Back to DeFi](defi)
 
 - [Tokenomics](tokenomics)
 - [Token Metrics](token_metrics)
+- [Defi Llama](defillama)
 
 ## Conservative Investing
 - [Crypto Anti-Fragility](crypto_anti_fragile)

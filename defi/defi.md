@@ -1,6 +1,13 @@
 # DeFi - Decentralized Finance
 
+## Addresses
 - [Wallet Addresses](wallet_addresses)
+    - [DMZ ETH dmz.kudru.eth](dmzeth.md)
+    - [STASH ETH stash.kudru.eth](stasheth.md)
+
+## Investing
+- [Investments](investments)
+- [Investing](investing)
 
 ## Staking Status
 - [Staking Status](staking)
