@@ -11,3 +11,7 @@
 - [Yearn Finance](https://yearn.fi)
     - [Yearn Vaults](https://yearn.fi/apps)
 
+### Please incorporate me:
+- [ChatGPT Suggestions](dapps_chatgpt)
+- [Gemini Suggestions](dapps_gemini)
+
