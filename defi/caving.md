@@ -2,7 +2,7 @@
 
 ### Cave
 ```
-echo $1 | openssl enc -aes-256-cbc -a -salt -pbkdf2 -iter 10000000 > <file>
+echo $1 | openssl enc -aes-256-cbc -a -salt -pbkdf2 -iter 10000000 -out $2
 ```
 
 ### Uncave
