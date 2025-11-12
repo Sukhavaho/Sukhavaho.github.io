@@ -1,0 +1,32 @@
+# BIP 39 Word List
+
+- [GitHub Master - bitcoin/bips/bip-0039/english.txt](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+
+- [BIP 39 'a'](bip39_a)
+- [BIP 39 'b'](bip39_b)
+- [BIP 39 'c'](bip39_c)
+- [BIP 39 'd'](bip39_d)
+- [BIP 39 'e'](bip39_e)
+- [BIP 39 'f'](bip39_f)
+- [BIP 39 'g'](bip39_g)
+- [BIP 39 'h'](bip39_h)
+- [BIP 39 'i'](bip39_i)
+- [BIP 39 'j'](bip39_j)
+- [BIP 39 'k'](bip39_k)
+- [BIP 39 'l'](bip39_l)
+- [BIP 39 'm'](bip39_m)
+- [BIP 39 'n'](bip39_n)
+- [BIP 39 'o'](bip39_o)
+- [BIP 39 'p'](bip39_p)
+- [BIP 39 'q'](bip39_q)
+- [BIP 39 'r'](bip39_r)
+- [BIP 39 's'](bip39_s)
+- [BIP 39 't'](bip39_t)
+- [BIP 39 'u'](bip39_u)
+- [BIP 39 'w'](bip39_v)
+- [BIP 39 'x'](bip39_w)
+- [BIP 39 'y'](bip39_x)
+- [BIP 39 'z'](bip39_y)
+- [BIP 39 'z'](bip39_z)
+
+

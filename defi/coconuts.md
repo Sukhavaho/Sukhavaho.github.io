@@ -1,12 +1,14 @@
 # Coconuts
 
-- [Tequila Sunrise](tequilasunrise)
 - [Singapore Sling](singaporesling)
+- [Tequila Sunrise](tequilasunrise)
+- [Electric Lemonade](electriclemonade)
+- [Blueberry Bliss](blueberrybliss)
+- [Aperol Spritz](aperolspritz)
 
-# Sanctums
+# NOT IMPLEMENTED YET
 
 - [Blue Lagoon](bluelagoon)
-- [Electric Lemonade](electriclemonade)
 
 ## [Back to defi](defi)
 
