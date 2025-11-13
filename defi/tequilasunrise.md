@@ -1,11 +1,16 @@
 # Tequila Sunrise
 
-U2FsdGVkX19EIj7u37lOqlvdvVPYhqTyg3kbcCBAoRk56y5FYycmGYMcH6W57lhV
-83AvYddruaGgyBEl6qjCUWKhQqSaqM8NZcHxAA7S1PLesx7lanZOLUK3sxM58LRp
-rx37/YfQqR4pj93T9G515A/prw37DV/SKe30IrUjLnvjWZy6dcgMkc3/VWAjbxAR
-2cZ6YjFHBG8PSYBCnW6IsaTx8dCSzjcXsEhktRfi6rbGtflivBbqvi1hiIHWE64n
-U6yIXu3YRq4FVvgPHdsqOGOhcJnv5wj1hnFTFdGXmZX9Tu52aRvThEUCnd4ojklu
-/H326lB8zOckmjz7DfYTSQ==
+- Wearable warm wallet for spending, stable cons, etc.
+- Stashes/stages stuff in Aperol Spritz (Cold)
+    - Aperol Spritz only communicates with Tequila Sunrise
+- Ingress/Egress from/to CEXs
+- Trampoline for Singapore Sling DeFi when needed
+- 
+- Does not currently use passphrase.
 
-## [Back to Coconuts](coconuts)
+- [Seed](tequilasunrise.uuen)
+- [Passphrase](tequilasunrise25.uuen)
+
+- Seed and Passphrase are encrypted with some medium meandering passphrase
+
 

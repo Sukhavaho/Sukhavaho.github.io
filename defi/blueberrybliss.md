@@ -1,11 +1,14 @@
 # Blueberry Bliss
 
-U2FsdGVkX18isFX8DGGBfX0uMnfgnelpIcTiqKLRCuOfszhC+oUpr6oGHQD1esEZ
-vzgh2ecqX+xt5AppFEiHCLKMf8qpFfvCpIjOtlJkRjlg1ubIGRkUBUIdVLks30tD
-Z5as+bZT8hDWIf0uRmfXzR/CxIJ2yQvZfJgUZ4H3+fXoiaOpL28oJ+Locic/QuWN
-pIDk8fElzn5x88yf/oq5NOXKHe7PfJQ6dScavVRWwuUcMqEEoE2gMlPElz4FKwO8
-hUwxQCNyvQHnBMa97gjxLBZBVY/yb769Ch9kjlNxoz6Z9d1qW4xlpoJzaOV6MutY
-Beg04EX4J9ynP2C6sEdZoA==
+- Long-term BTC HODL - receive only (Cold/Frigid)
+- Always Offline after creation.
+- Can receive from anywhere.
+- Native SegWit.
+- Eventually move to [Blue Lagoon](bluelagoon.md) when it's ready.
 
-## [Back to Coconuts](coconuts)
+- [Seed](blueberrybliss.uuen)
+- [Passphrase](blueberrybliss25.uuen)
+
+- Seed and Passphrase are encrypted with some medium meandering passphrase
+
 

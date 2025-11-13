@@ -1,11 +1,14 @@
 # Electric Lemonade
 
-U2FsdGVkX18Hctr7fazTvUQcSlP1Z5s4gJaw+S4WSSTKmiXHz7JLMVeRFpN6lKuX
-UXIIGlSRfOB4hKiE7BCJP+es1UTXfa5IEXwmObXbUCEdfsYMA74MCgDL/bERwgts
-gd8r7s8aS+ow/U9obQMPZhU/7MRVN71D1Tm65TD4xYRrRv0nBPC51GtdLPSDEbm9
-ibX0XmhTzqtvh8OvSKVCXKaQl69fv4DOmaOQJBlC+GL05MaV37r97N6vMu3nvJGR
-RlrTPX5oWGfEyypBNgXU4OcPiori0OwuDv1TRWlsiwl0grZdZwMv5Za5400p5g4r
+- Long-term ETH HODL 
+- Rreceive only (Cold/Frigid)
+- Can receive from anywhere
+- Always Offline after creation.
+- Eventually move to [Blue Lagoon](bluelagoon.md) when it's ready.
 
-## [Back to Coconuts](coconuts)
+- [Seed](electriclemonade.uuen)
+- [Passphrase](electriclemonade25.uuen)
+
+- Seed and Passphrase are encrypted with some medium meandering passphrase
 
 

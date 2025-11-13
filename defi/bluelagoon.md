@@ -1,5 +1,9 @@
-# Blue Lagoon
-## [Back to Coconuts](coconuts)
-U2FsdGVkX19eCKLLxxEhMtp9ZDblS3YrLc4xjLNTr0W/cnYmGripaL/RieL0XWfR
+# Blue Lagoon {PLACE HOLDER}
 
+- Intended to be supersecure and quantum ready 
+
+- [Seed](bluelagoon.uuen)
+- [Passphrase](bluelagoon25.uuen)
+
+- Seed and Passphrase will be encrypted with some medium meandering passphrase
 

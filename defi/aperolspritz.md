@@ -1,10 +1,9 @@
 # Aperol Spritz
 
-U2FsdGVkX19nIn/OXYkFXe8Lvx0moMh03IAp2MqgSUmXgTB9Z7LgsZU42RB3BQ6l
-efhfYlptO3S5B8ZKKfaedOYBFj57zhqLP2FJW8vJAR2wMwllmQpv3nT/i4iJ1a4g
-AoUOK79z10VB2GDxmEXpqWbxBMNFOorGWzfRvjmvSY9MtGrcHdg7kRX31BAinbwT
-QS+aZdSwblIz9pomohldAN290hPUMgarLh6s5ZEfAWCCsu3pufBJWhCnqgunYzPz
-buV9KQWF/YLKg6a14ZYGoZp664lbhhO8FDQuhLO0f0EHGfEhoEhNuWTeIpgWSsPv
+Cold companion to Tequila Sunrise: (only these two communicate)
 
-## [Back to Coconuts](coconuts)
+- [Seed](aperolspritz.uuen)
+- [Passphrase](aperolspritz25.uuen)
+
+- Seed and Passphrase are encrypted with some  medium meandering passphrase
 
