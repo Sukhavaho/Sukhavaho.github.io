@@ -1,5 +1,16 @@
 # Caving - Cocktail Recipes
 
+
+### Cave - look in private Coconuts repository in my primary GitHub account
+
+- [cave.sh](cave.sh)
+
+### Uncave - look for private Coconuts repository in my primary GitHub account
+
+- [uncave.sh](uncave.sh)
+
+# PREVIOUS - retired this in favor of the above
+
 ### Cave
 ```
 echo $1 | openssl enc -aes-256-cbc -a -salt -pbkdf2 -iter 10000000 -out $2
