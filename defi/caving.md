@@ -1,6 +1,23 @@
 # Caving - Cocktail Recipes
 
 
+## Added AGE. Summary:
+
+Do this in my private repository coconuts after `brew install age`:
+
+### Encrypt
+
+`echo <string> | ./cave.sh > file.txt.cave`
+`echo <string> | age -p -a > file.txt.age`
+
+
+### Decrypt:
+
+`echo <binfile.cave> | ./uncave.sh > file.txt`
+
+`age -d <binfile.age`
+
+
 ### Cave - look in private Coconuts repository in my primary GitHub account
 
 #### Download here:

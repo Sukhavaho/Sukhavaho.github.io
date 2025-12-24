@@ -1,5 +1,8 @@
 # Cocktails that I fancy with [recipes](defi/caving)
 
+
+# OBSOLETE - NEED TO UPDATE:
+
 - [Singapore Sling](defi/singaporesling.md)
 - [Tequila Sunrise](defi/tequilasunrise.md)
 - [Aperol Spritz](defi/aperolspritz.md)
