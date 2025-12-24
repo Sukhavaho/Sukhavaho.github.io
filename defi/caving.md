@@ -8,6 +8,7 @@ Do this in my private repository coconuts after `brew install age`:
 ### Encrypt
 
 `echo <string> | ./cave.sh > file.txt.cave`
+
 `echo <string> | age -p -a > file.txt.age`
 
 
@@ -21,6 +22,7 @@ Do this in my private repository coconuts after `brew install age`:
 ### Cave - look in private Coconuts repository in my primary GitHub account
 
 #### Download here:
+
 - [cave.sh](cave.sh)
 
 #### Code:
