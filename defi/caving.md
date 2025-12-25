@@ -14,7 +14,7 @@ Do this in my private repository coconuts after `brew install age`:
 
 ### Decrypt:
 
-`echo <binfile.cave> | ./uncave.sh > file.txt`
+`cat <binfile.cave> | ./uncave.sh > file.txt`
 
 `age -d <binfile.age`
 
