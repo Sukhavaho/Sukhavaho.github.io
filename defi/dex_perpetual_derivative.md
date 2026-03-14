@@ -1,2 +1,0 @@
-# Perpetual / Derivatives DEXs
-
