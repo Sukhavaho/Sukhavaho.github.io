@@ -1,2 +1,0 @@
-# Buddhist Sects
-
