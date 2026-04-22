@@ -1,5 +1,6 @@
 # Electric Lemonade
 
+- A stealth wallet used for long-term ETH HODLing
 - Long-term ETH HODL 
 - Rreceive only (Cold/Frigid)
 - Can receive from anywhere
